@@ -1,449 +1,580 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "http://www.bay12games.com/dwarves/dev_now.rss",
       "articles": [
         {
-          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-8-css/",
-          "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6272,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Chapter 8: CSS"
-        },
-        {
-          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
-          "publishedOn": "2021-05-03T14:35:07.000Z",
-          "wordCount": 908,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Swipey Image Grids"
-        },
-        {
-          "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/webpagetest-api/",
-          "publishedOn": "2021-05-03T14:34:53.000Z",
-          "wordCount": 8905,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "WebPageTest API"
-        },
-        {
-          "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
-          "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 749,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Safari 14.1 Adds Support for Flexbox Gaps"
-        },
-        {
-          "description": "Jim Nielsen quoting Eric Bailey:\nHe references an example on Twitter where someone noted you can use the &#60;details&#62; element to “create a native HTML accordion,” to which someone responded: “this works without Bootstrap? &#x1f92f;”\nWhat’s the problem here? From \n&#8230;\nThe post Web Languages as Compile Targets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
-          "publishedOn": "2021-04-30T18:05:37.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Web Languages as Compile Targets"
-        },
-        {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
-        },
-        {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1992,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
-        },
-        {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1669,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
-        },
-        {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
-        },
-        {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1091,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
-        },
-        {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1922,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
-        },
-        {
-          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
-          "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1560,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Create Actions for Selected Text With the Selection API"
-        },
-        {
-          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/shared-element-transitions/",
-          "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1121,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Shared Element Transitions"
-        },
-        {
-          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
-          "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5544,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "A Complete Guide to Custom Properties"
-        },
-        {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the First Time"
+          "description": "(Toady One) And here's \r\n\t\r\n\t\ta report.\r\n\t\r\n  Also \r\n\t\r\n\t\ta future of the fortress reply.",
+          "link": "http://www.bay12games.com/dwarves/index.html#2021-05-01",
+          "publishedOn": "2021-05-01T19:01:00.000Z",
+          "wordCount": 13257,
+          "sourceHref": "http://www.bay12games.com/dwarves/dev_now.rss",
+          "sourceTitle": "Dwarf Fortress Development Log",
+          "title": "05/01/2021"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
-      "articles": [
-        {
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "The Evolution Of Jamstack"
-        },
-        {
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5289,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2136,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
-        },
-        {
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
-        },
-        {
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
-        },
-        {
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Making GraphQL Work In WordPress"
-        },
-        {
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
-        },
-        {
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
-        },
-        {
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Get Web Design Clients Fast (Part 2)"
-        },
-        {
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
-        },
-        {
-          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
-          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Overflow Issues In CSS"
-        },
-        {
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
-        },
-        {
-          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2965,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To HTML Email"
-        },
-        {
-          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
-          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5988,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
-        },
-        {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1858,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
-        },
-        {
-          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
-          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-          "publishedOn": "2021-04-07T11:00:00.000Z",
-          "wordCount": 4049,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
-        },
-        {
-          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
-          "publishedOn": "2021-04-06T16:10:00.000Z",
-          "wordCount": 4083,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Don’t Lose Your Head: Evaluating Headless"
-        },
-        {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2018,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
-        }
-      ]
+      "href": "https://pseudoartist.tumblr.com/rss",
+      "articles": []
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "href": "http://onethingwell.org/rss",
+      "articles": []
+    },
+    {
+      "href": "http://www.jwz.org/blog/feed/",
       "articles": [
         {
-          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
-          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
-          "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2495,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Fetch Data in React from a GraphQL API"
+          "description": "We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, \"we'll probably fill up the big tank from the street on our own schedule sometime within a six week window\". Anything other than that, and they could hardly be bothered. We often…",
+          "link": "https://www.dnalounge.com/backstage/log/2021/04/30.html",
+          "publishedOn": "2021-05-01T05:34:43.000Z",
+          "wordCount": 658,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "DNA Lounge: Wherein we've got gas."
         },
         {
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1158,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+          "description": "\"Burning Man would like to thank you for your generous donation of $2,500 to reserve the right to buy a ticket to an event that is not happening this year.\" Burning Man's ticket sales have always been both rapacious and stultifyingly, comically incompetent, but I see that this year they have finally learned a few things and gone full TicketMaster. Slow clap.",
+          "link": "https://www.jwz.org/blog/2021/04/lol-burners/",
+          "publishedOn": "2021-04-27T20:00:39.000Z",
+          "wordCount": 983,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "LOL Burners."
         },
         {
-          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
-          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
-          "publishedOn": "2021-05-03T16:13:55.000Z",
-          "wordCount": 1398,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
+          "description": "So, you just wanna stream 24/7, and occasionally switch input on a timer? How hard could that be? For your amusement, read the comments in the ~2000 line sh script that keeps DNA Lounge running. Here be monsters. When I say that almost all of my coding stems from either self defense or spite, this is what I mean.",
+          "link": "https://www.jwz.org/blog/2021/04/look-upon-my-obs-hell-and-despair/",
+          "publishedOn": "2021-04-26T17:35:21.000Z",
+          "wordCount": 1834,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Look upon my OBS hell and despair"
         },
         {
-          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
-          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
-          "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 890,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
+          "description": "Surprisingly, Apple AirTag has built-in anti-stalking tech: Unfortunately like the discreet Tile product they're modeled on, AirTags sound like a gift from Apple to stalkers and people who'd use them to track the location and movements of unsuspecting victims. For the one in four U.S. women experiencing domestic violence the chime of a found AirTag would be the sound of a nightmare becoming reality. [...] Essentially, an item in iPhone's Safety Alerts section will let you know when a creep slips an AirTag i…",
+          "link": "https://www.jwz.org/blog/2021/04/today-in-mark-of-the-beast-news/",
+          "publishedOn": "2021-04-24T19:14:35.000Z",
+          "wordCount": 1325,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Today in Mark of the Beast news:"
         },
         {
-          "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
-          "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
-          "publishedOn": "2021-04-30T18:37:37.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
+          "description": "CBP Releases Video From Predator Drone Deployed Over George Floyd Protests: Shortly after the Minneapolis police killing [ murder -- fixed that for you ] of George Floyd last year, Customs and Border Protection (CBP) flew a Predator drone over the city in an effort to surveil the ongoing protests against police brutality occurring there. The drone, which took off from Grand Forks Air Force Base in North Dakota and flew in a holding pattern over protests for approximately 90 minutes, recorded video from a he…",
+          "link": "https://www.jwz.org/blog/2021/04/predator-drone-ambience/",
+          "publishedOn": "2021-04-23T21:01:50.000Z",
+          "wordCount": 993,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Predator Drone Ambience"
         },
         {
-          "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
-          "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1429,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
+          "description": "Dear Lazyweb, is there a way of determining whether Apple Pay and Google Pay are actually in use? As opposed to, \"it is theoretically possible for the user to sign up for this service.\" I would like my checkout page to default to them if the customer actualy uses them, but not otherwise. Defaulting to an Apple/Google Pay button when it's not set up is a dark pattern that they are using to try and enlist me into advertising their service to non-users. Apple Pay: This snippet gives a \"yes\" response if you are…",
+          "link": "https://www.jwz.org/blog/2021/04/apple-pay-and-google-pay/",
+          "publishedOn": "2021-04-23T17:49:15.000Z",
+          "wordCount": 1384,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Apple Pay and Google Pay"
         },
         {
-          "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
-          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
-          "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 496,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Docker by Building a Node / Express App"
+          "description": "Ingrid Burrington: I've lately been trying an exercise where, when reading anything by or about tech companies, I replace uses of the word \"infrastructure\" with \"means of production.\" For example, from Facebook's engineering web page: \"Our data centers are the cornerstones of the global means of production that brings Facebook apps and services to you every day.\" The sentence pretty much still makes sense -- without data centers, Facebook can't reach people, and therefore can't make money. It also works pre…",
+          "link": "https://www.jwz.org/blog/2021/04/means-of-production/",
+          "publishedOn": "2021-04-23T16:00:28.000Z",
+          "wordCount": 959,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Means of Production"
         },
         {
-          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-04-28T19:33:57.000Z",
+          "description": "Governor Newsom says that on June 15th California will be doing The Full Florida. Obviously a lot can happen in 54 days, and for all we know the whole state might shut down again instead, but since there's a chance that we're going to be allowed to operate at a normal capacity by mid-June, we have to start making plans... and by plans I mean \"spending money\". As such, we're looking for a Bar Manager! Is that you? Here's our job posting. Bar Manager Job Description: The historic DNA Lounge is currently seeki…",
+          "link": "https://www.dnalounge.com/backstage/log/2021/04/22.html",
+          "publishedOn": "2021-04-22T17:15:21.000Z",
+          "wordCount": 746,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "DNA Lounge: Wherein we're... hiring?"
+        },
+        {
+          "description": "I just hope they stop cutting away more and more of my tree. Come on guys, the birds are the only thing I have left.",
+          "link": "https://www.jwz.org/blog/2021/04/soma-nature-walk-bandit-intimidator-15xp/",
+          "publishedOn": "2021-04-22T16:04:06.000Z",
+          "wordCount": 783,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "SOMA Nature Walk: Bandit Intimidator 15XP"
+        },
+        {
+          "description": "An immense coal mine in Xinjiang flooded and shut down over the weekend of April 17-18. The blackout halted no less than one-third of all of Bitcoin's global computing power. The Xinjiang accident highlights that Bitcoin is a creature of fossil fuels -- principally coal, the dirtiest of them all. Overall, de Vries reckons that fossil fuels power around 70% of all Bitcoin mines worldwide, and that coal provides the vast majority of that share. \"We now know for sure that one-third of all production runs on pu…",
+          "link": "https://www.jwz.org/blog/2021/04/coal-mining-bitcoin-mining-same-thing/",
+          "publishedOn": "2021-04-21T23:23:44.000Z",
+          "wordCount": 885,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Coal mining. Bitcoin mining. Same thing."
+        },
+        {
+          "description": "It used to be that dragging from the URL bar of one window to a textarea in another would do the only sane thing: paste the URL as text. Now it opens a Finder window displaying a folder called \"WebKitDropDestination-8FCUXgO8\" with a .webloc file in it. Convenient. This started a couple of months ago. Is there some way I can make it stop doing this? Dragging from an HREF still works properly, it seems to be only the URL bar that has developed this new craziness. Generally, I'm impressed with how poorly macOS…",
+          "link": "https://www.jwz.org/blog/2021/04/stupid-safari/",
+          "publishedOn": "2021-04-21T22:53:36.000Z",
+          "wordCount": 1140,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Stupid Safari"
+        },
+        {
+          "description": "This is glorious. I once had a jar of ferrofluid in Lavaite form-factor, but it was difficult to get it to do anything interesting, and completely static without hands-on.",
+          "link": "https://www.jwz.org/blog/2021/04/ferrofluid-speaker/",
+          "publishedOn": "2021-04-21T22:50:34.000Z",
+          "wordCount": 567,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Ferrofluid Speaker"
+        },
+        {
+          "description": "AMNH: &#x1F40B; We've received many questions about the blue whale's bandage: It's real. It was installed yesterday by Trenton from the Exhibition department! It's 6 feet long &#38; 2 feet wide. Come see it for yourself! Register for a vaccine today. (The whale room is a vaccination site, in case you missed that part.)",
+          "link": "https://www.jwz.org/blog/2021/04/blue-whale-bandage/",
+          "publishedOn": "2021-04-21T15:17:43.000Z",
+          "wordCount": 652,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Blue Whale Bandage"
+        },
+        {
+          "description": "kobateck:",
+          "link": "https://www.jwz.org/blog/2021/04/oil-factory-what-a-compactness/",
+          "publishedOn": "2021-04-19T16:36:30.000Z",
+          "wordCount": 804,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "\"Oil factory what a compactness\""
+        },
+        {
+          "description": "San Franciscans still live in 1906 earthquake shacks: There were once 5,610 refugee shacks in 11 San Francisco parks, assembled with lightning speed in the months after the April 18, 1906, earthquake and fire. Today, there are fewer than 50 identified in the city. But those that remain are a symbol of civic vision, built in a bureaucracy-free utopia that included a partnership among city officials, labor unions and the U.S. Army. They're also a symbol of post-crisis rebirth, designed to house the displaced …",
+          "link": "https://www.jwz.org/blog/2021/04/earthquake-shacks/",
+          "publishedOn": "2021-04-18T18:39:55.000Z",
+          "wordCount": 865,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Earthquake shacks"
+        },
+        {
+          "description": "Foone:",
+          "link": "https://www.jwz.org/blog/2021/04/black-screen-screen-saver-0-99-may-require-additional-fees/",
+          "publishedOn": "2021-04-18T18:05:51.000Z",
+          "wordCount": 752,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Black screen screen saver, $0.99. May require additional fees. ★★★★☆."
+        },
+        {
+          "description": "50-ish words you can use to show that you care without incriminating yourself. artificial general intelligence (phrase) - A hypothetical AI god that's probably far off in the future but also maybe imminent. Can be really good or really bad whichever is more rhetorically useful. Obviously you're building the good one. Which is expensive. Therefore, you need more money. See long-term risks. compliance (n) - The act of following the law. Anything that isn't illegal goes. for good (ph) - As in \"AI for good\" or …",
+          "link": "https://www.jwz.org/blog/2021/04/big-techs-guide-to-talking-about-ai-ethics/",
+          "publishedOn": "2021-04-16T22:26:48.000Z",
+          "wordCount": 916,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Big Tech's guide to talking about AI ethics"
+        },
+        {
+          "description": "It's got a good beat and it's easy to dance to",
+          "link": "https://www.jwz.org/blog/2021/04/its-got-a-good-beat-and-its-easy-to-dance-to/",
+          "publishedOn": "2021-04-16T21:53:12.000Z",
+          "wordCount": 842,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "It's got a good beat and it's easy to dance to"
+        },
+        {
+          "description": "A Field Guide To San Francisco's Iconic Street Signs: There have been roughly three eras of street signage in the city by the bay: the pre-automobile era, which featured a wildly inconsistent and much-complained-about mess through the 1800s and early 1900s. Then came a few decades of good standard blue porcelain signs (1920s to late 1940s). And finally the signature black-on-white that appeared in the 1940s and is still with us today. [...] Fortunately, we live among history today&#x200A; -- &#x200A;not sin…",
+          "link": "https://www.jwz.org/blog/2021/04/fog-city-gothic/",
+          "publishedOn": "2021-04-16T17:52:39.000Z",
+          "wordCount": 937,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Fog City Gothic"
+        },
+        {
+          "description": "A fine is a price. Carbon offsets are a voluntary penance mediated by an organization that promises to promote good elsewhere to make up for climate vice, much like indulgences paid to the church before the reformation. Essentially it's paying for the right to do wrong.",
+          "link": "https://www.jwz.org/blog/2021/04/murder-offsets/",
+          "publishedOn": "2021-04-13T17:50:32.000Z",
           "wordCount": 1289,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Murder Offsets"
         },
         {
-          "description": "The MERN stack is a popular way to make a full stack web app. MERN stands for MongoDB, Express, React, and Node.js. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the MERN stack by building a restaurant review web",
-          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
-          "publishedOn": "2021-04-28T14:05:56.000Z",
-          "wordCount": 384,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Create a MERN Stack App with a Serverless Backend"
+          "description": "Bill Gates now owns almost 242,000 acres of the continguous USA. This map shows that area as a rectangle that can be dragged. Lots of articles on this are full of \"4D chess\" speculations about climate change blah blah, but the real reason for this seems to be very simple: \"just to collect rent.\" Most of us imagine farmers tilling the soil that has been in their families for generations. But many farmers lease at least some of the land they cultivate. According to Bruce Sherrick, a professor of agricultural …",
+          "link": "https://www.jwz.org/blog/2021/04/bill-gates-land-ownership/",
+          "publishedOn": "2021-04-13T17:39:10.000Z",
+          "wordCount": 1120,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Bill Gates' Land Ownership"
         },
         {
-          "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
-          "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
-          "publishedOn": "2021-04-27T22:53:14.000Z",
-          "wordCount": 2010,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
+          "description": "Cursed Computer Iceberg",
+          "link": "https://www.jwz.org/blog/2021/04/cursed-computer-iceberg/",
+          "publishedOn": "2021-04-11T20:17:13.000Z",
+          "wordCount": 1677,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Cursed Computer Iceberg"
+        },
+        {
+          "description": "Emacs: Difference between revisions. Revision as of 05:07, 14 February 2021: Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[GNU]]/[[Linux]] ]] Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[Linux]] ]]",
+          "link": "https://www.jwz.org/blog/2021/04/awwwww-shit/",
+          "publishedOn": "2021-04-11T17:00:43.000Z",
+          "wordCount": 837,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Awwwww shit"
+        },
+        {
+          "description": "Every time we post to our Facebook account, it immediately gets 2-5 one-word comments from random Indian dudes with locked accounts that are years old and have thousands of friends: \"How are you doing, fellow San Francisco nightclub enthusiasts?\" This has increased dramatically in the last couple of months, so I guess we've attracted the attention of the Eye of Sauron of some botfarm. To report these spam comments is a tiny, totally tractable number of clicks. Barely any clicks at all. Hardly worth mentioni…",
+          "link": "https://www.jwz.org/blog/2021/04/engagement/",
+          "publishedOn": "2021-04-11T16:20:25.000Z",
+          "wordCount": 1030,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "ENGAGEMENT!"
+        },
+        {
+          "description": "Dear Lazyweb, there seem to be two different Google Pay APIs. Which should I use? PaymentsClient seems to describe a Google-specific API, and PaymentRequest seems to describe a W3C API that Google plugs in to. Also, does Google Pay work in desktop macOS Chrome, if you do not own a physical Android device? What about in desktop Safari?",
+          "link": "https://www.jwz.org/blog/2021/04/google-pay/",
+          "publishedOn": "2021-04-09T20:41:54.000Z",
+          "wordCount": 777,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Google Pay"
+        },
+        {
+          "description": "The new \"Kung Fu\" series is predictably terrible, though I am contractually obliged to watch anything set in San Francisco, especially if there is chop-socky involved. But the most distracting part is SF's alternate geography. First of all, her family owns a small, faltering dim sum restaurant in Chinatown (in a building that is 25'x100' at best, but still only has like 6 tables in it), but instead of living in Chinatown, they have a huge house in the chilly, pine-tree suburb of... Cow Hollow? Our hero take…",
+          "link": "https://www.jwz.org/blog/2021/04/kung-fu/",
+          "publishedOn": "2021-04-09T19:58:41.000Z",
+          "wordCount": 2241,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Kung Fu"
+        },
+        {
+          "description": "I arrived at the club on Wednesday afternoon and one of our bike racks was missing -- torn out of the concrete at the root -- and two others were bent and wobbly. Also, our parklet was dented and had been moved a few inches. Some neighbors tell us that around 2AM, a bus took out a traffic light, a bolted-down city trash can, the bike racks, and then crashed into our parklet. I haven't heard any more details about that yet. Then this afternoon, Devon rolled up the garage door to discover a bunch of paramedic…",
+          "link": "https://www.dnalounge.com/backstage/log/2021/04/08.html",
+          "publishedOn": "2021-04-09T02:40:59.000Z",
+          "wordCount": 893,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "DNA Lounge: Wherein the last few days have been another long month."
+        },
+        {
+          "description": "I got Apple Pay working on the DNA Lounge store. Hooray. There's one weirdness that I'm not sure how to solve, though. Clicking \"buy\" used to work like this: do some AJAX to turn the CC into a token, when that comes back, actually submit the form; on the back end, do some database junk; do some payment junk; and finally emit HTML saying \"thank you\" or \"error\". With Apple Pay it's basically the same but with different JS junk -- however, said JS junk seems to want me to invoke its \"completePayment\" method af…",
+          "link": "https://www.jwz.org/blog/2021/04/apple-pay-2/",
+          "publishedOn": "2021-04-08T08:02:25.000Z",
+          "wordCount": 1561,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Apple Pay"
+        },
+        {
+          "description": "Not only is Signal a sketchy-as-fuck privacy-violating social network wearing \"security\" cosplay, now it also has a climate-incinerating Ponzi scheme bundled in. Cool, cool. Stephen Diehl: Do they think we don't see through the thinly veiled pump and dump scheme that's proposed? It's an old scam with a new face. Allegedly the controlling entity prints 250 million units of some artificially scarce trashcoin called MOB (coincidence?) of which the issuing organization controls 85% of the supply. This token the…",
+          "link": "https://www.jwz.org/blog/2021/04/signal-hops-on-the-dunning-krugerrand-bandwagon/",
+          "publishedOn": "2021-04-07T19:22:13.000Z",
+          "wordCount": 5374,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Signal hops on the Dunning-Krugerrand bandwagon"
+        },
+        {
+          "description": "Dear Lazyweb, I'm back to trying to integrate Apple Pay into the DNA Lounge store. How does \"onvalidatemerchant\" work with authorize.net? I got an Apple CSR from authorize.net and submitted that CSR to Apple. That gave me my merchant ID, \"merchant.com.dnalounge.store\", and the CER file \"apple_pay.cer\". All of the example code says that my backend needs to retrieve a merchantSession from Apple by connecting to the \"validationURL\" passed to \"onvalidatemerchant\" by using CURLOPT_SSLCERT and/or CURLOPT_SSLKEY, …",
+          "link": "https://www.jwz.org/blog/2021/04/apple-pay/",
+          "publishedOn": "2021-04-05T20:29:04.000Z",
+          "wordCount": 1785,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "Apple Pay"
+        }
+      ]
+    },
+    {
+      "href": "http://chneukirchen.org/trivium/index.atom",
+      "articles": [
+        {
+          "description": "OpenBSD 6.9 has been released, nice.\nExploiting Undocumented Hardware Blocks in the LPC55S69,\nby Laura Abbott from Oxide Computer.\nThese days even ROM chips get CVEs&#8230;\nHunting down the stuck BGP routes, by Ben Cox.\nWhat3Words &#8211; The Algorithm, explained by Cybergibbons.\nInheritance was invented as a performance hack, says Spencer Baugh.\nThe Hawaiian Earring Group (2013), by Jeremy Brazas.\ntmp.0ut Volume 1, a zine.\nEin Zeitstempel von ERFU, beschrieben von Andreas Kelz.\nBASIC 10-liners for Atari.",
+          "link": "https://leahneukirchen.org/trivium/2021-05-02",
+          "publishedOn": "2021-05-02T19:24:40.000Z",
+          "wordCount": 91,
+          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
+          "sourceTitle": "Trivium",
+          "title": "02may2021"
+        },
+        {
+          "description": "Breaking GitHub Private Pages for $35k, good writeup by Robert Chen.\nModern CI is Too Complex and Misdirected, good ideas by Gregory Szorc.\nFour Bytes of Power: exploiting CVE-2021-26708 in the Linux kernel,\nby Alexander Popov.\nThe Cursed Computer Iceberg Meme\nThe Unix Magic poster\nShift right by half a bit with regexps&#8230;",
+          "link": "https://leahneukirchen.org/trivium/2021-04-19",
+          "publishedOn": "2021-04-19T15:00:41.000Z",
+          "wordCount": 69,
+          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
+          "sourceTitle": "Trivium",
+          "title": "19apr2021"
+        },
+        {
+          "description": "Plan 9 from Bell Labs in Cyberspace!, Nokia transfers copyright of Plan 9\nto the new Plan 9 Foundation, which is making the OS code publicly\navailable under a suitable open-source software license (MIT).\nA safer default for navigation: HTTPS, Chrome now uses https:\nby default.  Finally!\nReal-time Robotics Control in the Lean Language,\nby Joe Hendrix, Andrew Kent, and Ethan Lew.\n&#8220;To assess Lean&#8217;s suitability as a programming language for real\nsystems, we set out to write a Lean implementation of …",
+          "link": "https://leahneukirchen.org/trivium/2021-04-04",
+          "publishedOn": "2021-04-04T18:59:22.000Z",
+          "wordCount": 195,
+          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
+          "sourceTitle": "Trivium",
+          "title": "04apr2021"
+        }
+      ]
+    },
+    {
+      "href": "http://lambda-the-ultimate.org/rss.xml",
+      "articles": [
+        {
+          "description": "You can read more about it at the Google Open Source blog post, Logica: organizing your data queries, making them universally reusable and fun.\nThey advocate for datalog-like language they developed internally at Google.\nThe reason?\nGood programming is about creating small, understandable, reusable pieces of logic that can be tested, given names, and organized into packages which can later be used to construct more useful pieces of logic. SQL resists this workflow. Although you can encapsulate certain repea…",
+          "link": "http://lambda-the-ultimate.org/google-announces-logica",
+          "publishedOn": "2021-04-29T14:50:27.000Z",
+          "wordCount": 415,
+          "sourceHref": "http://lambda-the-ultimate.org/rss.xml",
+          "sourceTitle": "Lambda the Ultimate - Programming Languages Weblog",
+          "title": "Google announces Logica: organizing your data queries, making them universally reusable and fun"
+        },
+        {
+          "description": "From the Coq-club:\n\nThe Coq development team acknowledges the recent discussions (started on the Coq-Club mailing list) around Coq's logo and name.\nWe wish to thank everyone that participated in these discussions. Testimonies from people who experienced harassment or awkward situations, reports about students (notably women) who ended up not learning / using Coq because of its name, were all very important so that the community could fully recognize the impact of the current name and its slang meaning in En…",
+          "link": "http://lambda-the-ultimate.org/node/5629",
+          "publishedOn": "2021-04-08T13:47:05.000Z",
+          "wordCount": 514,
+          "sourceHref": "http://lambda-the-ultimate.org/rss.xml",
+          "sourceTitle": "Lambda the Ultimate - Programming Languages Weblog",
+          "title": "Coq will be renamed"
+        }
+      ]
+    },
+    {
+      "href": "http://gfzoda.tumblr.com/rss",
+      "articles": [
+        {
+          "description": "mikkeneko:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nI feel like there’s needs to be, like, handbook for authors who post on Ao3 for effective metatext. \nBy metatext I mean like tagging, summary, and authors notes (especially initial authors notes at the beginning of a fic). The means by which we communicate to our readers what they’re getting into. \nBecause we kind of all have to learn it by osmosis and there are conventio…",
+          "link": "https://gfzoda.tumblr.com/post/650173038490435584",
+          "publishedOn": "2021-05-03T14:48:48.000Z",
+          "wordCount": 508,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "mikkeneko:icannotreadcursive:icannotreadcursive:icannotreadcursive:icannotreadcursive:icannotreadcurs..."
+        },
+        {
+          "description": "specialagentartemis:\n\nthesernotthedroidsurlooking4:\n\nspecialagentartemis:\n\n“whatever the fuck these two characters had going on” is a vastly underrated character dynamic\n\nyou guys are making it too shippy. no I need the ones in which you genuinely can’t tell what on God’s green earth is going on with these two people—like you can’t call it friendship, or rivalry, or attraction, or anything proper it’s just simply &lt;em&gt;weird&lt;/em&gt;\n\nsee. this person Gets It",
+          "link": "https://gfzoda.tumblr.com/post/650166922538893312",
+          "publishedOn": "2021-05-03T13:11:35.000Z",
+          "wordCount": 317,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "specialagentartemis:thesernotthedroidsurlooking4:specialagentartemis:\n\n\n“whatever the fuck these two..."
+        },
+        {
+          "description": "nudityandnerdery:\n\nvacuously-true:\n\nHey tumblr friends, in case I haven&rsquo;t told you lately, I have no idea what the FUCK half of you are on about and I WISH I didn&rsquo;t know what the rest of you are on about. Great work. Keep it up.",
+          "link": "https://gfzoda.tumblr.com/post/650166829517570048",
+          "publishedOn": "2021-05-03T13:10:06.000Z",
+          "wordCount": 303,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "nudityandnerdery:vacuously-true:Hey tumblr friends, in case I haven&rsquo;t told you lately, I have..."
+        },
+        {
+          "description": "teathattast:",
+          "link": "https://gfzoda.tumblr.com/post/650162308961714176",
+          "publishedOn": "2021-05-03T11:58:15.000Z",
+          "wordCount": 256,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "teathattast:"
+        },
+        {
+          "description": "hitmewithcute:\n\nBaby bear catching snowflakes",
+          "link": "https://gfzoda.tumblr.com/post/649988786385813504",
+          "publishedOn": "2021-05-01T14:00:11.000Z",
+          "wordCount": 246,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "hitmewithcute:Baby bear catching snowflakes"
+        },
+        {
+          "description": "acastersource:\n\nJames Acaster: Cold Lasagne Hate Myself 1999\n\nBonus:",
+          "link": "https://gfzoda.tumblr.com/post/649988699245903872",
+          "publishedOn": "2021-05-01T13:58:48.000Z",
+          "wordCount": 265,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "acastersource:James Acaster: Cold Lasagne Hate Myself 1999Bonus:"
+        },
+        {
+          "description": "rusty-pulley-stars:\n\ni finally finished my quiz! how gullible are you?",
+          "link": "https://gfzoda.tumblr.com/post/649589577570451456",
+          "publishedOn": "2021-04-27T04:14:56.000Z",
+          "wordCount": 288,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "rusty-pulley-stars:i finally finished my quiz! how gullible are you?"
+        },
+        {
+          "description": "jaubaius:\nAdorable round birds",
+          "link": "https://gfzoda.tumblr.com/post/649546754960801793",
+          "publishedOn": "2021-04-26T16:54:17.000Z",
+          "wordCount": 253,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "jaubaius:\n\nAdorable round birds"
+        },
+        {
+          "description": "",
+          "link": "https://gfzoda.tumblr.com/post/649543821387038720",
+          "publishedOn": "2021-04-26T16:07:39.000Z",
+          "wordCount": 248,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "Photo"
+        },
+        {
+          "description": "princessithaca:\nazbukivedii:\n\nstevhoa:\nirtenyev:\n\nwhen w. h. auden said “evil is unspectacular and always human” and ursula k. leguin said “this is the great treason of the artist: a refusal to admit the banality of evil and the terrible boredom of pain”\n\nwhen toni morrison said “i just think goodness is more interesting. evil is constant. you can think of different ways to murder people, but you can do that at age five. but you have to be an adult to consciously, deliberately be good – and that’s complicat…",
+          "link": "https://gfzoda.tumblr.com/post/649273715109036032",
+          "publishedOn": "2021-04-23T16:34:26.000Z",
+          "wordCount": 498,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "princessithaca:\n\nazbukivedii:stevhoa:\n\nirtenyev:when w. h. auden said “evil is unspectacular and..."
+        },
+        {
+          "description": "doggosource:\nstrech",
+          "link": "https://gfzoda.tumblr.com/post/649030707651411968",
+          "publishedOn": "2021-04-21T00:11:56.000Z",
+          "wordCount": 250,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "doggosource:\n\nstrech"
+        },
+        {
+          "description": "multi-couleur:\n\nMOB PSYCHO 100\nGIF ANIMATION COLLECTION",
+          "link": "https://gfzoda.tumblr.com/post/649030701428228096",
+          "publishedOn": "2021-04-21T00:11:50.000Z",
+          "wordCount": 259,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "multi-couleur:MOB PSYCHO 100GIF ANIMATION COLLECTION"
+        },
+        {
+          "description": "dragonknightcamilla:\n\nhappy 4/20",
+          "link": "https://gfzoda.tumblr.com/post/649030686988173313",
+          "publishedOn": "2021-04-21T00:11:36.000Z",
+          "wordCount": 258,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "dragonknightcamilla:\nhappy 4/20"
+        },
+        {
+          "description": "oct2pus:\n\nshubbabang:\nshubbabang:\nhappy 420 and day i reserve a spot in hell\nits that time again folks\n@shubbabang \n\n\n(Source)",
+          "link": "https://gfzoda.tumblr.com/post/649030525199220736",
+          "publishedOn": "2021-04-21T00:09:02.000Z",
+          "wordCount": 245,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "oct2pus:\nshubbabang:\n\nshubbabang:\n\nhappy 420 and day i reserve a..."
+        },
+        {
+          "description": "",
+          "link": "https://gfzoda.tumblr.com/post/648845810763759616",
+          "publishedOn": "2021-04-18T23:13:04.000Z",
+          "wordCount": 260,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "Photo"
+        },
+        {
+          "description": "little-miss-vendettaa:\n\nLmfao anyway! :) \nSince this got some traffic- credits to @ itsmalikel on Tiktok :D",
+          "link": "https://gfzoda.tumblr.com/post/648837003917574144",
+          "publishedOn": "2021-04-18T20:53:06.000Z",
+          "wordCount": 268,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "little-miss-vendettaa:Lmfao anyway! :) Since this got some traffic- credits to @ itsmalikel on..."
+        },
+        {
+          "description": "steveholt:\n\nsteveholt:\n\nCollecting images of women musicians with weapons&hellip;..\n\n\n\n\nSo true besties &lt;3\n\nHOW COULD I FORGET DOLLY&hellip;&hellip;",
+          "link": "https://gfzoda.tumblr.com/post/648807015579353088",
+          "publishedOn": "2021-04-18T12:56:27.000Z",
+          "wordCount": 259,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "steveholt:steveholt:Collecting images of women musicians with weapons&hellip;..So true besties..."
+        },
+        {
+          "description": "libraford:\n\nIf you haven&rsquo;t watched &ldquo;Heaven&rsquo;s Design Team,&rdquo; I 100% recommend for a good 10% brain show. Concept is that God outsourced animal design to a think-tank comprised of the other planets and each episode is like it was written by an angry biologist.",
+          "link": "https://gfzoda.tumblr.com/post/648806897423630336",
+          "publishedOn": "2021-04-18T12:54:34.000Z",
+          "wordCount": 298,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "libraford:If you haven&rsquo;t watched &ldquo;Heaven&rsquo;s Design Team,&rdquo; I 100% recommend..."
+        },
+        {
+          "description": "the-sunflower-spaceman:\n\nthe-sunflower-spaceman:\n\nthe-sunflower-spaceman:\n\nhedonism is good actually rich people just suck at it\n\ni think not only do we have a moral obligation to preserve human life but also a moral obligation to maximize the pleasure of others and ourselves (provided it doesn’t hurt anyone) \n\npeople don’t just deserve to eat food, they deserve to eat good food that tastes good without worrying about nutritional content \npeople don’t just deserve clothes, they deserve nice clothes that are…",
+          "link": "https://gfzoda.tumblr.com/post/648806836469891072",
+          "publishedOn": "2021-04-18T12:53:36.000Z",
+          "wordCount": 383,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "the-sunflower-spaceman:the-sunflower-spaceman:the-sunflower-spaceman:hedonism is good actually rich..."
+        },
+        {
+          "description": "tfw-adhd:",
+          "link": "https://gfzoda.tumblr.com/post/648806745503858688",
+          "publishedOn": "2021-04-18T12:52:09.000Z",
+          "wordCount": 243,
+          "sourceHref": "http://gfzoda.tumblr.com/rss",
+          "sourceTitle": "*incoherent yelling about worms*",
+          "title": "tfw-adhd:"
+        }
+      ]
+    },
+    {
+      "href": "http://curiosityconfusion.tumblr.com/rss",
+      "articles": [
+        {
+          "description": "thatwitchrevan:\n\nI personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love you&rsquo; and more 'you are worth the work it takes to love you.&rsquo; I KNOW I&rsquo;m a burden sometimes. that isn&rsquo;t such a terrible thing! humans are strong. we can carry burdens. and it is work for me to be there for my friends, but it&rsquo;s work I&rsquo;m willing to do. \nwe need to acknowledge this because pretending love isn&rsquo;t work will never make people like me feel less guilty for acc…",
+          "link": "https://curiosityconfusion.tumblr.com/post/648578031317909504",
+          "publishedOn": "2021-04-16T00:16:50.000Z",
+          "wordCount": 438,
+          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
+          "sourceTitle": "CuriosityConfusion",
+          "title": "thatwitchrevan:I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love..."
+        },
+        {
+          "description": "exigencelost:\n\nexigencelost:\nI just think we shouldn’t hurt people on purpose and every single day I grapple with how upsetting and angering that idea is to people. \n\n\n\nPeople will say things like “if you think we shouldn’t hurt people on purpose that’s disrespectful and deliberately callous toward those who have been hurt on purpose already” and I have yet to find language to express the magnitude of how much that’s not true. We shouldn’t hurt people on purpose. Punishment is nothing. Cruelty is just cruel…",
+          "link": "https://curiosityconfusion.tumblr.com/post/648505139613794304",
+          "publishedOn": "2021-04-15T04:58:15.000Z",
+          "wordCount": 359,
+          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
+          "sourceTitle": "CuriosityConfusion",
+          "title": "exigencelost:exigencelost:\n\nI just think we shouldn’t hurt people on purpose and every single day I..."
+        },
+        {
+          "description": "headspace-hotel:\n\nOne of the most fundamental human qualities seems to be the need to decorate things. \nThe other day I was driving through some neighborhoods and was noticing that every single house and yard was adorned with wreaths, flags, statues, flowers, pretty stones, little lanterns, little windmills, wind chimes, and so on…\nWe decorate our laptops with stickers, our desks with knickknacks, our walls with pictures, ourselves with clothing and jewelry \nWe just have to make everything in our lives pret…",
+          "link": "https://curiosityconfusion.tumblr.com/post/648395619957948416",
+          "publishedOn": "2021-04-13T23:57:29.000Z",
+          "wordCount": 331,
+          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
+          "sourceTitle": "CuriosityConfusion",
+          "title": "headspace-hotel:\nOne of the most fundamental human qualities seems to be the need to decorate..."
+        },
+        {
+          "description": "that-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\ni made a comic in google slides for some ungodly reason\n\n\nthe long-awaited sequel, Untitled #2\n\n\nUntitled #3 explores the formulaic entertainment mass-produced by the pawns of capitalism. Or I just wanted to say a…",
+          "link": "https://curiosityconfusion.tumblr.com/post/648320880772005888",
+          "publishedOn": "2021-04-13T04:09:32.000Z",
+          "wordCount": 584,
+          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
+          "sourceTitle": "CuriosityConfusion",
+          "title": "Untitled."
         }
       ]
     }
