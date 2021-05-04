@@ -1,5 +1,10 @@
 cacheUrl: https://mulias.github.io/really-simple-syndication/cache.json
 sources:
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://www.bay12games.com/dwarves/dev_now.rss
+  - href: https://pseudoartist.tumblr.com/rss
+  - href: http://onethingwell.org/rss
+  - href: http://www.jwz.org/blog/feed/
+  - href: http://chneukirchen.org/trivium/index.atom
+  - href: http://lambda-the-ultimate.org/rss.xml
+  - href: http://gfzoda.tumblr.com/rss
+  - href: http://curiosityconfusion.tumblr.com/rss
