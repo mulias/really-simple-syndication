@@ -26,6 +26,15 @@
       "href": "http://www.jwz.org/blog/feed/",
       "articles": [
         {
+          "description": "\"Son, what's your dirt doing in Boss's hole?\" Sometimes we get soft spots in the floor, typically where liquids pool and can't evaporate. The floor underneath the photo booth got particularly destroyed, after only a couple of years of the booth sitting there. And the floor under the ATM was also pretty bad. When that happens, sometimes we can just use this stuff called \"Rot Stop\" which is a two part epoxy that is runny enough to penetrate pretty deeply into the wood and makes mushy, soft wood as hard as a r…",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/04.html",
+          "publishedOn": "2021-05-04T16:45:28.000Z",
+          "wordCount": 437,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "DNA Lounge: Wherein we pour some floor"
+        },
+        {
           "description": "We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, \"we'll probably fill up the big tank from the street on our own schedule sometime within a six week window\". Anything other than that, and they could hardly be bothered. We often…",
           "link": "https://www.dnalounge.com/backstage/log/2021/04/30.html",
           "publishedOn": "2021-05-01T05:34:43.000Z",
@@ -317,15 +326,6 @@
           "sourceHref": "http://chneukirchen.org/trivium/index.atom",
           "sourceTitle": "Trivium",
           "title": "19apr2021"
-        },
-        {
-          "description": "Plan 9 from Bell Labs in Cyberspace!, Nokia transfers copyright of Plan 9\nto the new Plan 9 Foundation, which is making the OS code publicly\navailable under a suitable open-source software license (MIT).\nA safer default for navigation: HTTPS, Chrome now uses https:\nby default.  Finally!\nReal-time Robotics Control in the Lean Language,\nby Joe Hendrix, Andrew Kent, and Ethan Lew.\n&#8220;To assess Lean&#8217;s suitability as a programming language for real\nsystems, we set out to write a Lean implementation of …",
-          "link": "https://leahneukirchen.org/trivium/2021-04-04",
-          "publishedOn": "2021-04-04T18:59:22.000Z",
-          "wordCount": 195,
-          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
-          "sourceTitle": "Trivium",
-          "title": "04apr2021"
         }
       ]
     },
@@ -579,5 +579,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
