@@ -294,15 +294,6 @@
           "sourceHref": "http://www.jwz.org/blog/feed/",
           "sourceTitle": "jwz",
           "title": "Signal hops on the Dunning-Krugerrand bandwagon"
-        },
-        {
-          "description": "Dear Lazyweb, I'm back to trying to integrate Apple Pay into the DNA Lounge store. How does \"onvalidatemerchant\" work with authorize.net? I got an Apple CSR from authorize.net and submitted that CSR to Apple. That gave me my merchant ID, \"merchant.com.dnalounge.store\", and the CER file \"apple_pay.cer\". All of the example code says that my backend needs to retrieve a merchantSession from Apple by connecting to the \"validationURL\" passed to \"onvalidatemerchant\" by using CURLOPT_SSLCERT and/or CURLOPT_SSLKEY, …",
-          "link": "https://www.jwz.org/blog/2021/04/apple-pay/",
-          "publishedOn": "2021-04-05T20:29:04.000Z",
-          "wordCount": 1785,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
-          "title": "Apple Pay"
         }
       ]
     },
@@ -579,5 +570,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
