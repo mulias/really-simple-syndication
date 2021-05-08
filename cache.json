@@ -276,24 +276,6 @@
           "sourceHref": "http://www.jwz.org/blog/feed/",
           "sourceTitle": "jwz",
           "title": "DNA Lounge: Wherein the last few days have been another long month."
-        },
-        {
-          "description": "I got Apple Pay working on the DNA Lounge store. Hooray. There's one weirdness that I'm not sure how to solve, though. Clicking \"buy\" used to work like this: do some AJAX to turn the CC into a token, when that comes back, actually submit the form; on the back end, do some database junk; do some payment junk; and finally emit HTML saying \"thank you\" or \"error\". With Apple Pay it's basically the same but with different JS junk -- however, said JS junk seems to want me to invoke its \"completePayment\" method af…",
-          "link": "https://www.jwz.org/blog/2021/04/apple-pay-2/",
-          "publishedOn": "2021-04-08T08:02:25.000Z",
-          "wordCount": 1561,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
-          "title": "Apple Pay"
-        },
-        {
-          "description": "Not only is Signal a sketchy-as-fuck privacy-violating social network wearing \"security\" cosplay, now it also has a climate-incinerating Ponzi scheme bundled in. Cool, cool. Stephen Diehl: Do they think we don't see through the thinly veiled pump and dump scheme that's proposed? It's an old scam with a new face. Allegedly the controlling entity prints 250 million units of some artificially scarce trashcoin called MOB (coincidence?) of which the issuing organization controls 85% of the supply. This token the…",
-          "link": "https://www.jwz.org/blog/2021/04/signal-hops-on-the-dunning-krugerrand-bandwagon/",
-          "publishedOn": "2021-04-07T19:22:13.000Z",
-          "wordCount": 5374,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
-          "title": "Signal hops on the Dunning-Krugerrand bandwagon"
         }
       ]
     },
