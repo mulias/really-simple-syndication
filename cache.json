@@ -26,6 +26,17 @@
       "href": "http://www.jwz.org/blog/feed/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjnp",
+          "author": "jwz",
+          "description": "We finally got our fan controllers replaced. And there was much rejoicing. We have two gigantic fans on the roof, and about a decade ago the controllers that let us operate them at variable speed broke. Those controllers were many thousands of dollars each, so we just tore them out and replaced them with a pair of on-off switches, meaning the fans were either on at 100%, or off. This kind of sucked (see what I did there). Well it turns out, the price of the controllers has dropped a lot since then, so we fi…",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/08.html",
+          "publishedOn": "2021-05-08T17:49:58.000Z",
+          "wordCount": 671,
+          "sourceHref": "http://www.jwz.org/blog/feed/",
+          "sourceTitle": "jwz",
+          "title": "DNA Lounge: Wherein we break a mighty wind."
+        },
+        {
           "description": "\"Son, what's your dirt doing in Boss's hole?\" Sometimes we get soft spots in the floor, typically where liquids pool and can't evaporate. The floor underneath the photo booth got particularly destroyed, after only a couple of years of the booth sitting there. And the floor under the ATM was also pretty bad. When that happens, sometimes we can just use this stuff called \"Rot Stop\" which is a two part epoxy that is runny enough to penetrate pretty deeply into the wood and makes mushy, soft wood as hard as a r…",
           "link": "https://www.dnalounge.com/backstage/log/2021/05/04.html",
           "publishedOn": "2021-05-04T16:45:28.000Z",
@@ -267,15 +278,6 @@
           "sourceHref": "http://www.jwz.org/blog/feed/",
           "sourceTitle": "jwz",
           "title": "Kung Fu"
-        },
-        {
-          "description": "I arrived at the club on Wednesday afternoon and one of our bike racks was missing -- torn out of the concrete at the root -- and two others were bent and wobbly. Also, our parklet was dented and had been moved a few inches. Some neighbors tell us that around 2AM, a bus took out a traffic light, a bolted-down city trash can, the bike racks, and then crashed into our parklet. I haven't heard any more details about that yet. Then this afternoon, Devon rolled up the garage door to discover a bunch of paramedic…",
-          "link": "https://www.dnalounge.com/backstage/log/2021/04/08.html",
-          "publishedOn": "2021-04-09T02:40:59.000Z",
-          "wordCount": 893,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
-          "title": "DNA Lounge: Wherein the last few days have been another long month."
         }
       ]
     },
@@ -313,15 +315,6 @@
           "sourceHref": "http://lambda-the-ultimate.org/rss.xml",
           "sourceTitle": "Lambda the Ultimate - Programming Languages Weblog",
           "title": "Google announces Logica: organizing your data queries, making them universally reusable and fun"
-        },
-        {
-          "description": "From the Coq-club:\n\nThe Coq development team acknowledges the recent discussions (started on the Coq-Club mailing list) around Coq's logo and name.\nWe wish to thank everyone that participated in these discussions. Testimonies from people who experienced harassment or awkward situations, reports about students (notably women) who ended up not learning / using Coq because of its name, were all very important so that the community could fully recognize the impact of the current name and its slang meaning in En…",
-          "link": "http://lambda-the-ultimate.org/node/5629",
-          "publishedOn": "2021-04-08T13:47:05.000Z",
-          "wordCount": 514,
-          "sourceHref": "http://lambda-the-ultimate.org/rss.xml",
-          "sourceTitle": "Lambda the Ultimate - Programming Languages Weblog",
-          "title": "Coq will be renamed"
         }
       ]
     },
@@ -561,5 +554,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
