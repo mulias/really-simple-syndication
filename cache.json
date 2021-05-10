@@ -260,30 +260,23 @@
           "sourceHref": "http://www.jwz.org/blog/feed/",
           "sourceTitle": "jwz",
           "title": "ENGAGEMENT!"
-        },
-        {
-          "description": "Dear Lazyweb, there seem to be two different Google Pay APIs. Which should I use? PaymentsClient seems to describe a Google-specific API, and PaymentRequest seems to describe a W3C API that Google plugs in to. Also, does Google Pay work in desktop macOS Chrome, if you do not own a physical Android device? What about in desktop Safari?",
-          "link": "https://www.jwz.org/blog/2021/04/google-pay/",
-          "publishedOn": "2021-04-09T20:41:54.000Z",
-          "wordCount": 777,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
-          "title": "Google Pay"
-        },
-        {
-          "description": "The new \"Kung Fu\" series is predictably terrible, though I am contractually obliged to watch anything set in San Francisco, especially if there is chop-socky involved. But the most distracting part is SF's alternate geography. First of all, her family owns a small, faltering dim sum restaurant in Chinatown (in a building that is 25'x100' at best, but still only has like 6 tables in it), but instead of living in Chinatown, they have a huge house in the chilly, pine-tree suburb of... Cow Hollow? Our hero take…",
-          "link": "https://www.jwz.org/blog/2021/04/kung-fu/",
-          "publishedOn": "2021-04-09T19:58:41.000Z",
-          "wordCount": 2241,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
-          "title": "Kung Fu"
         }
       ]
     },
     {
       "href": "http://chneukirchen.org/trivium/index.atom",
       "articles": [
+        {
+          "id": "https://leahneukirchen.org/trivium/2021-05-09",
+          "author": "Trivium",
+          "description": "21Nails: Multiple vulnerabilities in Exim, a Qualys Security Advisory.\nProving 50-Year-Old Sorting Networks Optimal: Part 1,\nby Jannis Harder.\nWhy I&#8217;ll never create modules for VCV Rack anymore&#8212;and what I&#8217;ll make instead, by Aria Salvatrice.\nContractibility as uniqueness (YouTube), talk by Emily Riehl\nat the Topos Institute.\nObjective-S is an architecture-oriented programming language based\nloosely on Smalltalk and Objective-C.\nzx, useful functions for scripting in Node.js.\nLearn shogi by …",
+          "link": "https://leahneukirchen.org/trivium/2021-05-09",
+          "publishedOn": "2021-05-09T18:51:36.000Z",
+          "wordCount": 84,
+          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
+          "sourceTitle": "Trivium",
+          "title": "09may2021"
+        },
         {
           "description": "OpenBSD 6.9 has been released, nice.\nExploiting Undocumented Hardware Blocks in the LPC55S69,\nby Laura Abbott from Oxide Computer.\nThese days even ROM chips get CVEs&#8230;\nHunting down the stuck BGP routes, by Ben Cox.\nWhat3Words &#8211; The Algorithm, explained by Cybergibbons.\nInheritance was invented as a performance hack, says Spencer Baugh.\nThe Hawaiian Earring Group (2013), by Jeremy Brazas.\ntmp.0ut Volume 1, a zine.\nEin Zeitstempel von ERFU, beschrieben von Andreas Kelz.\nBASIC 10-liners for Atari.",
           "link": "https://leahneukirchen.org/trivium/2021-05-02",

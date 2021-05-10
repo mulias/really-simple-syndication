@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T00:14:01.855Z</updated>
+    <updated>2021-05-10T00:12:27.398Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[09may2021]]></title>
+        <id>https://leahneukirchen.org/trivium/2021-05-09</id>
+        <link href="https://leahneukirchen.org/trivium/2021-05-09"/>
+        <updated>2021-05-09T18:51:36.000Z</updated>
+        <summary type="html"><![CDATA[21Nails: Multiple vulnerabilities in Exim, a Qualys Security Advisory.
+Proving 50-Year-Old Sorting Networks Optimal: Part 1,
+by Jannis Harder.
+Why I&#8217;ll never create modules for VCV Rack anymore&#8212;and what I&#8217;ll make instead, by Aria Salvatrice.
+Contractibility as uniqueness (YouTube), talk by Emily Riehl
+at the Topos Institute.
+Objective-S is an architecture-oriented programming language based
+loosely on Smalltalk and Objective-C.
+zx, useful functions for scripting in Node.js.
+Learn shogi by …]]></summary>
+        <author>
+            <name>Trivium</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we break a mighty wind.]]></title>
         <id>https://jwz.org/b/yjnp</id>
@@ -757,26 +776,6 @@ Untitled #3 explores the formulaic entertainment mass-produced by the pawns of c
         <link href="https://www.jwz.org/blog/2021/04/engagement/"/>
         <updated>2021-04-11T16:20:25.000Z</updated>
         <summary type="html"><![CDATA[Every time we post to our Facebook account, it immediately gets 2-5 one-word comments from random Indian dudes with locked accounts that are years old and have thousands of friends: "How are you doing, fellow San Francisco nightclub enthusiasts?" This has increased dramatically in the last couple of months, so I guess we've attracted the attention of the Eye of Sauron of some botfarm. To report these spam comments is a tiny, totally tractable number of clicks. Barely any clicks at all. Hardly worth mentioni…]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pay]]></title>
-        <id>https://www.jwz.org/blog/2021/04/google-pay/</id>
-        <link href="https://www.jwz.org/blog/2021/04/google-pay/"/>
-        <updated>2021-04-09T20:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Dear Lazyweb, there seem to be two different Google Pay APIs. Which should I use? PaymentsClient seems to describe a Google-specific API, and PaymentRequest seems to describe a W3C API that Google plugs in to. Also, does Google Pay work in desktop macOS Chrome, if you do not own a physical Android device? What about in desktop Safari?]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kung Fu]]></title>
-        <id>https://www.jwz.org/blog/2021/04/kung-fu/</id>
-        <link href="https://www.jwz.org/blog/2021/04/kung-fu/"/>
-        <updated>2021-04-09T19:58:41.000Z</updated>
-        <summary type="html"><![CDATA[The new "Kung Fu" series is predictably terrible, though I am contractually obliged to watch anything set in San Francisco, especially if there is chop-socky involved. But the most distracting part is SF's alternate geography. First of all, her family owns a small, faltering dim sum restaurant in Chinatown (in a building that is 25'x100' at best, but still only has like 6 tables in it), but instead of living in Chinatown, they have a huge house in the chilly, pine-tree suburb of... Cow Hollow? Our hero take…]]></summary>
         <author>
             <name>jwz</name>
         </author>
