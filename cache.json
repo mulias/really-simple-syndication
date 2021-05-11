@@ -1,551 +1,563 @@
 {
   "sources": [
     {
-      "href": "http://www.bay12games.com/dwarves/dev_now.rss",
+      "title": "Dwarf Fortress Development Log",
+      "feedUrl": "http://www.bay12games.com/dwarves/dev_now.rss",
+      "siteUrl": "http://www.bay12games.com/dwarves/index.html",
       "articles": [
         {
+          "id": "http://www.bay12games.com/dwarves/index.html#2021-05-01",
+          "author": null,
           "description": "(Toady One) And here's \r\n\t\r\n\t\ta report.\r\n\t\r\n  Also \r\n\t\r\n\t\ta future of the fortress reply.",
           "link": "http://www.bay12games.com/dwarves/index.html#2021-05-01",
           "publishedOn": "2021-05-01T19:01:00.000Z",
           "wordCount": 13257,
-          "sourceHref": "http://www.bay12games.com/dwarves/dev_now.rss",
-          "sourceTitle": "Dwarf Fortress Development Log",
           "title": "05/01/2021"
         }
       ]
     },
     {
-      "href": "https://pseudoartist.tumblr.com/rss",
+      "title": "fite me",
+      "feedUrl": "https://pseudoartist.tumblr.com/rss",
+      "siteUrl": "https://pseudoartist.tumblr.com/",
       "articles": []
     },
     {
-      "href": "http://onethingwell.org/rss",
+      "title": "One Thing Well",
+      "feedUrl": "http://onethingwell.org/rss",
+      "siteUrl": "https://onethingwell.org/",
       "articles": []
     },
     {
-      "href": "http://www.jwz.org/blog/feed/",
+      "title": "jwz",
+      "feedUrl": "http://www.jwz.org/blog/feed/",
+      "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
+        {
+          "id": "https://jwz.org/b/yjns",
+          "author": "jwz",
+          "description": "Thanks to three generous donors who prefer to remain anonymous, we have a new dance floor! And it looks fantastic. The existing floor was a festive pancake of concrete, then a quarter inch of neoprene for springiness, then two layers of plywood. After two decades of dancing, the old plywood was extremly torn up, meaning the surface was rough and splotchy and paint would no longer stick to it well. It was a finished surface but a soft wood, probably pine or Douglas fir. After repairing some soft spots in the…",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/09.html",
+          "publishedOn": "2021-05-10T03:36:05.000Z",
+          "wordCount": 654,
+          "title": "DNA Lounge: Wherein we have a new dance floor!"
+        },
         {
           "id": "https://jwz.org/b/yjnp",
           "author": "jwz",
           "description": "We finally got our fan controllers replaced. And there was much rejoicing. We have two gigantic fans on the roof, and about a decade ago the controllers that let us operate them at variable speed broke. Those controllers were many thousands of dollars each, so we just tore them out and replaced them with a pair of on-off switches, meaning the fans were either on at 100%, or off. This kind of sucked (see what I did there). Well it turns out, the price of the controllers has dropped a lot since then, so we fi…",
           "link": "https://www.dnalounge.com/backstage/log/2021/05/08.html",
           "publishedOn": "2021-05-08T17:49:58.000Z",
-          "wordCount": 671,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1393,
           "title": "DNA Lounge: Wherein we break a mighty wind."
         },
         {
+          "id": "https://jwz.org/b/yjno",
+          "author": "jwz",
           "description": "\"Son, what's your dirt doing in Boss's hole?\" Sometimes we get soft spots in the floor, typically where liquids pool and can't evaporate. The floor underneath the photo booth got particularly destroyed, after only a couple of years of the booth sitting there. And the floor under the ATM was also pretty bad. When that happens, sometimes we can just use this stuff called \"Rot Stop\" which is a two part epoxy that is runny enough to penetrate pretty deeply into the wood and makes mushy, soft wood as hard as a r…",
           "link": "https://www.dnalounge.com/backstage/log/2021/05/04.html",
           "publishedOn": "2021-05-04T16:45:28.000Z",
-          "wordCount": 437,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 446,
           "title": "DNA Lounge: Wherein we pour some floor"
         },
         {
+          "id": "https://jwz.org/b/yjnn",
+          "author": "jwz",
           "description": "We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, \"we'll probably fill up the big tank from the street on our own schedule sometime within a six week window\". Anything other than that, and they could hardly be bothered. We often…",
           "link": "https://www.dnalounge.com/backstage/log/2021/04/30.html",
           "publishedOn": "2021-05-01T05:34:43.000Z",
-          "wordCount": 658,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 748,
           "title": "DNA Lounge: Wherein we've got gas."
         },
         {
+          "id": "https://jwz.org/b/yjnl",
+          "author": "jwz",
           "description": "\"Burning Man would like to thank you for your generous donation of $2,500 to reserve the right to buy a ticket to an event that is not happening this year.\" Burning Man's ticket sales have always been both rapacious and stultifyingly, comically incompetent, but I see that this year they have finally learned a few things and gone full TicketMaster. Slow clap.",
           "link": "https://www.jwz.org/blog/2021/04/lol-burners/",
           "publishedOn": "2021-04-27T20:00:39.000Z",
-          "wordCount": 983,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1842,
           "title": "LOL Burners."
         },
         {
+          "id": "https://jwz.org/b/yjni",
+          "author": "jwz",
           "description": "So, you just wanna stream 24/7, and occasionally switch input on a timer? How hard could that be? For your amusement, read the comments in the ~2000 line sh script that keeps DNA Lounge running. Here be monsters. When I say that almost all of my coding stems from either self defense or spite, this is what I mean.",
           "link": "https://www.jwz.org/blog/2021/04/look-upon-my-obs-hell-and-despair/",
           "publishedOn": "2021-04-26T17:35:21.000Z",
-          "wordCount": 1834,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1887,
           "title": "Look upon my OBS hell and despair"
         },
         {
+          "id": "https://jwz.org/b/yjnf",
+          "author": "jwz",
           "description": "Surprisingly, Apple AirTag has built-in anti-stalking tech: Unfortunately like the discreet Tile product they're modeled on, AirTags sound like a gift from Apple to stalkers and people who'd use them to track the location and movements of unsuspecting victims. For the one in four U.S. women experiencing domestic violence the chime of a found AirTag would be the sound of a nightmare becoming reality. [...] Essentially, an item in iPhone's Safety Alerts section will let you know when a creep slips an AirTag i…",
           "link": "https://www.jwz.org/blog/2021/04/today-in-mark-of-the-beast-news/",
           "publishedOn": "2021-04-24T19:14:35.000Z",
-          "wordCount": 1325,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1331,
           "title": "Today in Mark of the Beast news:"
         },
         {
+          "id": "https://jwz.org/b/yjne",
+          "author": "jwz",
           "description": "CBP Releases Video From Predator Drone Deployed Over George Floyd Protests: Shortly after the Minneapolis police killing [ murder -- fixed that for you ] of George Floyd last year, Customs and Border Protection (CBP) flew a Predator drone over the city in an effort to surveil the ongoing protests against police brutality occurring there. The drone, which took off from Grand Forks Air Force Base in North Dakota and flew in a holding pattern over protests for approximately 90 minutes, recorded video from a he…",
           "link": "https://www.jwz.org/blog/2021/04/predator-drone-ambience/",
           "publishedOn": "2021-04-23T21:01:50.000Z",
-          "wordCount": 993,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1071,
           "title": "Predator Drone Ambience"
         },
         {
+          "id": "https://jwz.org/b/yjnd",
+          "author": "jwz",
           "description": "Dear Lazyweb, is there a way of determining whether Apple Pay and Google Pay are actually in use? As opposed to, \"it is theoretically possible for the user to sign up for this service.\" I would like my checkout page to default to them if the customer actualy uses them, but not otherwise. Defaulting to an Apple/Google Pay button when it's not set up is a dark pattern that they are using to try and enlist me into advertising their service to non-users. Apple Pay: This snippet gives a \"yes\" response if you are…",
           "link": "https://www.jwz.org/blog/2021/04/apple-pay-and-google-pay/",
           "publishedOn": "2021-04-23T17:49:15.000Z",
-          "wordCount": 1384,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1390,
           "title": "Apple Pay and Google Pay"
         },
         {
+          "id": "https://jwz.org/b/yjnc",
+          "author": "jwz",
           "description": "Ingrid Burrington: I've lately been trying an exercise where, when reading anything by or about tech companies, I replace uses of the word \"infrastructure\" with \"means of production.\" For example, from Facebook's engineering web page: \"Our data centers are the cornerstones of the global means of production that brings Facebook apps and services to you every day.\" The sentence pretty much still makes sense -- without data centers, Facebook can't reach people, and therefore can't make money. It also works pre…",
           "link": "https://www.jwz.org/blog/2021/04/means-of-production/",
           "publishedOn": "2021-04-23T16:00:28.000Z",
-          "wordCount": 959,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 965,
           "title": "Means of Production"
         },
         {
+          "id": "https://jwz.org/b/yjnb",
+          "author": "jwz",
           "description": "Governor Newsom says that on June 15th California will be doing The Full Florida. Obviously a lot can happen in 54 days, and for all we know the whole state might shut down again instead, but since there's a chance that we're going to be allowed to operate at a normal capacity by mid-June, we have to start making plans... and by plans I mean \"spending money\". As such, we're looking for a Bar Manager! Is that you? Here's our job posting. Bar Manager Job Description: The historic DNA Lounge is currently seeki…",
           "link": "https://www.dnalounge.com/backstage/log/2021/04/22.html",
           "publishedOn": "2021-04-22T17:15:21.000Z",
           "wordCount": 746,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
           "title": "DNA Lounge: Wherein we're... hiring?"
         },
         {
+          "id": "https://jwz.org/b/yjna",
+          "author": "jwz",
           "description": "I just hope they stop cutting away more and more of my tree. Come on guys, the birds are the only thing I have left.",
           "link": "https://www.jwz.org/blog/2021/04/soma-nature-walk-bandit-intimidator-15xp/",
           "publishedOn": "2021-04-22T16:04:06.000Z",
-          "wordCount": 783,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 789,
           "title": "SOMA Nature Walk: Bandit Intimidator 15XP"
         },
         {
+          "id": "https://jwz.org/b/yjnY",
+          "author": "jwz",
           "description": "An immense coal mine in Xinjiang flooded and shut down over the weekend of April 17-18. The blackout halted no less than one-third of all of Bitcoin's global computing power. The Xinjiang accident highlights that Bitcoin is a creature of fossil fuels -- principally coal, the dirtiest of them all. Overall, de Vries reckons that fossil fuels power around 70% of all Bitcoin mines worldwide, and that coal provides the vast majority of that share. \"We now know for sure that one-third of all production runs on pu…",
           "link": "https://www.jwz.org/blog/2021/04/coal-mining-bitcoin-mining-same-thing/",
           "publishedOn": "2021-04-21T23:23:44.000Z",
-          "wordCount": 885,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 891,
           "title": "Coal mining. Bitcoin mining. Same thing."
         },
         {
+          "id": "https://jwz.org/b/yjnX",
+          "author": "jwz",
           "description": "It used to be that dragging from the URL bar of one window to a textarea in another would do the only sane thing: paste the URL as text. Now it opens a Finder window displaying a folder called \"WebKitDropDestination-8FCUXgO8\" with a .webloc file in it. Convenient. This started a couple of months ago. Is there some way I can make it stop doing this? Dragging from an HREF still works properly, it seems to be only the URL bar that has developed this new craziness. Generally, I'm impressed with how poorly macOS…",
           "link": "https://www.jwz.org/blog/2021/04/stupid-safari/",
           "publishedOn": "2021-04-21T22:53:36.000Z",
-          "wordCount": 1140,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1146,
           "title": "Stupid Safari"
         },
         {
+          "id": "https://jwz.org/b/yjnW",
+          "author": "jwz",
           "description": "This is glorious. I once had a jar of ferrofluid in Lavaite form-factor, but it was difficult to get it to do anything interesting, and completely static without hands-on.",
           "link": "https://www.jwz.org/blog/2021/04/ferrofluid-speaker/",
           "publishedOn": "2021-04-21T22:50:34.000Z",
-          "wordCount": 567,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 573,
           "title": "Ferrofluid Speaker"
         },
         {
+          "id": "https://jwz.org/b/yjnV",
+          "author": "jwz",
           "description": "AMNH: &#x1F40B; We've received many questions about the blue whale's bandage: It's real. It was installed yesterday by Trenton from the Exhibition department! It's 6 feet long &#38; 2 feet wide. Come see it for yourself! Register for a vaccine today. (The whale room is a vaccination site, in case you missed that part.)",
           "link": "https://www.jwz.org/blog/2021/04/blue-whale-bandage/",
           "publishedOn": "2021-04-21T15:17:43.000Z",
-          "wordCount": 652,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 658,
           "title": "Blue Whale Bandage"
         },
         {
+          "id": "https://jwz.org/b/yjnU",
+          "author": "jwz",
           "description": "kobateck:",
           "link": "https://www.jwz.org/blog/2021/04/oil-factory-what-a-compactness/",
           "publishedOn": "2021-04-19T16:36:30.000Z",
-          "wordCount": 804,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 810,
           "title": "\"Oil factory what a compactness\""
         },
         {
+          "id": "https://jwz.org/b/yjnT",
+          "author": "jwz",
           "description": "San Franciscans still live in 1906 earthquake shacks: There were once 5,610 refugee shacks in 11 San Francisco parks, assembled with lightning speed in the months after the April 18, 1906, earthquake and fire. Today, there are fewer than 50 identified in the city. But those that remain are a symbol of civic vision, built in a bureaucracy-free utopia that included a partnership among city officials, labor unions and the U.S. Army. They're also a symbol of post-crisis rebirth, designed to house the displaced …",
           "link": "https://www.jwz.org/blog/2021/04/earthquake-shacks/",
           "publishedOn": "2021-04-18T18:39:55.000Z",
-          "wordCount": 865,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 871,
           "title": "Earthquake shacks"
         },
         {
+          "id": "https://jwz.org/b/yjnS",
+          "author": "jwz",
           "description": "Foone:",
           "link": "https://www.jwz.org/blog/2021/04/black-screen-screen-saver-0-99-may-require-additional-fees/",
           "publishedOn": "2021-04-18T18:05:51.000Z",
-          "wordCount": 752,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 758,
           "title": "Black screen screen saver, $0.99. May require additional fees. ★★★★☆."
         },
         {
+          "id": "https://jwz.org/b/yjnR",
+          "author": "jwz",
           "description": "50-ish words you can use to show that you care without incriminating yourself. artificial general intelligence (phrase) - A hypothetical AI god that's probably far off in the future but also maybe imminent. Can be really good or really bad whichever is more rhetorically useful. Obviously you're building the good one. Which is expensive. Therefore, you need more money. See long-term risks. compliance (n) - The act of following the law. Anything that isn't illegal goes. for good (ph) - As in \"AI for good\" or …",
           "link": "https://www.jwz.org/blog/2021/04/big-techs-guide-to-talking-about-ai-ethics/",
           "publishedOn": "2021-04-16T22:26:48.000Z",
-          "wordCount": 916,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 922,
           "title": "Big Tech's guide to talking about AI ethics"
         },
         {
+          "id": "https://jwz.org/b/yjnP",
+          "author": "jwz",
           "description": "It's got a good beat and it's easy to dance to",
           "link": "https://www.jwz.org/blog/2021/04/its-got-a-good-beat-and-its-easy-to-dance-to/",
           "publishedOn": "2021-04-16T21:53:12.000Z",
-          "wordCount": 842,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 848,
           "title": "It's got a good beat and it's easy to dance to"
         },
         {
+          "id": "https://jwz.org/b/yjnO",
+          "author": "jwz",
           "description": "A Field Guide To San Francisco's Iconic Street Signs: There have been roughly three eras of street signage in the city by the bay: the pre-automobile era, which featured a wildly inconsistent and much-complained-about mess through the 1800s and early 1900s. Then came a few decades of good standard blue porcelain signs (1920s to late 1940s). And finally the signature black-on-white that appeared in the 1940s and is still with us today. [...] Fortunately, we live among history today&#x200A; -- &#x200A;not sin…",
           "link": "https://www.jwz.org/blog/2021/04/fog-city-gothic/",
           "publishedOn": "2021-04-16T17:52:39.000Z",
-          "wordCount": 937,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 943,
           "title": "Fog City Gothic"
         },
         {
+          "id": "https://jwz.org/b/yjnN",
+          "author": "jwz",
           "description": "A fine is a price. Carbon offsets are a voluntary penance mediated by an organization that promises to promote good elsewhere to make up for climate vice, much like indulgences paid to the church before the reformation. Essentially it's paying for the right to do wrong.",
           "link": "https://www.jwz.org/blog/2021/04/murder-offsets/",
           "publishedOn": "2021-04-13T17:50:32.000Z",
-          "wordCount": 1289,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1295,
           "title": "Murder Offsets"
         },
         {
+          "id": "https://jwz.org/b/yjnM",
+          "author": "jwz",
           "description": "Bill Gates now owns almost 242,000 acres of the continguous USA. This map shows that area as a rectangle that can be dragged. Lots of articles on this are full of \"4D chess\" speculations about climate change blah blah, but the real reason for this seems to be very simple: \"just to collect rent.\" Most of us imagine farmers tilling the soil that has been in their families for generations. But many farmers lease at least some of the land they cultivate. According to Bruce Sherrick, a professor of agricultural …",
           "link": "https://www.jwz.org/blog/2021/04/bill-gates-land-ownership/",
           "publishedOn": "2021-04-13T17:39:10.000Z",
-          "wordCount": 1120,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1126,
           "title": "Bill Gates' Land Ownership"
         },
         {
+          "id": "https://jwz.org/b/yjnJ",
+          "author": "jwz",
           "description": "Cursed Computer Iceberg",
           "link": "https://www.jwz.org/blog/2021/04/cursed-computer-iceberg/",
           "publishedOn": "2021-04-11T20:17:13.000Z",
-          "wordCount": 1677,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1683,
           "title": "Cursed Computer Iceberg"
         },
         {
+          "id": "https://jwz.org/b/yjnI",
+          "author": "jwz",
           "description": "Emacs: Difference between revisions. Revision as of 05:07, 14 February 2021: Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[GNU]]/[[Linux]] ]] Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[Linux]] ]]",
           "link": "https://www.jwz.org/blog/2021/04/awwwww-shit/",
           "publishedOn": "2021-04-11T17:00:43.000Z",
-          "wordCount": 837,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 843,
           "title": "Awwwww shit"
         },
         {
+          "id": "https://jwz.org/b/yjnG",
+          "author": "jwz",
           "description": "Every time we post to our Facebook account, it immediately gets 2-5 one-word comments from random Indian dudes with locked accounts that are years old and have thousands of friends: \"How are you doing, fellow San Francisco nightclub enthusiasts?\" This has increased dramatically in the last couple of months, so I guess we've attracted the attention of the Eye of Sauron of some botfarm. To report these spam comments is a tiny, totally tractable number of clicks. Barely any clicks at all. Hardly worth mentioni…",
           "link": "https://www.jwz.org/blog/2021/04/engagement/",
           "publishedOn": "2021-04-11T16:20:25.000Z",
-          "wordCount": 1030,
-          "sourceHref": "http://www.jwz.org/blog/feed/",
-          "sourceTitle": "jwz",
+          "wordCount": 1036,
           "title": "ENGAGEMENT!"
         }
       ]
     },
     {
-      "href": "http://chneukirchen.org/trivium/index.atom",
+      "title": "Trivium",
+      "feedUrl": "http://chneukirchen.org/trivium/index.atom",
+      "siteUrl": "https://leahneukirchen.org/trivium/",
       "articles": [
         {
           "id": "https://leahneukirchen.org/trivium/2021-05-09",
-          "author": "Trivium",
+          "author": null,
           "description": "21Nails: Multiple vulnerabilities in Exim, a Qualys Security Advisory.\nProving 50-Year-Old Sorting Networks Optimal: Part 1,\nby Jannis Harder.\nWhy I&#8217;ll never create modules for VCV Rack anymore&#8212;and what I&#8217;ll make instead, by Aria Salvatrice.\nContractibility as uniqueness (YouTube), talk by Emily Riehl\nat the Topos Institute.\nObjective-S is an architecture-oriented programming language based\nloosely on Smalltalk and Objective-C.\nzx, useful functions for scripting in Node.js.\nLearn shogi by …",
           "link": "https://leahneukirchen.org/trivium/2021-05-09",
           "publishedOn": "2021-05-09T18:51:36.000Z",
           "wordCount": 84,
-          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
-          "sourceTitle": "Trivium",
           "title": "09may2021"
         },
         {
+          "id": "https://leahneukirchen.org/trivium/2021-05-02",
+          "author": null,
           "description": "OpenBSD 6.9 has been released, nice.\nExploiting Undocumented Hardware Blocks in the LPC55S69,\nby Laura Abbott from Oxide Computer.\nThese days even ROM chips get CVEs&#8230;\nHunting down the stuck BGP routes, by Ben Cox.\nWhat3Words &#8211; The Algorithm, explained by Cybergibbons.\nInheritance was invented as a performance hack, says Spencer Baugh.\nThe Hawaiian Earring Group (2013), by Jeremy Brazas.\ntmp.0ut Volume 1, a zine.\nEin Zeitstempel von ERFU, beschrieben von Andreas Kelz.\nBASIC 10-liners for Atari.",
           "link": "https://leahneukirchen.org/trivium/2021-05-02",
           "publishedOn": "2021-05-02T19:24:40.000Z",
-          "wordCount": 91,
-          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
-          "sourceTitle": "Trivium",
+          "wordCount": 93,
           "title": "02may2021"
         },
         {
+          "id": "https://leahneukirchen.org/trivium/2021-04-19",
+          "author": null,
           "description": "Breaking GitHub Private Pages for $35k, good writeup by Robert Chen.\nModern CI is Too Complex and Misdirected, good ideas by Gregory Szorc.\nFour Bytes of Power: exploiting CVE-2021-26708 in the Linux kernel,\nby Alexander Popov.\nThe Cursed Computer Iceberg Meme\nThe Unix Magic poster\nShift right by half a bit with regexps&#8230;",
           "link": "https://leahneukirchen.org/trivium/2021-04-19",
           "publishedOn": "2021-04-19T15:00:41.000Z",
           "wordCount": 69,
-          "sourceHref": "http://chneukirchen.org/trivium/index.atom",
-          "sourceTitle": "Trivium",
           "title": "19apr2021"
         }
       ]
     },
     {
-      "href": "http://lambda-the-ultimate.org/rss.xml",
+      "title": "Lambda the Ultimate - Programming Languages Weblog",
+      "feedUrl": "http://lambda-the-ultimate.org/rss.xml",
+      "siteUrl": "http://lambda-the-ultimate.org",
       "articles": [
         {
+          "id": "http://lambda-the-ultimate.org/google-announces-logica",
+          "author": null,
           "description": "You can read more about it at the Google Open Source blog post, Logica: organizing your data queries, making them universally reusable and fun.\nThey advocate for datalog-like language they developed internally at Google.\nThe reason?\nGood programming is about creating small, understandable, reusable pieces of logic that can be tested, given names, and organized into packages which can later be used to construct more useful pieces of logic. SQL resists this workflow. Although you can encapsulate certain repea…",
           "link": "http://lambda-the-ultimate.org/google-announces-logica",
           "publishedOn": "2021-04-29T14:50:27.000Z",
-          "wordCount": 415,
-          "sourceHref": "http://lambda-the-ultimate.org/rss.xml",
-          "sourceTitle": "Lambda the Ultimate - Programming Languages Weblog",
+          "wordCount": 597,
           "title": "Google announces Logica: organizing your data queries, making them universally reusable and fun"
         }
       ]
     },
     {
-      "href": "http://gfzoda.tumblr.com/rss",
+      "title": "*incoherent yelling about worms*",
+      "feedUrl": "http://gfzoda.tumblr.com/rss",
+      "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
         {
+          "id": "https://gfzoda.tumblr.com/post/650476941280952320",
+          "author": null,
           "description": "kernalphage:\n\nintercal:\n\n&ldquo;I could look it up but it&rsquo;s more fun asking friends&rdquo; gang\n\n&ldquo;there&rsquo;s probably an objective answer for this but let&rsquo;s see if someone has a rant locked and loaded&rdquo; group chat",
           "link": "https://gfzoda.tumblr.com/post/650476941280952320",
           "publishedOn": "2021-05-06T23:19:12.000Z",
-          "wordCount": 290,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 304,
           "title": "kernalphage:intercal:&ldquo;I could look it up but it&rsquo;s more fun asking friends&rdquo;..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/650173038490435584",
+          "author": null,
           "description": "mikkeneko:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nicannotreadcursive:\n\nI feel like there’s needs to be, like, handbook for authors who post on Ao3 for effective metatext. \nBy metatext I mean like tagging, summary, and authors notes (especially initial authors notes at the beginning of a fic). The means by which we communicate to our readers what they’re getting into. \nBecause we kind of all have to learn it by osmosis and there are conventio…",
           "link": "https://gfzoda.tumblr.com/post/650173038490435584",
           "publishedOn": "2021-05-03T14:48:48.000Z",
-          "wordCount": 508,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 512,
           "title": "mikkeneko:icannotreadcursive:icannotreadcursive:icannotreadcursive:icannotreadcursive:icannotreadcurs..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/650166922538893312",
+          "author": null,
           "description": "specialagentartemis:\n\nthesernotthedroidsurlooking4:\n\nspecialagentartemis:\n\n“whatever the fuck these two characters had going on” is a vastly underrated character dynamic\n\nyou guys are making it too shippy. no I need the ones in which you genuinely can’t tell what on God’s green earth is going on with these two people—like you can’t call it friendship, or rivalry, or attraction, or anything proper it’s just simply &lt;em&gt;weird&lt;/em&gt;\n\nsee. this person Gets It",
           "link": "https://gfzoda.tumblr.com/post/650166922538893312",
           "publishedOn": "2021-05-03T13:11:35.000Z",
-          "wordCount": 317,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 323,
           "title": "specialagentartemis:thesernotthedroidsurlooking4:specialagentartemis:\n\n\n“whatever the fuck these two..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/650166829517570048",
+          "author": null,
           "description": "nudityandnerdery:\n\nvacuously-true:\n\nHey tumblr friends, in case I haven&rsquo;t told you lately, I have no idea what the FUCK half of you are on about and I WISH I didn&rsquo;t know what the rest of you are on about. Great work. Keep it up.",
           "link": "https://gfzoda.tumblr.com/post/650166829517570048",
           "publishedOn": "2021-05-03T13:10:06.000Z",
-          "wordCount": 303,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 307,
           "title": "nudityandnerdery:vacuously-true:Hey tumblr friends, in case I haven&rsquo;t told you lately, I have..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/650162308961714176",
+          "author": null,
           "description": "teathattast:",
           "link": "https://gfzoda.tumblr.com/post/650162308961714176",
           "publishedOn": "2021-05-03T11:58:15.000Z",
-          "wordCount": 256,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 242,
           "title": "teathattast:"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649988786385813504",
+          "author": null,
           "description": "hitmewithcute:\n\nBaby bear catching snowflakes",
           "link": "https://gfzoda.tumblr.com/post/649988786385813504",
           "publishedOn": "2021-05-01T14:00:11.000Z",
-          "wordCount": 246,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 249,
           "title": "hitmewithcute:Baby bear catching snowflakes"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649988699245903872",
+          "author": null,
           "description": "acastersource:\n\nJames Acaster: Cold Lasagne Hate Myself 1999\n\nBonus:",
           "link": "https://gfzoda.tumblr.com/post/649988699245903872",
           "publishedOn": "2021-05-01T13:58:48.000Z",
-          "wordCount": 265,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 298,
           "title": "acastersource:James Acaster: Cold Lasagne Hate Myself 1999Bonus:"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649589577570451456",
+          "author": null,
           "description": "rusty-pulley-stars:\n\ni finally finished my quiz! how gullible are you?",
           "link": "https://gfzoda.tumblr.com/post/649589577570451456",
           "publishedOn": "2021-04-27T04:14:56.000Z",
-          "wordCount": 288,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 297,
           "title": "rusty-pulley-stars:i finally finished my quiz! how gullible are you?"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649546754960801793",
+          "author": null,
           "description": "jaubaius:\nAdorable round birds",
           "link": "https://gfzoda.tumblr.com/post/649546754960801793",
           "publishedOn": "2021-04-26T16:54:17.000Z",
-          "wordCount": 253,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 261,
           "title": "jaubaius:\n\nAdorable round birds"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649543821387038720",
+          "author": null,
           "description": "",
           "link": "https://gfzoda.tumblr.com/post/649543821387038720",
           "publishedOn": "2021-04-26T16:07:39.000Z",
-          "wordCount": 248,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 252,
           "title": "Photo"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649273715109036032",
+          "author": null,
           "description": "princessithaca:\nazbukivedii:\n\nstevhoa:\nirtenyev:\n\nwhen w. h. auden said “evil is unspectacular and always human” and ursula k. leguin said “this is the great treason of the artist: a refusal to admit the banality of evil and the terrible boredom of pain”\n\nwhen toni morrison said “i just think goodness is more interesting. evil is constant. you can think of different ways to murder people, but you can do that at age five. but you have to be an adult to consciously, deliberately be good – and that’s complicat…",
           "link": "https://gfzoda.tumblr.com/post/649273715109036032",
           "publishedOn": "2021-04-23T16:34:26.000Z",
-          "wordCount": 498,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 512,
           "title": "princessithaca:\n\nazbukivedii:stevhoa:\n\nirtenyev:when w. h. auden said “evil is unspectacular and..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649030707651411968",
+          "author": null,
           "description": "doggosource:\nstrech",
           "link": "https://gfzoda.tumblr.com/post/649030707651411968",
           "publishedOn": "2021-04-21T00:11:56.000Z",
-          "wordCount": 250,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 254,
           "title": "doggosource:\n\nstrech"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649030701428228096",
+          "author": null,
           "description": "multi-couleur:\n\nMOB PSYCHO 100\nGIF ANIMATION COLLECTION",
           "link": "https://gfzoda.tumblr.com/post/649030701428228096",
           "publishedOn": "2021-04-21T00:11:50.000Z",
-          "wordCount": 259,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 260,
           "title": "multi-couleur:MOB PSYCHO 100GIF ANIMATION COLLECTION"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649030686988173313",
+          "author": null,
           "description": "dragonknightcamilla:\n\nhappy 4/20",
           "link": "https://gfzoda.tumblr.com/post/649030686988173313",
           "publishedOn": "2021-04-21T00:11:36.000Z",
-          "wordCount": 258,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 256,
           "title": "dragonknightcamilla:\nhappy 4/20"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/649030525199220736",
+          "author": null,
           "description": "oct2pus:\n\nshubbabang:\nshubbabang:\nhappy 420 and day i reserve a spot in hell\nits that time again folks\n@shubbabang \n\n\n(Source)",
           "link": "https://gfzoda.tumblr.com/post/649030525199220736",
           "publishedOn": "2021-04-21T00:09:02.000Z",
-          "wordCount": 245,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 236,
           "title": "oct2pus:\nshubbabang:\n\nshubbabang:\n\nhappy 420 and day i reserve a..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/648845810763759616",
+          "author": null,
           "description": "",
           "link": "https://gfzoda.tumblr.com/post/648845810763759616",
           "publishedOn": "2021-04-18T23:13:04.000Z",
-          "wordCount": 260,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 262,
           "title": "Photo"
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/648837003917574144",
+          "author": null,
           "description": "little-miss-vendettaa:\n\nLmfao anyway! :) \nSince this got some traffic- credits to @ itsmalikel on Tiktok :D",
           "link": "https://gfzoda.tumblr.com/post/648837003917574144",
           "publishedOn": "2021-04-18T20:53:06.000Z",
-          "wordCount": 268,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 297,
           "title": "little-miss-vendettaa:Lmfao anyway! :) Since this got some traffic- credits to @ itsmalikel on..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/648807015579353088",
+          "author": null,
           "description": "steveholt:\n\nsteveholt:\n\nCollecting images of women musicians with weapons&hellip;..\n\n\n\n\nSo true besties &lt;3\n\nHOW COULD I FORGET DOLLY&hellip;&hellip;",
           "link": "https://gfzoda.tumblr.com/post/648807015579353088",
           "publishedOn": "2021-04-18T12:56:27.000Z",
-          "wordCount": 259,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 269,
           "title": "steveholt:steveholt:Collecting images of women musicians with weapons&hellip;..So true besties..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/648806897423630336",
+          "author": null,
           "description": "libraford:\n\nIf you haven&rsquo;t watched &ldquo;Heaven&rsquo;s Design Team,&rdquo; I 100% recommend for a good 10% brain show. Concept is that God outsourced animal design to a think-tank comprised of the other planets and each episode is like it was written by an angry biologist.",
           "link": "https://gfzoda.tumblr.com/post/648806897423630336",
           "publishedOn": "2021-04-18T12:54:34.000Z",
           "wordCount": 298,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
           "title": "libraford:If you haven&rsquo;t watched &ldquo;Heaven&rsquo;s Design Team,&rdquo; I 100% recommend..."
         },
         {
+          "id": "https://gfzoda.tumblr.com/post/648806836469891072",
+          "author": null,
           "description": "the-sunflower-spaceman:\n\nthe-sunflower-spaceman:\n\nthe-sunflower-spaceman:\n\nhedonism is good actually rich people just suck at it\n\ni think not only do we have a moral obligation to preserve human life but also a moral obligation to maximize the pleasure of others and ourselves (provided it doesn’t hurt anyone) \n\npeople don’t just deserve to eat food, they deserve to eat good food that tastes good without worrying about nutritional content \npeople don’t just deserve clothes, they deserve nice clothes that are…",
           "link": "https://gfzoda.tumblr.com/post/648806836469891072",
           "publishedOn": "2021-04-18T12:53:36.000Z",
-          "wordCount": 383,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
+          "wordCount": 366,
           "title": "the-sunflower-spaceman:the-sunflower-spaceman:the-sunflower-spaceman:hedonism is good actually rich..."
-        },
-        {
-          "description": "tfw-adhd:",
-          "link": "https://gfzoda.tumblr.com/post/648806745503858688",
-          "publishedOn": "2021-04-18T12:52:09.000Z",
-          "wordCount": 243,
-          "sourceHref": "http://gfzoda.tumblr.com/rss",
-          "sourceTitle": "*incoherent yelling about worms*",
-          "title": "tfw-adhd:"
         }
       ]
     },
     {
-      "href": "http://curiosityconfusion.tumblr.com/rss",
+      "title": "CuriosityConfusion",
+      "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
+      "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/648578031317909504",
+          "author": null,
           "description": "thatwitchrevan:\n\nI personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love you&rsquo; and more 'you are worth the work it takes to love you.&rsquo; I KNOW I&rsquo;m a burden sometimes. that isn&rsquo;t such a terrible thing! humans are strong. we can carry burdens. and it is work for me to be there for my friends, but it&rsquo;s work I&rsquo;m willing to do. \nwe need to acknowledge this because pretending love isn&rsquo;t work will never make people like me feel less guilty for acc…",
           "link": "https://curiosityconfusion.tumblr.com/post/648578031317909504",
           "publishedOn": "2021-04-16T00:16:50.000Z",
-          "wordCount": 438,
-          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
-          "sourceTitle": "CuriosityConfusion",
+          "wordCount": 440,
           "title": "thatwitchrevan:I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love..."
         },
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/648505139613794304",
+          "author": null,
           "description": "exigencelost:\n\nexigencelost:\nI just think we shouldn’t hurt people on purpose and every single day I grapple with how upsetting and angering that idea is to people. \n\n\n\nPeople will say things like “if you think we shouldn’t hurt people on purpose that’s disrespectful and deliberately callous toward those who have been hurt on purpose already” and I have yet to find language to express the magnitude of how much that’s not true. We shouldn’t hurt people on purpose. Punishment is nothing. Cruelty is just cruel…",
           "link": "https://curiosityconfusion.tumblr.com/post/648505139613794304",
           "publishedOn": "2021-04-15T04:58:15.000Z",
-          "wordCount": 359,
-          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
-          "sourceTitle": "CuriosityConfusion",
+          "wordCount": 344,
           "title": "exigencelost:exigencelost:\n\nI just think we shouldn’t hurt people on purpose and every single day I..."
         },
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/648395619957948416",
+          "author": null,
           "description": "headspace-hotel:\n\nOne of the most fundamental human qualities seems to be the need to decorate things. \nThe other day I was driving through some neighborhoods and was noticing that every single house and yard was adorned with wreaths, flags, statues, flowers, pretty stones, little lanterns, little windmills, wind chimes, and so on…\nWe decorate our laptops with stickers, our desks with knickknacks, our walls with pictures, ourselves with clothing and jewelry \nWe just have to make everything in our lives pret…",
           "link": "https://curiosityconfusion.tumblr.com/post/648395619957948416",
           "publishedOn": "2021-04-13T23:57:29.000Z",
           "wordCount": 331,
-          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
-          "sourceTitle": "CuriosityConfusion",
           "title": "headspace-hotel:\nOne of the most fundamental human qualities seems to be the need to decorate..."
         },
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/648320880772005888",
+          "author": null,
           "description": "that-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\ni made a comic in google slides for some ungodly reason\n\n\nthe long-awaited sequel, Untitled #2\n\n\nUntitled #3 explores the formulaic entertainment mass-produced by the pawns of capitalism. Or I just wanted to say a…",
           "link": "https://curiosityconfusion.tumblr.com/post/648320880772005888",
           "publishedOn": "2021-04-13T04:09:32.000Z",
-          "wordCount": 584,
-          "sourceHref": "http://curiosityconfusion.tumblr.com/rss",
-          "sourceTitle": "CuriosityConfusion",
+          "wordCount": 585,
           "title": "Untitled."
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }

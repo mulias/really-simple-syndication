@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T00:12:27.398Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T00:12:36.184Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein we have a new dance floor!]]></title>
+        <id>https://jwz.org/b/yjns</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/05/09.html"/>
+        <updated>2021-05-10T03:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to three generous donors who prefer to remain anonymous, we have a new dance floor! And it looks fantastic. The existing floor was a festive pancake of concrete, then a quarter inch of neoprene for springiness, then two layers of plywood. After two decades of dancing, the old plywood was extremly torn up, meaning the surface was rough and splotchy and paint would no longer stick to it well. It was a finished surface but a soft wood, probably pine or Douglas fir. After repairing some soft spots in the…]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[09may2021]]></title>
         <id>https://leahneukirchen.org/trivium/2021-05-09</id>
@@ -53,7 +63,7 @@ intercal:
     </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we pour some floor]]></title>
-        <id>https://www.dnalounge.com/backstage/log/2021/05/04.html</id>
+        <id>https://jwz.org/b/yjno</id>
         <link href="https://www.dnalounge.com/backstage/log/2021/05/04.html"/>
         <updated>2021-05-04T16:45:28.000Z</updated>
         <summary type="html"><![CDATA["Son, what's your dirt doing in Boss's hole?" Sometimes we get soft spots in the floor, typically where liquids pool and can't evaporate. The floor underneath the photo booth got particularly destroyed, after only a couple of years of the booth sitting there. And the floor under the ATM was also pretty bad. When that happens, sometimes we can just use this stuff called "Rot Stop" which is a two part epoxy that is runny enough to penetrate pretty deeply into the wood and makes mushy, soft wood as hard as a r…]]></summary>
@@ -198,7 +208,7 @@ Bonus:]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we've got gas.]]></title>
-        <id>https://www.dnalounge.com/backstage/log/2021/04/30.html</id>
+        <id>https://jwz.org/b/yjnn</id>
         <link href="https://www.dnalounge.com/backstage/log/2021/04/30.html"/>
         <updated>2021-05-01T05:34:43.000Z</updated>
         <summary type="html"><![CDATA[We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, "we'll probably fill up the big tank from the street on our own schedule sometime within a six week window". Anything other than that, and they could hardly be bothered. We often…]]></summary>
@@ -221,7 +231,7 @@ Good programming is about creating small, understandable, reusable pieces of log
     </entry>
     <entry>
         <title type="html"><![CDATA[LOL Burners.]]></title>
-        <id>https://www.jwz.org/blog/2021/04/lol-burners/</id>
+        <id>https://jwz.org/b/yjnl</id>
         <link href="https://www.jwz.org/blog/2021/04/lol-burners/"/>
         <updated>2021-04-27T20:00:39.000Z</updated>
         <summary type="html"><![CDATA["Burning Man would like to thank you for your generous donation of $2,500 to reserve the right to buy a ticket to an event that is not happening this year." Burning Man's ticket sales have always been both rapacious and stultifyingly, comically incompetent, but I see that this year they have finally learned a few things and gone full TicketMaster. Slow clap.]]></summary>
@@ -243,7 +253,7 @@ i finally finished my quiz! how gullible are you?]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Look upon my OBS hell and despair]]></title>
-        <id>https://www.jwz.org/blog/2021/04/look-upon-my-obs-hell-and-despair/</id>
+        <id>https://jwz.org/b/yjni</id>
         <link href="https://www.jwz.org/blog/2021/04/look-upon-my-obs-hell-and-despair/"/>
         <updated>2021-04-26T17:35:21.000Z</updated>
         <summary type="html"><![CDATA[So, you just wanna stream 24/7, and occasionally switch input on a timer? How hard could that be? For your amusement, read the comments in the ~2000 line sh script that keeps DNA Lounge running. Here be monsters. When I say that almost all of my coding stems from either self defense or spite, this is what I mean.]]></summary>
@@ -275,7 +285,7 @@ Adorable round birds]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Today in Mark of the Beast news:]]></title>
-        <id>https://www.jwz.org/blog/2021/04/today-in-mark-of-the-beast-news/</id>
+        <id>https://jwz.org/b/yjnf</id>
         <link href="https://www.jwz.org/blog/2021/04/today-in-mark-of-the-beast-news/"/>
         <updated>2021-04-24T19:14:35.000Z</updated>
         <summary type="html"><![CDATA[Surprisingly, Apple AirTag has built-in anti-stalking tech: Unfortunately like the discreet Tile product they're modeled on, AirTags sound like a gift from Apple to stalkers and people who'd use them to track the location and movements of unsuspecting victims. For the one in four U.S. women experiencing domestic violence the chime of a found AirTag would be the sound of a nightmare becoming reality. [...] Essentially, an item in iPhone's Safety Alerts section will let you know when a creep slips an AirTag i…]]></summary>
@@ -285,7 +295,7 @@ Adorable round birds]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Predator Drone Ambience]]></title>
-        <id>https://www.jwz.org/blog/2021/04/predator-drone-ambience/</id>
+        <id>https://jwz.org/b/yjne</id>
         <link href="https://www.jwz.org/blog/2021/04/predator-drone-ambience/"/>
         <updated>2021-04-23T21:01:50.000Z</updated>
         <summary type="html"><![CDATA[CBP Releases Video From Predator Drone Deployed Over George Floyd Protests: Shortly after the Minneapolis police killing [ murder -- fixed that for you ] of George Floyd last year, Customs and Border Protection (CBP) flew a Predator drone over the city in an effort to surveil the ongoing protests against police brutality occurring there. The drone, which took off from Grand Forks Air Force Base in North Dakota and flew in a holding pattern over protests for approximately 90 minutes, recorded video from a he…]]></summary>
@@ -295,7 +305,7 @@ Adorable round birds]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Pay and Google Pay]]></title>
-        <id>https://www.jwz.org/blog/2021/04/apple-pay-and-google-pay/</id>
+        <id>https://jwz.org/b/yjnd</id>
         <link href="https://www.jwz.org/blog/2021/04/apple-pay-and-google-pay/"/>
         <updated>2021-04-23T17:49:15.000Z</updated>
         <summary type="html"><![CDATA[Dear Lazyweb, is there a way of determining whether Apple Pay and Google Pay are actually in use? As opposed to, "it is theoretically possible for the user to sign up for this service." I would like my checkout page to default to them if the customer actualy uses them, but not otherwise. Defaulting to an Apple/Google Pay button when it's not set up is a dark pattern that they are using to try and enlist me into advertising their service to non-users. Apple Pay: This snippet gives a "yes" response if you are…]]></summary>
@@ -327,7 +337,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[Means of Production]]></title>
-        <id>https://www.jwz.org/blog/2021/04/means-of-production/</id>
+        <id>https://jwz.org/b/yjnc</id>
         <link href="https://www.jwz.org/blog/2021/04/means-of-production/"/>
         <updated>2021-04-23T16:00:28.000Z</updated>
         <summary type="html"><![CDATA[Ingrid Burrington: I've lately been trying an exercise where, when reading anything by or about tech companies, I replace uses of the word "infrastructure" with "means of production." For example, from Facebook's engineering web page: "Our data centers are the cornerstones of the global means of production that brings Facebook apps and services to you every day." The sentence pretty much still makes sense -- without data centers, Facebook can't reach people, and therefore can't make money. It also works pre…]]></summary>
@@ -337,7 +347,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we're... hiring?]]></title>
-        <id>https://www.dnalounge.com/backstage/log/2021/04/22.html</id>
+        <id>https://jwz.org/b/yjnb</id>
         <link href="https://www.dnalounge.com/backstage/log/2021/04/22.html"/>
         <updated>2021-04-22T17:15:21.000Z</updated>
         <summary type="html"><![CDATA[Governor Newsom says that on June 15th California will be doing The Full Florida. Obviously a lot can happen in 54 days, and for all we know the whole state might shut down again instead, but since there's a chance that we're going to be allowed to operate at a normal capacity by mid-June, we have to start making plans... and by plans I mean "spending money". As such, we're looking for a Bar Manager! Is that you? Here's our job posting. Bar Manager Job Description: The historic DNA Lounge is currently seeki…]]></summary>
@@ -347,7 +357,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[SOMA Nature Walk: Bandit Intimidator 15XP]]></title>
-        <id>https://www.jwz.org/blog/2021/04/soma-nature-walk-bandit-intimidator-15xp/</id>
+        <id>https://jwz.org/b/yjna</id>
         <link href="https://www.jwz.org/blog/2021/04/soma-nature-walk-bandit-intimidator-15xp/"/>
         <updated>2021-04-22T16:04:06.000Z</updated>
         <summary type="html"><![CDATA[I just hope they stop cutting away more and more of my tree. Come on guys, the birds are the only thing I have left.]]></summary>
@@ -357,7 +367,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[Coal mining. Bitcoin mining. Same thing.]]></title>
-        <id>https://www.jwz.org/blog/2021/04/coal-mining-bitcoin-mining-same-thing/</id>
+        <id>https://jwz.org/b/yjnY</id>
         <link href="https://www.jwz.org/blog/2021/04/coal-mining-bitcoin-mining-same-thing/"/>
         <updated>2021-04-21T23:23:44.000Z</updated>
         <summary type="html"><![CDATA[An immense coal mine in Xinjiang flooded and shut down over the weekend of April 17-18. The blackout halted no less than one-third of all of Bitcoin's global computing power. The Xinjiang accident highlights that Bitcoin is a creature of fossil fuels -- principally coal, the dirtiest of them all. Overall, de Vries reckons that fossil fuels power around 70% of all Bitcoin mines worldwide, and that coal provides the vast majority of that share. "We now know for sure that one-third of all production runs on pu…]]></summary>
@@ -367,7 +377,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[Stupid Safari]]></title>
-        <id>https://www.jwz.org/blog/2021/04/stupid-safari/</id>
+        <id>https://jwz.org/b/yjnX</id>
         <link href="https://www.jwz.org/blog/2021/04/stupid-safari/"/>
         <updated>2021-04-21T22:53:36.000Z</updated>
         <summary type="html"><![CDATA[It used to be that dragging from the URL bar of one window to a textarea in another would do the only sane thing: paste the URL as text. Now it opens a Finder window displaying a folder called "WebKitDropDestination-8FCUXgO8" with a .webloc file in it. Convenient. This started a couple of months ago. Is there some way I can make it stop doing this? Dragging from an HREF still works properly, it seems to be only the URL bar that has developed this new craziness. Generally, I'm impressed with how poorly macOS…]]></summary>
@@ -377,7 +387,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[Ferrofluid Speaker]]></title>
-        <id>https://www.jwz.org/blog/2021/04/ferrofluid-speaker/</id>
+        <id>https://jwz.org/b/yjnW</id>
         <link href="https://www.jwz.org/blog/2021/04/ferrofluid-speaker/"/>
         <updated>2021-04-21T22:50:34.000Z</updated>
         <summary type="html"><![CDATA[This is glorious. I once had a jar of ferrofluid in Lavaite form-factor, but it was difficult to get it to do anything interesting, and completely static without hands-on.]]></summary>
@@ -387,7 +397,7 @@ when toni morrison said “i just think goodness is more interesting. evil is c
     </entry>
     <entry>
         <title type="html"><![CDATA[Blue Whale Bandage]]></title>
-        <id>https://www.jwz.org/blog/2021/04/blue-whale-bandage/</id>
+        <id>https://jwz.org/b/yjnV</id>
         <link href="https://www.jwz.org/blog/2021/04/blue-whale-bandage/"/>
         <updated>2021-04-21T15:17:43.000Z</updated>
         <summary type="html"><![CDATA[AMNH: &#x1F40B; We've received many questions about the blue whale's bandage: It's real. It was installed yesterday by Trenton from the Exhibition department! It's 6 feet long &#38; 2 feet wide. Come see it for yourself! Register for a vaccine today. (The whale room is a vaccination site, in case you missed that part.)]]></summary>
@@ -460,7 +470,7 @@ its that time again folks
     </entry>
     <entry>
         <title type="html"><![CDATA["Oil factory what a compactness"]]></title>
-        <id>https://www.jwz.org/blog/2021/04/oil-factory-what-a-compactness/</id>
+        <id>https://jwz.org/b/yjnU</id>
         <link href="https://www.jwz.org/blog/2021/04/oil-factory-what-a-compactness/"/>
         <updated>2021-04-19T16:36:30.000Z</updated>
         <summary type="html"><![CDATA[kobateck:]]></summary>
@@ -508,7 +518,7 @@ Since this got some traffic- credits to @ itsmalikel on Tiktok :D]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Earthquake shacks]]></title>
-        <id>https://www.jwz.org/blog/2021/04/earthquake-shacks/</id>
+        <id>https://jwz.org/b/yjnT</id>
         <link href="https://www.jwz.org/blog/2021/04/earthquake-shacks/"/>
         <updated>2021-04-18T18:39:55.000Z</updated>
         <summary type="html"><![CDATA[San Franciscans still live in 1906 earthquake shacks: There were once 5,610 refugee shacks in 11 San Francisco parks, assembled with lightning speed in the months after the April 18, 1906, earthquake and fire. Today, there are fewer than 50 identified in the city. But those that remain are a symbol of civic vision, built in a bureaucracy-free utopia that included a partnership among city officials, labor unions and the U.S. Army. They're also a symbol of post-crisis rebirth, designed to house the displaced …]]></summary>
@@ -518,7 +528,7 @@ Since this got some traffic- credits to @ itsmalikel on Tiktok :D]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Black screen screen saver, $0.99. May require additional fees. ★★★★☆.]]></title>
-        <id>https://www.jwz.org/blog/2021/04/black-screen-screen-saver-0-99-may-require-additional-fees/</id>
+        <id>https://jwz.org/b/yjnS</id>
         <link href="https://www.jwz.org/blog/2021/04/black-screen-screen-saver-0-99-may-require-additional-fees/"/>
         <updated>2021-04-18T18:05:51.000Z</updated>
         <summary type="html"><![CDATA[Foone:]]></summary>
@@ -581,18 +591,8 @@ people don’t just deserve clothes, they deserve nice clothes that are…]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tfw-adhd:]]></title>
-        <id>https://gfzoda.tumblr.com/post/648806745503858688</id>
-        <link href="https://gfzoda.tumblr.com/post/648806745503858688"/>
-        <updated>2021-04-18T12:52:09.000Z</updated>
-        <summary type="html"><![CDATA[tfw-adhd:]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Big Tech's guide to talking about AI ethics]]></title>
-        <id>https://www.jwz.org/blog/2021/04/big-techs-guide-to-talking-about-ai-ethics/</id>
+        <id>https://jwz.org/b/yjnR</id>
         <link href="https://www.jwz.org/blog/2021/04/big-techs-guide-to-talking-about-ai-ethics/"/>
         <updated>2021-04-16T22:26:48.000Z</updated>
         <summary type="html"><![CDATA[50-ish words you can use to show that you care without incriminating yourself. artificial general intelligence (phrase) - A hypothetical AI god that's probably far off in the future but also maybe imminent. Can be really good or really bad whichever is more rhetorically useful. Obviously you're building the good one. Which is expensive. Therefore, you need more money. See long-term risks. compliance (n) - The act of following the law. Anything that isn't illegal goes. for good (ph) - As in "AI for good" or …]]></summary>
@@ -602,7 +602,7 @@ people don’t just deserve clothes, they deserve nice clothes that are…]]></s
     </entry>
     <entry>
         <title type="html"><![CDATA[It's got a good beat and it's easy to dance to]]></title>
-        <id>https://www.jwz.org/blog/2021/04/its-got-a-good-beat-and-its-easy-to-dance-to/</id>
+        <id>https://jwz.org/b/yjnP</id>
         <link href="https://www.jwz.org/blog/2021/04/its-got-a-good-beat-and-its-easy-to-dance-to/"/>
         <updated>2021-04-16T21:53:12.000Z</updated>
         <summary type="html"><![CDATA[It's got a good beat and it's easy to dance to]]></summary>
@@ -612,7 +612,7 @@ people don’t just deserve clothes, they deserve nice clothes that are…]]></s
     </entry>
     <entry>
         <title type="html"><![CDATA[Fog City Gothic]]></title>
-        <id>https://www.jwz.org/blog/2021/04/fog-city-gothic/</id>
+        <id>https://jwz.org/b/yjnO</id>
         <link href="https://www.jwz.org/blog/2021/04/fog-city-gothic/"/>
         <updated>2021-04-16T17:52:39.000Z</updated>
         <summary type="html"><![CDATA[A Field Guide To San Francisco's Iconic Street Signs: There have been roughly three eras of street signage in the city by the bay: the pre-automobile era, which featured a wildly inconsistent and much-complained-about mess through the 1800s and early 1900s. Then came a few decades of good standard blue porcelain signs (1920s to late 1940s). And finally the signature black-on-white that appeared in the 1940s and is still with us today. [...] Fortunately, we live among history today&#x200A; -- &#x200A;not sin…]]></summary>
@@ -670,7 +670,7 @@ We just have to make everything in our lives pret…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Murder Offsets]]></title>
-        <id>https://www.jwz.org/blog/2021/04/murder-offsets/</id>
+        <id>https://jwz.org/b/yjnN</id>
         <link href="https://www.jwz.org/blog/2021/04/murder-offsets/"/>
         <updated>2021-04-13T17:50:32.000Z</updated>
         <summary type="html"><![CDATA[A fine is a price. Carbon offsets are a voluntary penance mediated by an organization that promises to promote good elsewhere to make up for climate vice, much like indulgences paid to the church before the reformation. Essentially it's paying for the right to do wrong.]]></summary>
@@ -680,7 +680,7 @@ We just have to make everything in our lives pret…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill Gates' Land Ownership]]></title>
-        <id>https://www.jwz.org/blog/2021/04/bill-gates-land-ownership/</id>
+        <id>https://jwz.org/b/yjnM</id>
         <link href="https://www.jwz.org/blog/2021/04/bill-gates-land-ownership/"/>
         <updated>2021-04-13T17:39:10.000Z</updated>
         <summary type="html"><![CDATA[Bill Gates now owns almost 242,000 acres of the continguous USA. This map shows that area as a rectangle that can be dragged. Lots of articles on this are full of "4D chess" speculations about climate change blah blah, but the real reason for this seems to be very simple: "just to collect rent." Most of us imagine farmers tilling the soil that has been in their families for generations. But many farmers lease at least some of the land they cultivate. According to Bruce Sherrick, a professor of agricultural …]]></summary>
@@ -752,7 +752,7 @@ Untitled #3 explores the formulaic entertainment mass-produced by the pawns of c
     </entry>
     <entry>
         <title type="html"><![CDATA[Cursed Computer Iceberg]]></title>
-        <id>https://www.jwz.org/blog/2021/04/cursed-computer-iceberg/</id>
+        <id>https://jwz.org/b/yjnJ</id>
         <link href="https://www.jwz.org/blog/2021/04/cursed-computer-iceberg/"/>
         <updated>2021-04-11T20:17:13.000Z</updated>
         <summary type="html"><![CDATA[Cursed Computer Iceberg]]></summary>
@@ -762,7 +762,7 @@ Untitled #3 explores the formulaic entertainment mass-produced by the pawns of c
     </entry>
     <entry>
         <title type="html"><![CDATA[Awwwww shit]]></title>
-        <id>https://www.jwz.org/blog/2021/04/awwwww-shit/</id>
+        <id>https://jwz.org/b/yjnI</id>
         <link href="https://www.jwz.org/blog/2021/04/awwwww-shit/"/>
         <updated>2021-04-11T17:00:43.000Z</updated>
         <summary type="html"><![CDATA[Emacs: Difference between revisions. Revision as of 05:07, 14 February 2021: Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[GNU]]/[[Linux]] ]] Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[Linux]] ]]]]></summary>
@@ -772,7 +772,7 @@ Untitled #3 explores the formulaic entertainment mass-produced by the pawns of c
     </entry>
     <entry>
         <title type="html"><![CDATA[ENGAGEMENT!]]></title>
-        <id>https://www.jwz.org/blog/2021/04/engagement/</id>
+        <id>https://jwz.org/b/yjnG</id>
         <link href="https://www.jwz.org/blog/2021/04/engagement/"/>
         <updated>2021-04-11T16:20:25.000Z</updated>
         <summary type="html"><![CDATA[Every time we post to our Facebook account, it immediately gets 2-5 one-word comments from random Indian dudes with locked accounts that are years old and have thousands of friends: "How are you doing, fellow San Francisco nightclub enthusiasts?" This has increased dramatically in the last couple of months, so I guess we've attracted the attention of the Eye of Sauron of some botfarm. To report these spam comments is a tiny, totally tractable number of clicks. Barely any clicks at all. Hardly worth mentioni…]]></summary>
