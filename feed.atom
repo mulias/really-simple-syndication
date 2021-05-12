@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T00:12:36.184Z</updated>
+    <updated>2021-05-12T00:13:13.301Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Today in Hot Superyacht Probs]]></title>
+        <id>https://jwz.org/b/yjnw</id>
+        <link href="https://www.jwz.org/blog/2021/05/today-in-hot-superyacht-probs-7/"/>
+        <updated>2021-05-11T19:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Jeff Bezos' superyacht is so big it needs its own yacht. The world's richest man is buying a boat, though that word feels inappropriately sensible for the monstrosity going to Captain Bezos: a 417-foot superyacht that's so massive it has its own "support yacht" with a helipad. The estimated cost, not including the boat's support boat, is $500 million. Half a billion bucks is an inconceivable amount of money for most people, but it's a small fraction of the $75 billion that Bezos gained in 2020 alone. His to…]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein there has been a lapse of time]]></title>
+        <id>https://jwz.org/b/yjnt</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/05/11.html"/>
+        <updated>2021-05-11T16:18:13.000Z</updated>
+        <summary type="html"><![CDATA[I made a time-lapse video of the dance floor installation! This is the first two days of the floor installation. They also came back for a third full day of sanding, but that wasn't very interesting to watch; and now we're going to paint it, which will take another day or two. (We do have an older video where you can watch paint dry, if you're in to that sort of thing.) We set up a laptop recording 24/7 all weekend with OBS, and that generated a 98 GB TS file. Fun fact: guess what Quicktime Player, VLC and …]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[godsensei:i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain...]]></title>
+        <id>https://gfzoda.tumblr.com/post/650852763362885632</id>
+        <link href="https://gfzoda.tumblr.com/post/650852763362885632"/>
+        <updated>2021-05-11T02:52:44.000Z</updated>
+        <summary type="html"><![CDATA[godsensei:
+
+i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain producing a perfectly clear rendition of James Blunt going “YAH BYÜTEHFA'AL”]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<p>hello your hair looks really good and if nothing else is going well today i at least woke up to national news here in sweden that abba is recording new music again</p>]]></title>
+        <id>https://gfzoda.tumblr.com/post/650845696422035457</id>
+        <link href="https://gfzoda.tumblr.com/post/650845696422035457"/>
+        <updated>2021-05-11T01:00:24.000Z</updated>
+        <summary type="html"><![CDATA[thank you!!! and
+ABBA IS FUCKING WHAT
+THEY WHAT]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we have a new dance floor!]]></title>
         <id>https://jwz.org/b/yjns</id>
@@ -748,36 +792,6 @@ the long-awaited sequel, Untitled #2
 Untitled #3 explores the formulaic entertainment mass-produced by the pawns of capitalism. Or I just wanted to say a…]]></summary>
         <author>
             <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursed Computer Iceberg]]></title>
-        <id>https://jwz.org/b/yjnJ</id>
-        <link href="https://www.jwz.org/blog/2021/04/cursed-computer-iceberg/"/>
-        <updated>2021-04-11T20:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Cursed Computer Iceberg]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awwwww shit]]></title>
-        <id>https://jwz.org/b/yjnI</id>
-        <link href="https://www.jwz.org/blog/2021/04/awwwww-shit/"/>
-        <updated>2021-04-11T17:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Emacs: Difference between revisions. Revision as of 05:07, 14 February 2021: Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[GNU]]/[[Linux]] ]] Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[Linux]] ]]]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENGAGEMENT!]]></title>
-        <id>https://jwz.org/b/yjnG</id>
-        <link href="https://www.jwz.org/blog/2021/04/engagement/"/>
-        <updated>2021-04-11T16:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Every time we post to our Facebook account, it immediately gets 2-5 one-word comments from random Indian dudes with locked accounts that are years old and have thousands of friends: "How are you doing, fellow San Francisco nightclub enthusiasts?" This has increased dramatically in the last couple of months, so I guess we've attracted the attention of the Eye of Sauron of some botfarm. To report these spam comments is a tiny, totally tractable number of clicks. Barely any clicks at all. Hardly worth mentioni…]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>

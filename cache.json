@@ -34,6 +34,24 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjnw",
+          "author": "jwz",
+          "description": "Jeff Bezos' superyacht is so big it needs its own yacht. The world's richest man is buying a boat, though that word feels inappropriately sensible for the monstrosity going to Captain Bezos: a 417-foot superyacht that's so massive it has its own \"support yacht\" with a helipad. The estimated cost, not including the boat's support boat, is $500 million. Half a billion bucks is an inconceivable amount of money for most people, but it's a small fraction of the $75 billion that Bezos gained in 2020 alone. His to…",
+          "link": "https://www.jwz.org/blog/2021/05/today-in-hot-superyacht-probs-7/",
+          "publishedOn": "2021-05-11T19:40:20.000Z",
+          "wordCount": 813,
+          "title": "Today in Hot Superyacht Probs"
+        },
+        {
+          "id": "https://jwz.org/b/yjnt",
+          "author": "jwz",
+          "description": "I made a time-lapse video of the dance floor installation! This is the first two days of the floor installation. They also came back for a third full day of sanding, but that wasn't very interesting to watch; and now we're going to paint it, which will take another day or two. (We do have an older video where you can watch paint dry, if you're in to that sort of thing.) We set up a laptop recording 24/7 all weekend with OBS, and that generated a 98 GB TS file. Fun fact: guess what Quicktime Player, VLC and …",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/11.html",
+          "publishedOn": "2021-05-11T16:18:13.000Z",
+          "wordCount": 770,
+          "title": "DNA Lounge: Wherein there has been a lapse of time"
+        },
+        {
           "id": "https://jwz.org/b/yjns",
           "author": "jwz",
           "description": "Thanks to three generous donors who prefer to remain anonymous, we have a new dance floor! And it looks fantastic. The existing floor was a festive pancake of concrete, then a quarter inch of neoprene for springiness, then two layers of plywood. After two decades of dancing, the old plywood was extremly torn up, meaning the surface was rough and splotchy and paint would no longer stick to it well. It was a finished surface but a soft wood, probably pine or Douglas fir. After repairing some soft spots in the…",
@@ -248,33 +266,6 @@
           "publishedOn": "2021-04-13T17:39:10.000Z",
           "wordCount": 1126,
           "title": "Bill Gates' Land Ownership"
-        },
-        {
-          "id": "https://jwz.org/b/yjnJ",
-          "author": "jwz",
-          "description": "Cursed Computer Iceberg",
-          "link": "https://www.jwz.org/blog/2021/04/cursed-computer-iceberg/",
-          "publishedOn": "2021-04-11T20:17:13.000Z",
-          "wordCount": 1683,
-          "title": "Cursed Computer Iceberg"
-        },
-        {
-          "id": "https://jwz.org/b/yjnI",
-          "author": "jwz",
-          "description": "Emacs: Difference between revisions. Revision as of 05:07, 14 February 2021: Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[GNU]]/[[Linux]] ]] Line 93: === XEmacs === {{Main&#124;XEmacs}} [[File:Xemacs-21.5.b29.png&#124;thumb&#124;[[XEmacs]] 21.5 on [[Linux]] ]]",
-          "link": "https://www.jwz.org/blog/2021/04/awwwww-shit/",
-          "publishedOn": "2021-04-11T17:00:43.000Z",
-          "wordCount": 843,
-          "title": "Awwwww shit"
-        },
-        {
-          "id": "https://jwz.org/b/yjnG",
-          "author": "jwz",
-          "description": "Every time we post to our Facebook account, it immediately gets 2-5 one-word comments from random Indian dudes with locked accounts that are years old and have thousands of friends: \"How are you doing, fellow San Francisco nightclub enthusiasts?\" This has increased dramatically in the last couple of months, so I guess we've attracted the attention of the Eye of Sauron of some botfarm. To report these spam comments is a tiny, totally tractable number of clicks. Barely any clicks at all. Hardly worth mentioni…",
-          "link": "https://www.jwz.org/blog/2021/04/engagement/",
-          "publishedOn": "2021-04-11T16:20:25.000Z",
-          "wordCount": 1036,
-          "title": "ENGAGEMENT!"
         }
       ]
     },
@@ -333,6 +324,24 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/650852763362885632",
+          "author": null,
+          "description": "godsensei:\n\ni can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain producing a perfectly clear rendition of James Blunt going “YAH BYÜTEHFA'AL”",
+          "link": "https://gfzoda.tumblr.com/post/650852763362885632",
+          "publishedOn": "2021-05-11T02:52:44.000Z",
+          "wordCount": 294,
+          "title": "godsensei:i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/650845696422035457",
+          "author": null,
+          "description": "thank you!!! and\nABBA IS FUCKING WHAT\nTHEY WHAT",
+          "link": "https://gfzoda.tumblr.com/post/650845696422035457",
+          "publishedOn": "2021-05-11T01:00:24.000Z",
+          "wordCount": 326,
+          "title": "<p>hello your hair looks really good and if nothing else is going well today i at least woke up to national news here in sweden that abba is recording new music again</p>"
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/650476941280952320",
           "author": null,
