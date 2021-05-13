@@ -34,6 +34,24 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjny",
+          "author": "jwz",
+          "description": "Animated map projections",
+          "link": "https://www.jwz.org/blog/2021/05/animated-map-projections/",
+          "publishedOn": "2021-05-12T20:55:20.000Z",
+          "wordCount": 559,
+          "title": "Animated map projections"
+        },
+        {
+          "id": "https://jwz.org/b/yjnx",
+          "author": "jwz",
+          "description": "Wacky 90s fads!",
+          "link": "https://www.jwz.org/blog/2021/05/wacky-90s-fads/",
+          "publishedOn": "2021-05-12T20:42:18.000Z",
+          "wordCount": 544,
+          "title": "Wacky 90s fads!"
+        },
+        {
           "id": "https://jwz.org/b/yjnw",
           "author": "jwz",
           "description": "Jeff Bezos' superyacht is so big it needs its own yacht. The world's richest man is buying a boat, though that word feels inappropriately sensible for the monstrosity going to Captain Bezos: a 417-foot superyacht that's so massive it has its own \"support yacht\" with a helipad. The estimated cost, not including the boat's support boat, is $500 million. Half a billion bucks is an inconceivable amount of money for most people, but it's a small fraction of the $75 billion that Bezos gained in 2020 alone. His to…",
@@ -325,6 +343,15 @@
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
         {
+          "id": "https://gfzoda.tumblr.com/post/650987388688039936",
+          "author": null,
+          "description": "mysharona1987:",
+          "link": "https://gfzoda.tumblr.com/post/650987388688039936",
+          "publishedOn": "2021-05-12T14:32:32.000Z",
+          "wordCount": 241,
+          "title": "mysharona1987:"
+        },
+        {
           "id": "https://gfzoda.tumblr.com/post/650852763362885632",
           "author": null,
           "description": "godsensei:\n\ni can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain producing a perfectly clear rendition of James Blunt going “YAH BYÜTEHFA'AL”",
@@ -555,15 +582,6 @@
           "publishedOn": "2021-04-13T23:57:29.000Z",
           "wordCount": 331,
           "title": "headspace-hotel:\nOne of the most fundamental human qualities seems to be the need to decorate..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/648320880772005888",
-          "author": null,
-          "description": "that-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\nthat-house:\n\ni made a comic in google slides for some ungodly reason\n\n\nthe long-awaited sequel, Untitled #2\n\n\nUntitled #3 explores the formulaic entertainment mass-produced by the pawns of capitalism. Or I just wanted to say a…",
-          "link": "https://curiosityconfusion.tumblr.com/post/648320880772005888",
-          "publishedOn": "2021-04-13T04:09:32.000Z",
-          "wordCount": 585,
-          "title": "Untitled."
         }
       ]
     }

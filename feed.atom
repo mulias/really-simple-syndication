@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T00:13:13.301Z</updated>
+    <updated>2021-05-13T00:23:17.871Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Animated map projections]]></title>
+        <id>https://jwz.org/b/yjny</id>
+        <link href="https://www.jwz.org/blog/2021/05/animated-map-projections/"/>
+        <updated>2021-05-12T20:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Animated map projections]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wacky 90s fads!]]></title>
+        <id>https://jwz.org/b/yjnx</id>
+        <link href="https://www.jwz.org/blog/2021/05/wacky-90s-fads/"/>
+        <updated>2021-05-12T20:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Wacky 90s fads!]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mysharona1987:]]></title>
+        <id>https://gfzoda.tumblr.com/post/650987388688039936</id>
+        <link href="https://gfzoda.tumblr.com/post/650987388688039936"/>
+        <updated>2021-05-12T14:32:32.000Z</updated>
+        <summary type="html"><![CDATA[mysharona1987:]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in Hot Superyacht Probs]]></title>
         <id>https://jwz.org/b/yjnw</id>
@@ -730,68 +760,6 @@ We just have to make everything in our lives pret…]]></summary>
         <summary type="html"><![CDATA[Bill Gates now owns almost 242,000 acres of the continguous USA. This map shows that area as a rectangle that can be dragged. Lots of articles on this are full of "4D chess" speculations about climate change blah blah, but the real reason for this seems to be very simple: "just to collect rent." Most of us imagine farmers tilling the soil that has been in their families for generations. But many farmers lease at least some of the land they cultivate. According to Bruce Sherrick, a professor of agricultural …]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled.]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/648320880772005888</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/648320880772005888"/>
-        <updated>2021-04-13T04:09:32.000Z</updated>
-        <summary type="html"><![CDATA[that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-that-house:
-
-i made a comic in google slides for some ungodly reason
-
-
-the long-awaited sequel, Untitled #2
-
-
-Untitled #3 explores the formulaic entertainment mass-produced by the pawns of capitalism. Or I just wanted to say a…]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
         </author>
     </entry>
 </feed>
