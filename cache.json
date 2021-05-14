@@ -266,24 +266,6 @@
           "publishedOn": "2021-04-16T17:52:39.000Z",
           "wordCount": 943,
           "title": "Fog City Gothic"
-        },
-        {
-          "id": "https://jwz.org/b/yjnN",
-          "author": "jwz",
-          "description": "A fine is a price. Carbon offsets are a voluntary penance mediated by an organization that promises to promote good elsewhere to make up for climate vice, much like indulgences paid to the church before the reformation. Essentially it's paying for the right to do wrong.",
-          "link": "https://www.jwz.org/blog/2021/04/murder-offsets/",
-          "publishedOn": "2021-04-13T17:50:32.000Z",
-          "wordCount": 1295,
-          "title": "Murder Offsets"
-        },
-        {
-          "id": "https://jwz.org/b/yjnM",
-          "author": "jwz",
-          "description": "Bill Gates now owns almost 242,000 acres of the continguous USA. This map shows that area as a rectangle that can be dragged. Lots of articles on this are full of \"4D chess\" speculations about climate change blah blah, but the real reason for this seems to be very simple: \"just to collect rent.\" Most of us imagine farmers tilling the soil that has been in their families for generations. But many farmers lease at least some of the land they cultivate. According to Bruce Sherrick, a professor of agricultural …",
-          "link": "https://www.jwz.org/blog/2021/04/bill-gates-land-ownership/",
-          "publishedOn": "2021-04-13T17:39:10.000Z",
-          "wordCount": 1126,
-          "title": "Bill Gates' Land Ownership"
         }
       ]
     },
@@ -342,6 +324,15 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/651028914062458880",
+          "author": null,
+          "description": "airsignpariston:\n\nfunhaver:\n\nok but shonen rly did it with mob man. every protag is just some little boy but mob is the most boy ever and like it makes him so so incredible. like i have a soft spot for all of the sweet and pure protags like tanjiro and deku but like mob isn’t trying to be a superhero or save the world from evil he’s just trying to gain some muscle and talk to his crush and be a good big brother and yes i KNOW that’s the whole point of him and the show i just want to talk about him bc i love…",
+          "link": "https://gfzoda.tumblr.com/post/651028914062458880",
+          "publishedOn": "2021-05-13T01:32:34.000Z",
+          "wordCount": 370,
+          "title": "airsignpariston:funhaver:ok but shonen rly did it with mob man. every protag is just some little boy..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/650987388688039936",
           "author": null,
@@ -573,15 +564,6 @@
           "publishedOn": "2021-04-15T04:58:15.000Z",
           "wordCount": 344,
           "title": "exigencelost:exigencelost:\n\nI just think we shouldn’t hurt people on purpose and every single day I..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/648395619957948416",
-          "author": null,
-          "description": "headspace-hotel:\n\nOne of the most fundamental human qualities seems to be the need to decorate things. \nThe other day I was driving through some neighborhoods and was noticing that every single house and yard was adorned with wreaths, flags, statues, flowers, pretty stones, little lanterns, little windmills, wind chimes, and so on…\nWe decorate our laptops with stickers, our desks with knickknacks, our walls with pictures, ourselves with clothing and jewelry \nWe just have to make everything in our lives pret…",
-          "link": "https://curiosityconfusion.tumblr.com/post/648395619957948416",
-          "publishedOn": "2021-04-13T23:57:29.000Z",
-          "wordCount": 331,
-          "title": "headspace-hotel:\nOne of the most fundamental human qualities seems to be the need to decorate..."
         }
       ]
     }
