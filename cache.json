@@ -34,6 +34,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjnz",
+          "author": "jwz",
+          "description": "Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.",
+          "link": "https://www.jwz.org/blog/2021/05/jwz-mixtape-227/",
+          "publishedOn": "2021-05-14T16:38:46.000Z",
+          "wordCount": 540,
+          "title": "jwz mixtape 227"
+        },
+        {
           "id": "https://jwz.org/b/yjny",
           "author": "jwz",
           "description": "Animated map projections",
@@ -555,15 +564,6 @@
           "publishedOn": "2021-04-16T00:16:50.000Z",
           "wordCount": 440,
           "title": "thatwitchrevan:I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/648505139613794304",
-          "author": null,
-          "description": "exigencelost:\n\nexigencelost:\nI just think we shouldn’t hurt people on purpose and every single day I grapple with how upsetting and angering that idea is to people. \n\n\n\nPeople will say things like “if you think we shouldn’t hurt people on purpose that’s disrespectful and deliberately callous toward those who have been hurt on purpose already” and I have yet to find language to express the magnitude of how much that’s not true. We shouldn’t hurt people on purpose. Punishment is nothing. Cruelty is just cruel…",
-          "link": "https://curiosityconfusion.tumblr.com/post/648505139613794304",
-          "publishedOn": "2021-04-15T04:58:15.000Z",
-          "wordCount": 344,
-          "title": "exigencelost:exigencelost:\n\nI just think we shouldn’t hurt people on purpose and every single day I..."
         }
       ]
     }

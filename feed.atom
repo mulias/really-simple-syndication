@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T00:23:50.235Z</updated>
+    <updated>2021-05-15T00:22:51.937Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[jwz mixtape 227]]></title>
+        <id>https://jwz.org/b/yjnz</id>
+        <link href="https://www.jwz.org/blog/2021/05/jwz-mixtape-227/"/>
+        <updated>2021-05-14T16:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[airsignpariston:funhaver:ok but shonen rly did it with mob man. every protag is just some little boy...]]></title>
         <id>https://gfzoda.tumblr.com/post/651028914062458880</id>
@@ -717,25 +727,6 @@ people don’t just deserve clothes, they deserve nice clothes that are…]]></s
 
 I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love you&rsquo; and more 'you are worth the work it takes to love you.&rsquo; I KNOW I&rsquo;m a burden sometimes. that isn&rsquo;t such a terrible thing! humans are strong. we can carry burdens. and it is work for me to be there for my friends, but it&rsquo;s work I&rsquo;m willing to do. 
 we need to acknowledge this because pretending love isn&rsquo;t work will never make people like me feel less guilty for acc…]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[exigencelost:exigencelost:
-
-I just think we shouldn’t hurt people on purpose and every single day I...]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/648505139613794304</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/648505139613794304"/>
-        <updated>2021-04-15T04:58:15.000Z</updated>
-        <summary type="html"><![CDATA[exigencelost:
-
-exigencelost:
-I just think we shouldn’t hurt people on purpose and every single day I grapple with how upsetting and angering that idea is to people. 
-
-
-
-People will say things like “if you think we shouldn’t hurt people on purpose that’s disrespectful and deliberately callous toward those who have been hurt on purpose already” and I have yet to find language to express the magnitude of how much that’s not true. We shouldn’t hurt people on purpose. Punishment is nothing. Cruelty is just cruel…]]></summary>
         <author>
             <name>CuriosityConfusion</name>
         </author>
