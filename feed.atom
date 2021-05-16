@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T00:22:51.937Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T00:24:50.034Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein we are re-opening!]]></title>
+        <id>https://jwz.org/b/yjn0</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/05/15.html"/>
+        <updated>2021-05-15T20:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Ladies and Gentlemen, DNA Lounge will be open for your indoors, in-person festivities on Saturday, June 19th! Our lineup that evening begins with Hubba Hubba Revue at 7pm, the full, seated Big Show; then at 10pm, we bring you the triumphant return of Bootie Mashup! And in Above DNA, Xile Collective presents Lower Underground! Obviously the Feds or the State might pull the rug out from under us on this, but our understanding as of today is that in mid June, all restrictions will be lifted in California, and …]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[killapunk:
+
+one thing ill never forgive fandom for is its constant sacrificing of found family in...]]></title>
+        <id>https://gfzoda.tumblr.com/post/651254426098630656</id>
+        <link href="https://gfzoda.tumblr.com/post/651254426098630656"/>
+        <updated>2021-05-15T13:16:59.000Z</updated>
+        <summary type="html"><![CDATA[killapunk:
+one thing ill never forgive fandom for is its constant sacrificing of found family in favor of shipping shipping shipping like just go rub one out and come back and reexamine the material]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jwz mixtape 227]]></title>
         <id>https://jwz.org/b/yjnz</id>
@@ -716,19 +739,6 @@ people don’t just deserve clothes, they deserve nice clothes that are…]]></s
         <summary type="html"><![CDATA[A Field Guide To San Francisco's Iconic Street Signs: There have been roughly three eras of street signage in the city by the bay: the pre-automobile era, which featured a wildly inconsistent and much-complained-about mess through the 1800s and early 1900s. Then came a few decades of good standard blue porcelain signs (1920s to late 1940s). And finally the signature black-on-white that appeared in the 1940s and is still with us today. [...] Fortunately, we live among history today&#x200A; -- &#x200A;not sin…]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thatwitchrevan:I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love...]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/648578031317909504</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/648578031317909504"/>
-        <updated>2021-04-16T00:16:50.000Z</updated>
-        <summary type="html"><![CDATA[thatwitchrevan:
-
-I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love you&rsquo; and more 'you are worth the work it takes to love you.&rsquo; I KNOW I&rsquo;m a burden sometimes. that isn&rsquo;t such a terrible thing! humans are strong. we can carry burdens. and it is work for me to be there for my friends, but it&rsquo;s work I&rsquo;m willing to do. 
-we need to acknowledge this because pretending love isn&rsquo;t work will never make people like me feel less guilty for acc…]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
         </author>
     </entry>
 </feed>

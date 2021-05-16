@@ -34,6 +34,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjn0",
+          "author": "jwz",
+          "description": "Ladies and Gentlemen, DNA Lounge will be open for your indoors, in-person festivities on Saturday, June 19th! Our lineup that evening begins with Hubba Hubba Revue at 7pm, the full, seated Big Show; then at 10pm, we bring you the triumphant return of Bootie Mashup! And in Above DNA, Xile Collective presents Lower Underground! Obviously the Feds or the State might pull the rug out from under us on this, but our understanding as of today is that in mid June, all restrictions will be lifted in California, and …",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/15.html",
+          "publishedOn": "2021-05-15T20:28:49.000Z",
+          "wordCount": 341,
+          "title": "DNA Lounge: Wherein we are re-opening!"
+        },
+        {
           "id": "https://jwz.org/b/yjnz",
           "author": "jwz",
           "description": "Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.",
@@ -334,6 +343,15 @@
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
         {
+          "id": "https://gfzoda.tumblr.com/post/651254426098630656",
+          "author": null,
+          "description": "killapunk:\none thing ill never forgive fandom for is its constant sacrificing of found family in favor of shipping shipping shipping like just go rub one out and come back and reexamine the material",
+          "link": "https://gfzoda.tumblr.com/post/651254426098630656",
+          "publishedOn": "2021-05-15T13:16:59.000Z",
+          "wordCount": 235,
+          "title": "killapunk:\n\none thing ill never forgive fandom for is its constant sacrificing of found family in..."
+        },
+        {
           "id": "https://gfzoda.tumblr.com/post/651028914062458880",
           "author": null,
           "description": "airsignpariston:\n\nfunhaver:\n\nok but shonen rly did it with mob man. every protag is just some little boy but mob is the most boy ever and like it makes him so so incredible. like i have a soft spot for all of the sweet and pure protags like tanjiro and deku but like mob isn’t trying to be a superhero or save the world from evil he’s just trying to gain some muscle and talk to his crush and be a good big brother and yes i KNOW that’s the whole point of him and the show i just want to talk about him bc i love…",
@@ -555,18 +573,8 @@
       "title": "CuriosityConfusion",
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
-      "articles": [
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/648578031317909504",
-          "author": null,
-          "description": "thatwitchrevan:\n\nI personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love you&rsquo; and more 'you are worth the work it takes to love you.&rsquo; I KNOW I&rsquo;m a burden sometimes. that isn&rsquo;t such a terrible thing! humans are strong. we can carry burdens. and it is work for me to be there for my friends, but it&rsquo;s work I&rsquo;m willing to do. \nwe need to acknowledge this because pretending love isn&rsquo;t work will never make people like me feel less guilty for acc…",
-          "link": "https://curiosityconfusion.tumblr.com/post/648578031317909504",
-          "publishedOn": "2021-04-16T00:16:50.000Z",
-          "wordCount": 440,
-          "title": "thatwitchrevan:I personally wanna see less &lsquo;you are not a burden/it&rsquo;s not work to love..."
-        }
-      ]
+      "articles": []
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
