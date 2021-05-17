@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:24:50.034Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T00:22:25.707Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[batmanisagatewaydrug:ah-beans-im-a-transmed:batmanisagatewaydrug:queer is a gender, sexuality,...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/651378726843695104</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/651378726843695104"/>
+        <updated>2021-05-16T22:12:42.000Z</updated>
+        <summary type="html"><![CDATA[batmanisagatewaydrug:
+
+ah-beans-im-a-transmed:
+
+batmanisagatewaydrug:
+
+queer is a gender, sexuality, romantic orientation, political alignment, and mission statement, babey
+
+queer is literally a slur that means weird and strange 
+
+and I most certainly am weird and strange, what else you got?]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[smokethereisfire:Richard Calver (1946-) - Dandelions Rejoicing]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/651301886100684800</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/651301886100684800"/>
+        <updated>2021-05-16T01:51:20.000Z</updated>
+        <summary type="html"><![CDATA[smokethereisfire:
+
+Richard Calver (1946-) - Dandelions Rejoicing]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we are re-opening!]]></title>
         <id>https://jwz.org/b/yjn0</id>
@@ -709,36 +741,6 @@ people don’t just deserve to eat food, they deserve to eat good food that tast
 people don’t just deserve clothes, they deserve nice clothes that are…]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Tech's guide to talking about AI ethics]]></title>
-        <id>https://jwz.org/b/yjnR</id>
-        <link href="https://www.jwz.org/blog/2021/04/big-techs-guide-to-talking-about-ai-ethics/"/>
-        <updated>2021-04-16T22:26:48.000Z</updated>
-        <summary type="html"><![CDATA[50-ish words you can use to show that you care without incriminating yourself. artificial general intelligence (phrase) - A hypothetical AI god that's probably far off in the future but also maybe imminent. Can be really good or really bad whichever is more rhetorically useful. Obviously you're building the good one. Which is expensive. Therefore, you need more money. See long-term risks. compliance (n) - The act of following the law. Anything that isn't illegal goes. for good (ph) - As in "AI for good" or …]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's got a good beat and it's easy to dance to]]></title>
-        <id>https://jwz.org/b/yjnP</id>
-        <link href="https://www.jwz.org/blog/2021/04/its-got-a-good-beat-and-its-easy-to-dance-to/"/>
-        <updated>2021-04-16T21:53:12.000Z</updated>
-        <summary type="html"><![CDATA[It's got a good beat and it's easy to dance to]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fog City Gothic]]></title>
-        <id>https://jwz.org/b/yjnO</id>
-        <link href="https://www.jwz.org/blog/2021/04/fog-city-gothic/"/>
-        <updated>2021-04-16T17:52:39.000Z</updated>
-        <summary type="html"><![CDATA[A Field Guide To San Francisco's Iconic Street Signs: There have been roughly three eras of street signage in the city by the bay: the pre-automobile era, which featured a wildly inconsistent and much-complained-about mess through the 1800s and early 1900s. Then came a few decades of good standard blue porcelain signs (1920s to late 1940s). And finally the signature black-on-white that appeared in the 1940s and is still with us today. [...] Fortunately, we live among history today&#x200A; -- &#x200A;not sin…]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>

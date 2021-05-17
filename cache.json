@@ -257,33 +257,6 @@
           "publishedOn": "2021-04-18T18:05:51.000Z",
           "wordCount": 758,
           "title": "Black screen screen saver, $0.99. May require additional fees. ★★★★☆."
-        },
-        {
-          "id": "https://jwz.org/b/yjnR",
-          "author": "jwz",
-          "description": "50-ish words you can use to show that you care without incriminating yourself. artificial general intelligence (phrase) - A hypothetical AI god that's probably far off in the future but also maybe imminent. Can be really good or really bad whichever is more rhetorically useful. Obviously you're building the good one. Which is expensive. Therefore, you need more money. See long-term risks. compliance (n) - The act of following the law. Anything that isn't illegal goes. for good (ph) - As in \"AI for good\" or …",
-          "link": "https://www.jwz.org/blog/2021/04/big-techs-guide-to-talking-about-ai-ethics/",
-          "publishedOn": "2021-04-16T22:26:48.000Z",
-          "wordCount": 922,
-          "title": "Big Tech's guide to talking about AI ethics"
-        },
-        {
-          "id": "https://jwz.org/b/yjnP",
-          "author": "jwz",
-          "description": "It's got a good beat and it's easy to dance to",
-          "link": "https://www.jwz.org/blog/2021/04/its-got-a-good-beat-and-its-easy-to-dance-to/",
-          "publishedOn": "2021-04-16T21:53:12.000Z",
-          "wordCount": 848,
-          "title": "It's got a good beat and it's easy to dance to"
-        },
-        {
-          "id": "https://jwz.org/b/yjnO",
-          "author": "jwz",
-          "description": "A Field Guide To San Francisco's Iconic Street Signs: There have been roughly three eras of street signage in the city by the bay: the pre-automobile era, which featured a wildly inconsistent and much-complained-about mess through the 1800s and early 1900s. Then came a few decades of good standard blue porcelain signs (1920s to late 1940s). And finally the signature black-on-white that appeared in the 1940s and is still with us today. [...] Fortunately, we live among history today&#x200A; -- &#x200A;not sin…",
-          "link": "https://www.jwz.org/blog/2021/04/fog-city-gothic/",
-          "publishedOn": "2021-04-16T17:52:39.000Z",
-          "wordCount": 943,
-          "title": "Fog City Gothic"
         }
       ]
     },
@@ -573,8 +546,27 @@
       "title": "CuriosityConfusion",
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651378726843695104",
+          "author": null,
+          "description": "batmanisagatewaydrug:\n\nah-beans-im-a-transmed:\n\nbatmanisagatewaydrug:\n\nqueer is a gender, sexuality, romantic orientation, political alignment, and mission statement, babey\n\nqueer is literally a slur that means weird and strange \n\nand I most certainly am weird and strange, what else you got?",
+          "link": "https://curiosityconfusion.tumblr.com/post/651378726843695104",
+          "publishedOn": "2021-05-16T22:12:42.000Z",
+          "wordCount": 314,
+          "title": "batmanisagatewaydrug:ah-beans-im-a-transmed:batmanisagatewaydrug:queer is a gender, sexuality,..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651301886100684800",
+          "author": null,
+          "description": "smokethereisfire:\n\nRichard Calver (1946-) - Dandelions Rejoicing",
+          "link": "https://curiosityconfusion.tumblr.com/post/651301886100684800",
+          "publishedOn": "2021-05-16T01:51:20.000Z",
+          "wordCount": 265,
+          "title": "smokethereisfire:Richard Calver (1946-) - Dandelions Rejoicing"
+        }
+      ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
