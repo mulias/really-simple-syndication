@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T00:22:25.707Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T00:25:02.434Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[05/17/2021]]></title>
+        <id>http://www.bay12games.com/dwarves/index.html#2021-05-17</id>
+        <link href="http://www.bay12games.com/dwarves/index.html#2021-05-17"/>
+        <updated>2021-05-17T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[(Toady One) The second Covid shot.  Which is good, because that should convey a healthy chunk of anti-Covidness.  But it has also knocked me out for days, and I've still got insomnia and I physically tire quickly.  Hopefully that'll all pass before too long.  Still moving this month, and it's going to keep slowing everything down to a crawl.  The lease on the old place lapses this month, so we'll get through it one way or another!  
+	
+		Here's the Steam news from earlier, with the excellent trade depots a…]]></summary>
+        <author>
+            <name>Dwarf Fortress Development Log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not a place of honor.]]></title>
+        <id>https://jwz.org/b/yjn1</id>
+        <link href="https://www.jwz.org/blog/2021/05/not-a-place-of-honor/"/>
+        <updated>2021-05-17T18:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Not a place of honor.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[batmanisagatewaydrug:ah-beans-im-a-transmed:batmanisagatewaydrug:queer is a gender, sexuality,...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/651378726843695104</id>

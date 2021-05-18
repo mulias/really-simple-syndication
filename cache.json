@@ -6,6 +6,15 @@
       "siteUrl": "http://www.bay12games.com/dwarves/index.html",
       "articles": [
         {
+          "id": "http://www.bay12games.com/dwarves/index.html#2021-05-17",
+          "author": null,
+          "description": "(Toady One) The second Covid shot.  Which is good, because that should convey a healthy chunk of anti-Covidness.  But it has also knocked me out for days, and I've still got insomnia and I physically tire quickly.  Hopefully that'll all pass before too long.  Still moving this month, and it's going to keep slowing everything down to a crawl.  The lease on the old place lapses this month, so we'll get through it one way or another!  \r\n\t\r\n\t\tHere's the Steam news from earlier, with the excellent trade depots a…",
+          "link": "http://www.bay12games.com/dwarves/index.html#2021-05-17",
+          "publishedOn": "2021-05-17T19:17:00.000Z",
+          "wordCount": 13412,
+          "title": "05/17/2021"
+        },
+        {
           "id": "http://www.bay12games.com/dwarves/index.html#2021-05-01",
           "author": null,
           "description": "(Toady One) And here's \r\n\t\r\n\t\ta report.\r\n\t\r\n  Also \r\n\t\r\n\t\ta future of the fortress reply.",
@@ -33,6 +42,15 @@
       "feedUrl": "http://www.jwz.org/blog/feed/",
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
+        {
+          "id": "https://jwz.org/b/yjn1",
+          "author": "jwz",
+          "description": "Not a place of honor.",
+          "link": "https://www.jwz.org/blog/2021/05/not-a-place-of-honor/",
+          "publishedOn": "2021-05-17T18:25:14.000Z",
+          "wordCount": 573,
+          "title": "Not a place of honor."
+        },
         {
           "id": "https://jwz.org/b/yjn0",
           "author": "jwz",
@@ -568,5 +586,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }
