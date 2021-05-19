@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T00:25:02.434Z</updated>
+    <updated>2021-05-19T00:22:20.886Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[muppethole:muppethole:ursula k le guin was rightall of it, more or less]]></title>
+        <id>https://gfzoda.tumblr.com/post/651551744967442432</id>
+        <link href="https://gfzoda.tumblr.com/post/651551744967442432"/>
+        <updated>2021-05-18T20:02:44.000Z</updated>
+        <summary type="html"><![CDATA[muppethole:
+
+muppethole:
+
+ursula k le guin was right
+
+all of it, more or less]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[guooey:i love them. they are referred to as godlike in many...]]></title>
+        <id>https://gfzoda.tumblr.com/post/651479006615584768</id>
+        <link href="https://gfzoda.tumblr.com/post/651479006615584768"/>
+        <updated>2021-05-18T00:46:36.000Z</updated>
+        <summary type="html"><![CDATA[guooey:
+
+i love them. they are referred to as godlike in many ancient cultures while at the same time existing as just some guy. the duality… it doesn’t get better than this]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[maddiesharafian:A Blacksmith’s Dream]]></title>
+        <id>https://gfzoda.tumblr.com/post/651478425743343616</id>
+        <link href="https://gfzoda.tumblr.com/post/651478425743343616"/>
+        <updated>2021-05-18T00:37:22.000Z</updated>
+        <summary type="html"><![CDATA[maddiesharafian:
+
+A Blacksmith’s Dream]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[05/17/2021]]></title>
         <id>http://www.bay12games.com/dwarves/index.html#2021-05-17</id>
@@ -667,102 +707,6 @@ The Unix Magic poster
 Shift right by half a bit with regexps&#8230;]]></summary>
         <author>
             <name>Trivium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo]]></title>
-        <id>https://gfzoda.tumblr.com/post/648845810763759616</id>
-        <link href="https://gfzoda.tumblr.com/post/648845810763759616"/>
-        <updated>2021-04-18T23:13:04.000Z</updated>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little-miss-vendettaa:Lmfao anyway! :) Since this got some traffic- credits to @ itsmalikel on...]]></title>
-        <id>https://gfzoda.tumblr.com/post/648837003917574144</id>
-        <link href="https://gfzoda.tumblr.com/post/648837003917574144"/>
-        <updated>2021-04-18T20:53:06.000Z</updated>
-        <summary type="html"><![CDATA[little-miss-vendettaa:
-
-Lmfao anyway! :) 
-Since this got some traffic- credits to @ itsmalikel on Tiktok :D]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earthquake shacks]]></title>
-        <id>https://jwz.org/b/yjnT</id>
-        <link href="https://www.jwz.org/blog/2021/04/earthquake-shacks/"/>
-        <updated>2021-04-18T18:39:55.000Z</updated>
-        <summary type="html"><![CDATA[San Franciscans still live in 1906 earthquake shacks: There were once 5,610 refugee shacks in 11 San Francisco parks, assembled with lightning speed in the months after the April 18, 1906, earthquake and fire. Today, there are fewer than 50 identified in the city. But those that remain are a symbol of civic vision, built in a bureaucracy-free utopia that included a partnership among city officials, labor unions and the U.S. Army. They're also a symbol of post-crisis rebirth, designed to house the displaced …]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black screen screen saver, $0.99. May require additional fees. ★★★★☆.]]></title>
-        <id>https://jwz.org/b/yjnS</id>
-        <link href="https://www.jwz.org/blog/2021/04/black-screen-screen-saver-0-99-may-require-additional-fees/"/>
-        <updated>2021-04-18T18:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Foone:]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[steveholt:steveholt:Collecting images of women musicians with weapons&hellip;..So true besties...]]></title>
-        <id>https://gfzoda.tumblr.com/post/648807015579353088</id>
-        <link href="https://gfzoda.tumblr.com/post/648807015579353088"/>
-        <updated>2021-04-18T12:56:27.000Z</updated>
-        <summary type="html"><![CDATA[steveholt:
-
-steveholt:
-
-Collecting images of women musicians with weapons&hellip;..
-
-
-
-
-So true besties &lt;3
-
-HOW COULD I FORGET DOLLY&hellip;&hellip;]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[libraford:If you haven&rsquo;t watched &ldquo;Heaven&rsquo;s Design Team,&rdquo; I 100% recommend...]]></title>
-        <id>https://gfzoda.tumblr.com/post/648806897423630336</id>
-        <link href="https://gfzoda.tumblr.com/post/648806897423630336"/>
-        <updated>2021-04-18T12:54:34.000Z</updated>
-        <summary type="html"><![CDATA[libraford:
-
-If you haven&rsquo;t watched &ldquo;Heaven&rsquo;s Design Team,&rdquo; I 100% recommend for a good 10% brain show. Concept is that God outsourced animal design to a think-tank comprised of the other planets and each episode is like it was written by an angry biologist.]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the-sunflower-spaceman:the-sunflower-spaceman:the-sunflower-spaceman:hedonism is good actually rich...]]></title>
-        <id>https://gfzoda.tumblr.com/post/648806836469891072</id>
-        <link href="https://gfzoda.tumblr.com/post/648806836469891072"/>
-        <updated>2021-04-18T12:53:36.000Z</updated>
-        <summary type="html"><![CDATA[the-sunflower-spaceman:
-
-the-sunflower-spaceman:
-
-the-sunflower-spaceman:
-
-hedonism is good actually rich people just suck at it
-
-i think not only do we have a moral obligation to preserve human life but also a moral obligation to maximize the pleasure of others and ourselves (provided it doesn’t hurt anyone) 
-
-people don’t just deserve to eat food, they deserve to eat good food that tastes good without worrying about nutritional content 
-people don’t just deserve clothes, they deserve nice clothes that are…]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
