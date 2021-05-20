@@ -248,15 +248,6 @@
           "publishedOn": "2021-04-21T15:17:43.000Z",
           "wordCount": 658,
           "title": "Blue Whale Bandage"
-        },
-        {
-          "id": "https://jwz.org/b/yjnU",
-          "author": "jwz",
-          "description": "kobateck:",
-          "link": "https://www.jwz.org/blog/2021/04/oil-factory-what-a-compactness/",
-          "publishedOn": "2021-04-19T16:36:30.000Z",
-          "wordCount": 810,
-          "title": "\"Oil factory what a compactness\""
         }
       ]
     },
@@ -282,15 +273,6 @@
           "publishedOn": "2021-05-02T19:24:40.000Z",
           "wordCount": 93,
           "title": "02may2021"
-        },
-        {
-          "id": "https://leahneukirchen.org/trivium/2021-04-19",
-          "author": null,
-          "description": "Breaking GitHub Private Pages for $35k, good writeup by Robert Chen.\nModern CI is Too Complex and Misdirected, good ideas by Gregory Szorc.\nFour Bytes of Power: exploiting CVE-2021-26708 in the Linux kernel,\nby Alexander Popov.\nThe Cursed Computer Iceberg Meme\nThe Unix Magic poster\nShift right by half a bit with regexps&#8230;",
-          "link": "https://leahneukirchen.org/trivium/2021-04-19",
-          "publishedOn": "2021-04-19T15:00:41.000Z",
-          "wordCount": 69,
-          "title": "19apr2021"
         }
       ]
     },
@@ -315,6 +297,33 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/651632105876504576",
+          "author": null,
+          "description": "ace-pervert:\n\nnerdi-author-girl:\nessoreese:\n\ncwicseolfor:\nmaculategiraffe:\nme, reaching into my dresser drawer for black pants: I hope this isn’t the pair with big holes worn in the inner thighs\nMarie Kondo, gently over my shoulder: why is a pair of pants you find unwearable still in your dresser drawer\nme: oh shit that’s right!!  The dresser is for clothes that under some circumstance I might conceivably wear!!\nMarie Kondo, beaming proudly: Yes, that’s correct!!  These pants must have been your favorites. …",
+          "link": "https://gfzoda.tumblr.com/post/651632105876504576",
+          "publishedOn": "2021-05-19T17:20:03.000Z",
+          "wordCount": 505,
+          "title": "ace-pervert:nerdi-author-girl:\n\nessoreese:\ncwicseolfor:\n\nmaculategiraffe:\n\nme, reaching into my..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651622627892396032",
+          "author": null,
+          "description": "my-gender-is:\nmy gender is 37 axolotls in a top hat",
+          "link": "https://gfzoda.tumblr.com/post/651622627892396032",
+          "publishedOn": "2021-05-19T14:49:24.000Z",
+          "wordCount": 245,
+          "title": "my-gender-is:\n\nmy gender is 37 axolotls in a top hat"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651610411024760832",
+          "author": null,
+          "description": "42ds:\n\ndestroyingitself:\n\nqueeranarchism:\n\nrayvenreayes:\n\ngreat-tweets:\n\nBeware!\n\nAvoid sci-hub too👀\n\nFrom   Ask for PDFs from People with Institutional Access  \n\nIf you want to read an academic article that’s behind a paywall just email the author and ask politely if they will send you the article. Most academics will be thrilled that you want to read their work and will gladly send it to you. \n\nPSA",
+          "link": "https://gfzoda.tumblr.com/post/651610411024760832",
+          "publishedOn": "2021-05-19T11:35:13.000Z",
+          "wordCount": 304,
+          "title": "42ds:destroyingitself:queeranarchism:rayvenreayes:great-tweets:Beware!Avoid sci-hub too👀From   Ask..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/651551744967442432",
           "author": null,
