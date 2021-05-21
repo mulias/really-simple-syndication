@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T00:22:36.585Z</updated>
+    <updated>2021-05-21T00:23:26.388Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[foreverravenclaw:Why do little kids get all the cool clothes?? What if I want a shirt with...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/651717457724211200</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/651717457724211200"/>
+        <updated>2021-05-20T15:56:40.000Z</updated>
+        <summary type="html"><![CDATA[foreverravenclaw:
+
+Why do little kids get all the cool clothes?? What if I want a shirt with a 
+
+stegosaurus driving an excavator on it?? Huh, why does the fashion industry not think about that??]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[parakeet:parakeet:im eating the gemstones in the museum gift shop i like the taste]]></title>
+        <id>https://gfzoda.tumblr.com/post/651664120250269696</id>
+        <link href="https://gfzoda.tumblr.com/post/651664120250269696"/>
+        <updated>2021-05-20T01:48:54.000Z</updated>
+        <summary type="html"><![CDATA[parakeet:
+
+parakeet:
+
+im eating the gemstones in the museum gift shop i like the taste]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ace-pervert:nerdi-author-girl:
 
@@ -686,69 +714,6 @@ when toni morrison said “i just think goodness is more interesting. evil is c
         <summary type="html"><![CDATA[AMNH: &#x1F40B; We've received many questions about the blue whale's bandage: It's real. It was installed yesterday by Trenton from the Exhibition department! It's 6 feet long &#38; 2 feet wide. Come see it for yourself! Register for a vaccine today. (The whale room is a vaccination site, in case you missed that part.)]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doggosource:
-
-strech]]></title>
-        <id>https://gfzoda.tumblr.com/post/649030707651411968</id>
-        <link href="https://gfzoda.tumblr.com/post/649030707651411968"/>
-        <updated>2021-04-21T00:11:56.000Z</updated>
-        <summary type="html"><![CDATA[doggosource:
-strech]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[multi-couleur:MOB PSYCHO 100GIF ANIMATION COLLECTION]]></title>
-        <id>https://gfzoda.tumblr.com/post/649030701428228096</id>
-        <link href="https://gfzoda.tumblr.com/post/649030701428228096"/>
-        <updated>2021-04-21T00:11:50.000Z</updated>
-        <summary type="html"><![CDATA[multi-couleur:
-
-MOB PSYCHO 100
-GIF ANIMATION COLLECTION]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dragonknightcamilla:
-happy 4/20]]></title>
-        <id>https://gfzoda.tumblr.com/post/649030686988173313</id>
-        <link href="https://gfzoda.tumblr.com/post/649030686988173313"/>
-        <updated>2021-04-21T00:11:36.000Z</updated>
-        <summary type="html"><![CDATA[dragonknightcamilla:
-
-happy 4/20]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oct2pus:
-shubbabang:
-
-shubbabang:
-
-happy 420 and day i reserve a...]]></title>
-        <id>https://gfzoda.tumblr.com/post/649030525199220736</id>
-        <link href="https://gfzoda.tumblr.com/post/649030525199220736"/>
-        <updated>2021-04-21T00:09:02.000Z</updated>
-        <summary type="html"><![CDATA[oct2pus:
-
-shubbabang:
-shubbabang:
-happy 420 and day i reserve a spot in hell
-its that time again folks
-@shubbabang 
-
-
-(Source)]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
