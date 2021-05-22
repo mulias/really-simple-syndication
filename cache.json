@@ -43,6 +43,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjn4",
+          "author": "jwz",
+          "description": "As always, takedowns happen in seconds, and the appeals are processed in just as timely a fashion -- only 1,602 days this time. Fifty-three months! From: Instagram <no-reply@mail.instagram.com> Subject: Your video has been re-posted. Date: Fri, 21 May 2021 11:43:29 -0700 We received your appeal and re-posted the video you originally shared at 1:25 PM on December 31, 2016. View Video",
+          "link": "https://www.jwz.org/blog/2021/05/fucking-facebook-4/",
+          "publishedOn": "2021-05-21T19:28:26.000Z",
+          "wordCount": 620,
+          "title": "Fucking Facebook"
+        },
+        {
           "id": "https://jwz.org/b/yjn1",
           "author": "jwz",
           "description": "Not a place of honor.",
@@ -212,42 +221,6 @@
           "publishedOn": "2021-04-22T16:04:06.000Z",
           "wordCount": 789,
           "title": "SOMA Nature Walk: Bandit Intimidator 15XP"
-        },
-        {
-          "id": "https://jwz.org/b/yjnY",
-          "author": "jwz",
-          "description": "An immense coal mine in Xinjiang flooded and shut down over the weekend of April 17-18. The blackout halted no less than one-third of all of Bitcoin's global computing power. The Xinjiang accident highlights that Bitcoin is a creature of fossil fuels -- principally coal, the dirtiest of them all. Overall, de Vries reckons that fossil fuels power around 70% of all Bitcoin mines worldwide, and that coal provides the vast majority of that share. \"We now know for sure that one-third of all production runs on pu…",
-          "link": "https://www.jwz.org/blog/2021/04/coal-mining-bitcoin-mining-same-thing/",
-          "publishedOn": "2021-04-21T23:23:44.000Z",
-          "wordCount": 891,
-          "title": "Coal mining. Bitcoin mining. Same thing."
-        },
-        {
-          "id": "https://jwz.org/b/yjnX",
-          "author": "jwz",
-          "description": "It used to be that dragging from the URL bar of one window to a textarea in another would do the only sane thing: paste the URL as text. Now it opens a Finder window displaying a folder called \"WebKitDropDestination-8FCUXgO8\" with a .webloc file in it. Convenient. This started a couple of months ago. Is there some way I can make it stop doing this? Dragging from an HREF still works properly, it seems to be only the URL bar that has developed this new craziness. Generally, I'm impressed with how poorly macOS…",
-          "link": "https://www.jwz.org/blog/2021/04/stupid-safari/",
-          "publishedOn": "2021-04-21T22:53:36.000Z",
-          "wordCount": 1146,
-          "title": "Stupid Safari"
-        },
-        {
-          "id": "https://jwz.org/b/yjnW",
-          "author": "jwz",
-          "description": "This is glorious. I once had a jar of ferrofluid in Lavaite form-factor, but it was difficult to get it to do anything interesting, and completely static without hands-on.",
-          "link": "https://www.jwz.org/blog/2021/04/ferrofluid-speaker/",
-          "publishedOn": "2021-04-21T22:50:34.000Z",
-          "wordCount": 573,
-          "title": "Ferrofluid Speaker"
-        },
-        {
-          "id": "https://jwz.org/b/yjnV",
-          "author": "jwz",
-          "description": "AMNH: &#x1F40B; We've received many questions about the blue whale's bandage: It's real. It was installed yesterday by Trenton from the Exhibition department! It's 6 feet long &#38; 2 feet wide. Come see it for yourself! Register for a vaccine today. (The whale room is a vaccination site, in case you missed that part.)",
-          "link": "https://www.jwz.org/blog/2021/04/blue-whale-bandage/",
-          "publishedOn": "2021-04-21T15:17:43.000Z",
-          "wordCount": 658,
-          "title": "Blue Whale Bandage"
         }
       ]
     },
@@ -297,6 +270,15 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/651838370549481472",
+          "author": null,
+          "description": "theywontletmebeprincipal:\n\ngirl you look like a bloodborne boss (complimentary)",
+          "link": "https://gfzoda.tumblr.com/post/651838370549481472",
+          "publishedOn": "2021-05-21T23:58:32.000Z",
+          "wordCount": 264,
+          "title": "theywontletmebeprincipal:girl you look like a bloodborne boss (complimentary)"
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/651664120250269696",
           "author": null,

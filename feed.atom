@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T00:23:26.388Z</updated>
+    <updated>2021-05-22T00:24:07.687Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[theywontletmebeprincipal:girl you look like a bloodborne boss (complimentary)]]></title>
+        <id>https://gfzoda.tumblr.com/post/651838370549481472</id>
+        <link href="https://gfzoda.tumblr.com/post/651838370549481472"/>
+        <updated>2021-05-21T23:58:32.000Z</updated>
+        <summary type="html"><![CDATA[theywontletmebeprincipal:
+
+girl you look like a bloodborne boss (complimentary)]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fucking Facebook]]></title>
+        <id>https://jwz.org/b/yjn4</id>
+        <link href="https://www.jwz.org/blog/2021/05/fucking-facebook-4/"/>
+        <updated>2021-05-21T19:28:26.000Z</updated>
+        <summary type="html"><![CDATA[As always, takedowns happen in seconds, and the appeals are processed in just as timely a fashion -- only 1,602 days this time. Fifty-three months! From: Instagram <no-reply@mail.instagram.com> Subject: Your video has been re-posted. Date: Fri, 21 May 2021 11:43:29 -0700 We received your appeal and re-posted the video you originally shared at 1:25 PM on December 31, 2016. View Video]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[foreverravenclaw:Why do little kids get all the cool clothes?? What if I want a shirt with...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/651717457724211200</id>
@@ -672,46 +694,6 @@ when toni morrison said “i just think goodness is more interesting. evil is c
         <link href="https://www.jwz.org/blog/2021/04/soma-nature-walk-bandit-intimidator-15xp/"/>
         <updated>2021-04-22T16:04:06.000Z</updated>
         <summary type="html"><![CDATA[I just hope they stop cutting away more and more of my tree. Come on guys, the birds are the only thing I have left.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coal mining. Bitcoin mining. Same thing.]]></title>
-        <id>https://jwz.org/b/yjnY</id>
-        <link href="https://www.jwz.org/blog/2021/04/coal-mining-bitcoin-mining-same-thing/"/>
-        <updated>2021-04-21T23:23:44.000Z</updated>
-        <summary type="html"><![CDATA[An immense coal mine in Xinjiang flooded and shut down over the weekend of April 17-18. The blackout halted no less than one-third of all of Bitcoin's global computing power. The Xinjiang accident highlights that Bitcoin is a creature of fossil fuels -- principally coal, the dirtiest of them all. Overall, de Vries reckons that fossil fuels power around 70% of all Bitcoin mines worldwide, and that coal provides the vast majority of that share. "We now know for sure that one-third of all production runs on pu…]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stupid Safari]]></title>
-        <id>https://jwz.org/b/yjnX</id>
-        <link href="https://www.jwz.org/blog/2021/04/stupid-safari/"/>
-        <updated>2021-04-21T22:53:36.000Z</updated>
-        <summary type="html"><![CDATA[It used to be that dragging from the URL bar of one window to a textarea in another would do the only sane thing: paste the URL as text. Now it opens a Finder window displaying a folder called "WebKitDropDestination-8FCUXgO8" with a .webloc file in it. Convenient. This started a couple of months ago. Is there some way I can make it stop doing this? Dragging from an HREF still works properly, it seems to be only the URL bar that has developed this new craziness. Generally, I'm impressed with how poorly macOS…]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrofluid Speaker]]></title>
-        <id>https://jwz.org/b/yjnW</id>
-        <link href="https://www.jwz.org/blog/2021/04/ferrofluid-speaker/"/>
-        <updated>2021-04-21T22:50:34.000Z</updated>
-        <summary type="html"><![CDATA[This is glorious. I once had a jar of ferrofluid in Lavaite form-factor, but it was difficult to get it to do anything interesting, and completely static without hands-on.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Whale Bandage]]></title>
-        <id>https://jwz.org/b/yjnV</id>
-        <link href="https://www.jwz.org/blog/2021/04/blue-whale-bandage/"/>
-        <updated>2021-04-21T15:17:43.000Z</updated>
-        <summary type="html"><![CDATA[AMNH: &#x1F40B; We've received many questions about the blue whale's bandage: It's real. It was installed yesterday by Trenton from the Exhibition department! It's 6 feet long &#38; 2 feet wide. Come see it for yourself! Register for a vaccine today. (The whale room is a vaccination site, in case you missed that part.)]]></summary>
         <author>
             <name>jwz</name>
         </author>
