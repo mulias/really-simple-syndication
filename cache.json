@@ -43,6 +43,33 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjn9",
+          "author": "jwz",
+          "description": "Please welcome DNA Lounge Brand Dark Rum to the family, complementing our existing selection of Silver Rum, Vodka, Gin, Whiskey and Bourbon. Order your bottle today from DNA Pizza or pick up a bottle in person tonight and collect the whole set!",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/22.html",
+          "publishedOn": "2021-05-22T16:41:18.000Z",
+          "wordCount": 171,
+          "title": "DNA Lounge: Wherein we've got dark rum!"
+        },
+        {
+          "id": "https://jwz.org/b/yjn6",
+          "author": "jwz",
+          "description": "Dear Lazyweb, I've had a couple of people report that after upgrading to Fedora 34, XScreenSaver 6.00 has stopped being able to detect user activity and activates prematurely. From the logs they sent, it looks like the XInput2 extension still exists but has stopped working entirely. No events are printed by driver/test-xinput (with no args, or with -grab -kbd-async -mouse-async). Can anyone confirm or deny this? The server is still X.Org 12101001, however it was launched by sddm / startplasma / Xwayland and…",
+          "link": "https://www.jwz.org/blog/2021/05/xscreensaver-wayland-shenanigans/",
+          "publishedOn": "2021-05-22T16:30:35.000Z",
+          "wordCount": 941,
+          "title": "XScreenSaver Wayland shenanigans"
+        },
+        {
+          "id": "https://jwz.org/b/yjn5",
+          "author": "jwz",
+          "description": "Just spit on your hand and see what's gurgling around in there.",
+          "link": "https://www.jwz.org/blog/2021/05/burmese-peacock-softshell-turtle/",
+          "publishedOn": "2021-05-22T15:36:00.000Z",
+          "wordCount": 485,
+          "title": "Burmese peacock softshell turtle"
+        },
+        {
           "id": "https://jwz.org/b/yjn4",
           "author": "jwz",
           "description": "As always, takedowns happen in seconds, and the appeals are processed in just as timely a fashion -- only 1,602 days this time. Fifty-three months! From: Instagram <no-reply@mail.instagram.com> Subject: Your video has been re-posted. Date: Fri, 21 May 2021 11:43:29 -0700 We received your appeal and re-posted the video you originally shared at 1:25 PM on December 31, 2016. View Video",
@@ -203,24 +230,6 @@
           "publishedOn": "2021-04-23T16:00:28.000Z",
           "wordCount": 965,
           "title": "Means of Production"
-        },
-        {
-          "id": "https://jwz.org/b/yjnb",
-          "author": "jwz",
-          "description": "Governor Newsom says that on June 15th California will be doing The Full Florida. Obviously a lot can happen in 54 days, and for all we know the whole state might shut down again instead, but since there's a chance that we're going to be allowed to operate at a normal capacity by mid-June, we have to start making plans... and by plans I mean \"spending money\". As such, we're looking for a Bar Manager! Is that you? Here's our job posting. Bar Manager Job Description: The historic DNA Lounge is currently seeki…",
-          "link": "https://www.dnalounge.com/backstage/log/2021/04/22.html",
-          "publishedOn": "2021-04-22T17:15:21.000Z",
-          "wordCount": 746,
-          "title": "DNA Lounge: Wherein we're... hiring?"
-        },
-        {
-          "id": "https://jwz.org/b/yjna",
-          "author": "jwz",
-          "description": "I just hope they stop cutting away more and more of my tree. Come on guys, the birds are the only thing I have left.",
-          "link": "https://www.jwz.org/blog/2021/04/soma-nature-walk-bandit-intimidator-15xp/",
-          "publishedOn": "2021-04-22T16:04:06.000Z",
-          "wordCount": 789,
-          "title": "SOMA Nature Walk: Bandit Intimidator 15XP"
         }
       ]
     },
