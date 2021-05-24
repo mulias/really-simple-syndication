@@ -43,6 +43,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjn-",
+          "author": "jwz",
+          "description": "The IDF has been using small drones to drop tear gas on protesters in Ramallah in the West Bank.",
+          "link": "https://www.jwz.org/blog/2021/05/tear-gas-drones/",
+          "publishedOn": "2021-05-23T16:08:31.000Z",
+          "wordCount": 550,
+          "title": "Tear Gas Drones"
+        },
+        {
           "id": "https://jwz.org/b/yjn9",
           "author": "jwz",
           "description": "Please welcome DNA Lounge Brand Dark Rum to the family, complementing our existing selection of Silver Rum, Vodka, Gin, Whiskey and Bourbon. Order your bottle today from DNA Pizza or pick up a bottle in person tonight and collect the whole set!",
@@ -203,33 +212,6 @@
           "publishedOn": "2021-04-24T19:14:35.000Z",
           "wordCount": 1331,
           "title": "Today in Mark of the Beast news:"
-        },
-        {
-          "id": "https://jwz.org/b/yjne",
-          "author": "jwz",
-          "description": "CBP Releases Video From Predator Drone Deployed Over George Floyd Protests: Shortly after the Minneapolis police killing [ murder -- fixed that for you ] of George Floyd last year, Customs and Border Protection (CBP) flew a Predator drone over the city in an effort to surveil the ongoing protests against police brutality occurring there. The drone, which took off from Grand Forks Air Force Base in North Dakota and flew in a holding pattern over protests for approximately 90 minutes, recorded video from a he…",
-          "link": "https://www.jwz.org/blog/2021/04/predator-drone-ambience/",
-          "publishedOn": "2021-04-23T21:01:50.000Z",
-          "wordCount": 1071,
-          "title": "Predator Drone Ambience"
-        },
-        {
-          "id": "https://jwz.org/b/yjnd",
-          "author": "jwz",
-          "description": "Dear Lazyweb, is there a way of determining whether Apple Pay and Google Pay are actually in use? As opposed to, \"it is theoretically possible for the user to sign up for this service.\" I would like my checkout page to default to them if the customer actualy uses them, but not otherwise. Defaulting to an Apple/Google Pay button when it's not set up is a dark pattern that they are using to try and enlist me into advertising their service to non-users. Apple Pay: This snippet gives a \"yes\" response if you are…",
-          "link": "https://www.jwz.org/blog/2021/04/apple-pay-and-google-pay/",
-          "publishedOn": "2021-04-23T17:49:15.000Z",
-          "wordCount": 1390,
-          "title": "Apple Pay and Google Pay"
-        },
-        {
-          "id": "https://jwz.org/b/yjnc",
-          "author": "jwz",
-          "description": "Ingrid Burrington: I've lately been trying an exercise where, when reading anything by or about tech companies, I replace uses of the word \"infrastructure\" with \"means of production.\" For example, from Facebook's engineering web page: \"Our data centers are the cornerstones of the global means of production that brings Facebook apps and services to you every day.\" The sentence pretty much still makes sense -- without data centers, Facebook can't reach people, and therefore can't make money. It also works pre…",
-          "link": "https://www.jwz.org/blog/2021/04/means-of-production/",
-          "publishedOn": "2021-04-23T16:00:28.000Z",
-          "wordCount": 965,
-          "title": "Means of Production"
         }
       ]
     },
@@ -485,15 +467,6 @@
           "publishedOn": "2021-04-26T16:07:39.000Z",
           "wordCount": 252,
           "title": "Photo"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/649273715109036032",
-          "author": null,
-          "description": "princessithaca:\nazbukivedii:\n\nstevhoa:\nirtenyev:\n\nwhen w. h. auden said “evil is unspectacular and always human” and ursula k. leguin said “this is the great treason of the artist: a refusal to admit the banality of evil and the terrible boredom of pain”\n\nwhen toni morrison said “i just think goodness is more interesting. evil is constant. you can think of different ways to murder people, but you can do that at age five. but you have to be an adult to consciously, deliberately be good – and that’s complicat…",
-          "link": "https://gfzoda.tumblr.com/post/649273715109036032",
-          "publishedOn": "2021-04-23T16:34:26.000Z",
-          "wordCount": 512,
-          "title": "princessithaca:\n\nazbukivedii:stevhoa:\n\nirtenyev:when w. h. auden said “evil is unspectacular and..."
         }
       ]
     },
@@ -502,6 +475,33 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651943493806227456",
+          "author": null,
+          "description": "I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this post? Validate my existence? Please?",
+          "link": "https://curiosityconfusion.tumblr.com/post/651943493806227456",
+          "publishedOn": "2021-05-23T03:49:25.000Z",
+          "wordCount": 125,
+          "title": "I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651941419275124736",
+          "author": null,
+          "description": "closet-keys:\n\nIt’s extremely weird how comfortable people are with violence if it wears a police uniform. Like someone who would be afraid to even raise their voice against a customer and would never dream of shoving someone in intimidation in any situation is somehow simultaneously okay with asking someone to go up and threaten them with a loaded gun and drag them out of the building. If cops weren’t normalized and it was just some random guy, they’d never do it. They wouldn’t turn to their coworker and say “that person’s breaking the store policy, can you take this loaded gun and chase him out of here?” I wish I could snap people out of this cognitive dissonance they have where violence doesn’t count if it comes with a badge.",
+          "link": "https://curiosityconfusion.tumblr.com/post/651941419275124736",
+          "publishedOn": "2021-05-23T03:16:27.000Z",
+          "wordCount": 364,
+          "title": "closet-keys:It’s extremely weird how comfortable people are with violence if it wears a police..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651939753024978944",
+          "author": null,
+          "description": "ana-bolism:\n\nana-bolism:\n\nYou know what? I don’t want neurotypicals to see me as “normal.” I want them to be okay with my wackiness.\n\nI want them to be okay with autistic people being fucking weird when that’s what we are! I don’t want you to suddenly dismiss our unique behaviours. I want you to be okay with the fact I go extended amounts of time without talking. I want you to be okay with the fact I move my arms in a weird way. I want you to be okay with the fact I will be in genuine pain if I hear that seemingly harmless noise just one more time. I want neurotypicals to be okay with the fact that sometimes, they WILL find autistic people wacky and that we STILL deserve respect regardless.",
+          "link": "https://curiosityconfusion.tumblr.com/post/651939753024978944",
+          "publishedOn": "2021-05-23T02:49:58.000Z",
+          "wordCount": 366,
+          "title": "ana-bolism:ana-bolism:You know what? I don’t want neurotypicals to see me as “normal.” I want them..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/651717457724211200",
           "author": null,
@@ -532,5 +532,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }

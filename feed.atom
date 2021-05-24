@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:26:37.768Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T00:24:18.542Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tear Gas Drones]]></title>
+        <id>https://jwz.org/b/yjn-</id>
+        <link href="https://www.jwz.org/blog/2021/05/tear-gas-drones/"/>
+        <updated>2021-05-23T16:08:31.000Z</updated>
+        <summary type="html"><![CDATA[The IDF has been using small drones to drop tear gas on protesters in Ramallah in the West Bank.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/651943493806227456</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/651943493806227456"/>
+        <updated>2021-05-23T03:49:25.000Z</updated>
+        <summary type="html"><![CDATA[I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this post? Validate my existence? Please?]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[closet-keys:It’s extremely weird how comfortable people are with violence if it wears a police...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/651941419275124736</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/651941419275124736"/>
+        <updated>2021-05-23T03:16:27.000Z</updated>
+        <summary type="html"><![CDATA[closet-keys:
+
+It’s extremely weird how comfortable people are with violence if it wears a police uniform. Like someone who would be afraid to even raise their voice against a customer and would never dream of shoving someone in intimidation in any situation is somehow simultaneously okay with asking someone to go up and threaten them with a loaded gun and drag them out of the building. If cops weren’t normalized and it was just some random guy, they’d never do it. They wouldn’t turn to their coworker and say “that person’s breaking the store policy, can you take this loaded gun and chase him out of here?” I wish I could snap people out of this cognitive dissonance they have where violence doesn’t count if it comes with a badge.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ana-bolism:ana-bolism:You know what? I don’t want neurotypicals to see me as “normal.” I want them...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/651939753024978944</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/651939753024978944"/>
+        <updated>2021-05-23T02:49:58.000Z</updated>
+        <summary type="html"><![CDATA[ana-bolism:
+
+ana-bolism:
+
+You know what? I don’t want neurotypicals to see me as “normal.” I want them to be okay with my wackiness.
+
+I want them to be okay with autistic people being fucking weird when that’s what we are! I don’t want you to suddenly dismiss our unique behaviours. I want you to be okay with the fact I go extended amounts of time without talking. I want you to be okay with the fact I move my arms in a weird way. I want you to be okay with the fact I will be in genuine pain if I hear that seemingly harmless noise just one more time. I want neurotypicals to be okay with the fact that sometimes, they WILL find autistic people wacky and that we STILL deserve respect regardless.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we've got dark rum!]]></title>
         <id>https://jwz.org/b/yjn9</id>
@@ -652,58 +700,6 @@ Adorable round birds]]></summary>
         <link href="https://www.jwz.org/blog/2021/04/today-in-mark-of-the-beast-news/"/>
         <updated>2021-04-24T19:14:35.000Z</updated>
         <summary type="html"><![CDATA[Surprisingly, Apple AirTag has built-in anti-stalking tech: Unfortunately like the discreet Tile product they're modeled on, AirTags sound like a gift from Apple to stalkers and people who'd use them to track the location and movements of unsuspecting victims. For the one in four U.S. women experiencing domestic violence the chime of a found AirTag would be the sound of a nightmare becoming reality. [...] Essentially, an item in iPhone's Safety Alerts section will let you know when a creep slips an AirTag i…]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predator Drone Ambience]]></title>
-        <id>https://jwz.org/b/yjne</id>
-        <link href="https://www.jwz.org/blog/2021/04/predator-drone-ambience/"/>
-        <updated>2021-04-23T21:01:50.000Z</updated>
-        <summary type="html"><![CDATA[CBP Releases Video From Predator Drone Deployed Over George Floyd Protests: Shortly after the Minneapolis police killing [ murder -- fixed that for you ] of George Floyd last year, Customs and Border Protection (CBP) flew a Predator drone over the city in an effort to surveil the ongoing protests against police brutality occurring there. The drone, which took off from Grand Forks Air Force Base in North Dakota and flew in a holding pattern over protests for approximately 90 minutes, recorded video from a he…]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Pay and Google Pay]]></title>
-        <id>https://jwz.org/b/yjnd</id>
-        <link href="https://www.jwz.org/blog/2021/04/apple-pay-and-google-pay/"/>
-        <updated>2021-04-23T17:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Dear Lazyweb, is there a way of determining whether Apple Pay and Google Pay are actually in use? As opposed to, "it is theoretically possible for the user to sign up for this service." I would like my checkout page to default to them if the customer actualy uses them, but not otherwise. Defaulting to an Apple/Google Pay button when it's not set up is a dark pattern that they are using to try and enlist me into advertising their service to non-users. Apple Pay: This snippet gives a "yes" response if you are…]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[princessithaca:
-
-azbukivedii:stevhoa:
-
-irtenyev:when w. h. auden said “evil is unspectacular and...]]></title>
-        <id>https://gfzoda.tumblr.com/post/649273715109036032</id>
-        <link href="https://gfzoda.tumblr.com/post/649273715109036032"/>
-        <updated>2021-04-23T16:34:26.000Z</updated>
-        <summary type="html"><![CDATA[princessithaca:
-azbukivedii:
-
-stevhoa:
-irtenyev:
-
-when w. h. auden said “evil is unspectacular and always human” and ursula k. leguin said “this is the great treason of the artist: a refusal to admit the banality of evil and the terrible boredom of pain”
-
-when toni morrison said “i just think goodness is more interesting. evil is constant. you can think of different ways to murder people, but you can do that at age five. but you have to be an adult to consciously, deliberately be good – and that’s complicat…]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Means of Production]]></title>
-        <id>https://jwz.org/b/yjnc</id>
-        <link href="https://www.jwz.org/blog/2021/04/means-of-production/"/>
-        <updated>2021-04-23T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Ingrid Burrington: I've lately been trying an exercise where, when reading anything by or about tech companies, I replace uses of the word "infrastructure" with "means of production." For example, from Facebook's engineering web page: "Our data centers are the cornerstones of the global means of production that brings Facebook apps and services to you every day." The sentence pretty much still makes sense -- without data centers, Facebook can't reach people, and therefore can't make money. It also works pre…]]></summary>
         <author>
             <name>jwz</name>
         </author>
