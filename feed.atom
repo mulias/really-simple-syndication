@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:24:18.542Z</updated>
+    <updated>2021-05-25T00:25:26.774Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[acemer1in:theprinceofsnark:askasexual:occasionally-gay:incessant-honking:bad-puns-n-finger-guns:ice-d...]]></title>
+        <id>https://gfzoda.tumblr.com/post/652098974296178688</id>
+        <link href="https://gfzoda.tumblr.com/post/652098974296178688"/>
+        <updated>2021-05-24T21:00:43.000Z</updated>
+        <summary type="html"><![CDATA[acemer1in:
+
+theprinceofsnark:
+
+askasexual:
+
+occasionally-gay:
+
+incessant-honking:
+
+bad-puns-n-finger-guns:
+
+ice-dispenser:
+bad-puns-n-finger-guns:
+
+2boldlyqueer:
+
+sporkkles-irl:
+
+bill-nye-official-blog:
+
+ice-dispenser:
+
+things i’ll not call you a whore for:
+
+sexual activity
+how you dress
+
+things i’ll call you a whore for:
+
+stealing my food 
+stealing my lemons
+my cat likes you more than me
+
+why are lemons separate from food op?
+
+everyone knows lemons arent food
+
+lemon stealing whores are a huge issue separate from food stealing whores. there’s a whole documentary about whores stealing lemons from the trees of unsuspecting victims. you can see the first two minutes of it here.
+
+
+
+Thats a rickroll. That totally is a fucking rickroll. No fukin way. Not falling for it.
+
+dude, trust me, that isn’t a rick roll. its something worse
+
+
+
+Me to the rest of tumblr after actually watching what was in the link:
+
+…I really don’t know what I was expecting.
+
+
+
+What the fuck did i just watch.
+
+
+
+It- it’s not a Rick  roll 
+
+
+
+Have we really reached a time when the Lemon Stealing Whores are no longer common knowledge.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24may2021]]></title>
+        <id>https://leahneukirchen.org/trivium/2021-05-24</id>
+        <link href="https://leahneukirchen.org/trivium/2021-05-24"/>
+        <updated>2021-05-24T19:22:52.000Z</updated>
+        <summary type="html"><![CDATA[FragAttacks, a collection of new security vulnerabilities that
+affect Wi-Fi devices.
+Counterexamples in Type Systems, by Stephen Dolan.
+Three Realisms and The Idea of Sheaves (YouTube),
+talk by David Jaz Myers.
+Explains many complicated terms in a graphical way.
+Pepper, a simple and opinionated modal code editor for your terminal.
+Still early but feels pretty nice already.
+bpftrace-2048, because you can.
+Baking Magnetic Recording Tape, sometimes you just have to.
+Soda locomotive
+NEW SESSION]]></summary>
+        <author>
+            <name>Trivium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein the construction will continue until morale improves.]]></title>
+        <id>https://jwz.org/b/yjoB</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/05/24.html"/>
+        <updated>2021-05-24T17:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Here's a final photo of our new dance floor, after being painted and before anyone has thrown up on it, or dragged a road case across it where half of the wheels have been replaced with jagged pieces of sheet metal: We re-surfaced the Above DNA stage. No more burlesque performers complaining about getting splinters in their butts! We replaced the floor in our walk-in fridge. Ten years of dragging beer kegs over it took quite a toll: And we built a new VIP booth. We've replaced the two upstairs 6-person booths with a single 9-person booth. It's raised on a platform like downstairs, and has three benches and is a bit more enclosed than the others: Only 35 more days until we get to invite you back inside!]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thetatteredveil:thetatteredveil:books had absolutely no right trying to tell me that swamp hags are...]]></title>
+        <id>https://gfzoda.tumblr.com/post/652077249951055872</id>
+        <link href="https://gfzoda.tumblr.com/post/652077249951055872"/>
+        <updated>2021-05-24T15:15:25.000Z</updated>
+        <summary type="html"><![CDATA[thetatteredveil:
+
+thetatteredveil:
+
+books had absolutely no right trying to tell me that swamp hags are villains. the older i get the more i can feel myself yearning to become that bitch baba yaga. i dont want skin and i dont want a system of commerce and currency i want moss for hair and a big bubbling cauldron
+
+to be clear yes i think swamp hags are evil im just saying that theyre right]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tear Gas Drones]]></title>
         <id>https://jwz.org/b/yjn-</id>
@@ -692,16 +811,6 @@ Adorable round birds]]></summary>
         <updated>2021-04-26T16:07:39.000Z</updated>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in Mark of the Beast news:]]></title>
-        <id>https://jwz.org/b/yjnf</id>
-        <link href="https://www.jwz.org/blog/2021/04/today-in-mark-of-the-beast-news/"/>
-        <updated>2021-04-24T19:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Surprisingly, Apple AirTag has built-in anti-stalking tech: Unfortunately like the discreet Tile product they're modeled on, AirTags sound like a gift from Apple to stalkers and people who'd use them to track the location and movements of unsuspecting victims. For the one in four U.S. women experiencing domestic violence the chime of a found AirTag would be the sound of a nightmare becoming reality. [...] Essentially, an item in iPhone's Safety Alerts section will let you know when a creep slips an AirTag i…]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>
