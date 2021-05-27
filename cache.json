@@ -43,6 +43,24 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoD",
+          "author": "jwz",
+          "description": "Suncreen infosec",
+          "link": "https://www.jwz.org/blog/2021/05/suncreen-infosec/",
+          "publishedOn": "2021-05-26T16:37:42.000Z",
+          "wordCount": 443,
+          "title": "Suncreen infosec"
+        },
+        {
+          "id": "https://jwz.org/b/yjoC",
+          "author": "jwz",
+          "description": "Here's the worst part about switching to a new point-of-sale system: buying a whole stack of new iPads. And this is less than half of them. Because of course the perfectly functional iPads we already have are now unsuitable. These things would have been considered supercomputers in the 90s, but I'm to believe that they are so old and obsolete that they are incapable of keeping up with someone clicking the button that says \"cheese slice\". A task like that obviously requires the absolute bleeding edge. Apple has stopped shipping OS updates for our existing iPads, and vendors don't support old versions of iOS, largely because Apple intentionally makes it nearly impossible for them to do so even if they wanted to. The second worst part is that nobody offers data portability of any kind. If we …",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/25.html",
+          "publishedOn": "2021-05-26T03:54:55.000Z",
+          "wordCount": 1819,
+          "title": "DNA Lounge: Wherein we have a new POS"
+        },
+        {
           "id": "https://jwz.org/b/yjoB",
           "author": "jwz",
           "description": "Here's a final photo of our new dance floor, after being painted and before anyone has thrown up on it, or dragged a road case across it where half of the wheels have been replaced with jagged pieces of sheet metal: We re-surfaced the Above DNA stage. No more burlesque performers complaining about getting splinters in their butts! We replaced the floor in our walk-in fridge. Ten years of dragging beer kegs over it took quite a toll: And we built a new VIP booth. We've replaced the two upstairs 6-person booths with a single 9-person booth. It's raised on a platform like downstairs, and has three benches and is a bit more enclosed than the others: Only 35 more days until we get to invite you back inside!",
@@ -203,15 +221,6 @@
           "publishedOn": "2021-04-27T20:00:39.000Z",
           "wordCount": 1842,
           "title": "LOL Burners."
-        },
-        {
-          "id": "https://jwz.org/b/yjni",
-          "author": "jwz",
-          "description": "So, you just wanna stream 24/7, and occasionally switch input on a timer? How hard could that be? For your amusement, read the comments in the ~2000 line sh script that keeps DNA Lounge running. Here be monsters. When I say that almost all of my coding stems from either self defense or spite, this is what I mean.",
-          "link": "https://www.jwz.org/blog/2021/04/look-upon-my-obs-hell-and-despair/",
-          "publishedOn": "2021-04-26T17:35:21.000Z",
-          "wordCount": 1887,
-          "title": "Look upon my OBS hell and despair"
         }
       ]
     },
@@ -270,6 +279,15 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/652253593949421568",
+          "author": null,
+          "description": "wishfishy:\n\nrespectfulofwomen:\n\n\nJohn Brosio’s paintings exemplify what I truly mean when I say “it’s time for crab”.",
+          "link": "https://gfzoda.tumblr.com/post/652253593949421568",
+          "publishedOn": "2021-05-26T13:58:20.000Z",
+          "wordCount": 276,
+          "title": "wishfishy:respectfulofwomen:John Brosio’s paintings exemplify what I truly mean when I say “it’s..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/652098974296178688",
           "author": null,
@@ -467,33 +485,6 @@
           "publishedOn": "2021-05-01T13:58:48.000Z",
           "wordCount": 298,
           "title": "acastersource:James Acaster: Cold Lasagne Hate Myself 1999Bonus:"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/649589577570451456",
-          "author": null,
-          "description": "rusty-pulley-stars:\n\ni finally finished my quiz! how gullible are you?",
-          "link": "https://gfzoda.tumblr.com/post/649589577570451456",
-          "publishedOn": "2021-04-27T04:14:56.000Z",
-          "wordCount": 297,
-          "title": "rusty-pulley-stars:i finally finished my quiz! how gullible are you?"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/649546754960801793",
-          "author": null,
-          "description": "jaubaius:\nAdorable round birds",
-          "link": "https://gfzoda.tumblr.com/post/649546754960801793",
-          "publishedOn": "2021-04-26T16:54:17.000Z",
-          "wordCount": 261,
-          "title": "jaubaius:\n\nAdorable round birds"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/649543821387038720",
-          "author": null,
-          "description": "",
-          "link": "https://gfzoda.tumblr.com/post/649543821387038720",
-          "publishedOn": "2021-04-26T16:07:39.000Z",
-          "wordCount": 252,
-          "title": "Photo"
         }
       ]
     },
@@ -559,5 +550,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }

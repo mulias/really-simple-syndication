@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T00:31:26.339Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T00:33:06.051Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Suncreen infosec]]></title>
+        <id>https://jwz.org/b/yjoD</id>
+        <link href="https://www.jwz.org/blog/2021/05/suncreen-infosec/"/>
+        <updated>2021-05-26T16:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Suncreen infosec]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wishfishy:respectfulofwomen:John Brosio’s paintings exemplify what I truly mean when I say “it’s...]]></title>
+        <id>https://gfzoda.tumblr.com/post/652253593949421568</id>
+        <link href="https://gfzoda.tumblr.com/post/652253593949421568"/>
+        <updated>2021-05-26T13:58:20.000Z</updated>
+        <summary type="html"><![CDATA[wishfishy:
+
+respectfulofwomen:
+
+
+John Brosio’s paintings exemplify what I truly mean when I say “it’s time for crab”.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein we have a new POS]]></title>
+        <id>https://jwz.org/b/yjoC</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/05/25.html"/>
+        <updated>2021-05-26T03:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Here's the worst part about switching to a new point-of-sale system: buying a whole stack of new iPads. And this is less than half of them. Because of course the perfectly functional iPads we already have are now unsuitable. These things would have been considered supercomputers in the 90s, but I'm to believe that they are so old and obsolete that they are incapable of keeping up with someone clicking the button that says "cheese slice". A task like that obviously requires the absolute bleeding edge. Apple has stopped shipping OS updates for our existing iPads, and vendors don't support old versions of iOS, largely because Apple intentionally makes it nearly impossible for them to do so even if they wanted to. The second worst part is that nobody offers data portability of any kind. If we …]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[acemer1in:theprinceofsnark:askasexual:occasionally-gay:incessant-honking:bad-puns-n-finger-guns:ice-d...]]></title>
         <id>https://gfzoda.tumblr.com/post/652098974296178688</id>
@@ -767,50 +802,6 @@ Good programming is about creating small, understandable, reusable pieces of log
         <summary type="html"><![CDATA["Burning Man would like to thank you for your generous donation of $2,500 to reserve the right to buy a ticket to an event that is not happening this year." Burning Man's ticket sales have always been both rapacious and stultifyingly, comically incompetent, but I see that this year they have finally learned a few things and gone full TicketMaster. Slow clap.]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rusty-pulley-stars:i finally finished my quiz! how gullible are you?]]></title>
-        <id>https://gfzoda.tumblr.com/post/649589577570451456</id>
-        <link href="https://gfzoda.tumblr.com/post/649589577570451456"/>
-        <updated>2021-04-27T04:14:56.000Z</updated>
-        <summary type="html"><![CDATA[rusty-pulley-stars:
-
-i finally finished my quiz! how gullible are you?]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look upon my OBS hell and despair]]></title>
-        <id>https://jwz.org/b/yjni</id>
-        <link href="https://www.jwz.org/blog/2021/04/look-upon-my-obs-hell-and-despair/"/>
-        <updated>2021-04-26T17:35:21.000Z</updated>
-        <summary type="html"><![CDATA[So, you just wanna stream 24/7, and occasionally switch input on a timer? How hard could that be? For your amusement, read the comments in the ~2000 line sh script that keeps DNA Lounge running. Here be monsters. When I say that almost all of my coding stems from either self defense or spite, this is what I mean.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jaubaius:
-
-Adorable round birds]]></title>
-        <id>https://gfzoda.tumblr.com/post/649546754960801793</id>
-        <link href="https://gfzoda.tumblr.com/post/649546754960801793"/>
-        <updated>2021-04-26T16:54:17.000Z</updated>
-        <summary type="html"><![CDATA[jaubaius:
-Adorable round birds]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo]]></title>
-        <id>https://gfzoda.tumblr.com/post/649543821387038720</id>
-        <link href="https://gfzoda.tumblr.com/post/649543821387038720"/>
-        <updated>2021-04-26T16:07:39.000Z</updated>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
