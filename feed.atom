@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T00:33:06.051Z</updated>
+    <updated>2021-05-28T00:37:24.148Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
@@ -792,16 +792,6 @@ The reason?
 Good programming is about creating small, understandable, reusable pieces of logic that can be tested, given names, and organized into packages which can later be used to construct more useful pieces of logic. SQL resists this workflow. Although you can encapsulate certain repea…]]></summary>
         <author>
             <name>Lambda the Ultimate - Programming Languages Weblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOL Burners.]]></title>
-        <id>https://jwz.org/b/yjnl</id>
-        <link href="https://www.jwz.org/blog/2021/04/lol-burners/"/>
-        <updated>2021-04-27T20:00:39.000Z</updated>
-        <summary type="html"><![CDATA["Burning Man would like to thank you for your generous donation of $2,500 to reserve the right to buy a ticket to an event that is not happening this year." Burning Man's ticket sales have always been both rapacious and stultifyingly, comically incompetent, but I see that this year they have finally learned a few things and gone full TicketMaster. Slow clap.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>
