@@ -1,0 +1,527 @@
+{
+  "sources": [
+    {
+      "title": "Dwarf Fortress Development Log",
+      "feedUrl": "http://www.bay12games.com/dwarves/dev_now.rss",
+      "siteUrl": "http://www.bay12games.com/dwarves/index.html",
+      "articles": [
+        {
+          "id": "http://www.bay12games.com/dwarves/index.html#2021-05-17",
+          "author": null,
+          "description": "(Toady One) The second Covid shot.  Which is good, because that should convey a healthy chunk of anti-Covidness.  But it has also knocked me out for days, and I've still got insomnia and I physically tire quickly.  Hopefully that'll all pass before too long.  Still moving this month, and it's going to keep slowing everything down to a crawl.  The lease on the old place lapses this month, so we'll get through it one way or another!  \r\n\t\r\n\t\tHere's the Steam news from earlier, with the excellent trade depots and pack critters Patrick drew up.\r\n\t\r\n\r\n\n\r\nHere is an archive of IGN's list of charities helping Palestinian civilians, before it was taken down.  The organizations listed are\r\n\n\r\nPalestine Children's Relief Fund\r\n\n\r\nAnera\r\n\n\r\nUnited Nations Relief and Works Agency\r\n\n\r\nMedical Aid for Palestinians\r\n\n\r\nDoctors Without Borders\r\n\n\r\nWe oppose US-backed war crimes and the continuing apartheid, including the ongoing bombing in Gaza and evictions in Jerusalem and the West Bank.",
+          "link": "http://www.bay12games.com/dwarves/index.html#2021-05-17",
+          "publishedOn": "2021-05-17T19:17:00.000Z",
+          "wordCount": 13412,
+          "title": "05/17/2021"
+        }
+      ]
+    },
+    {
+      "title": "fite me",
+      "feedUrl": "https://pseudoartist.tumblr.com/rss",
+      "siteUrl": "https://pseudoartist.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "One Thing Well",
+      "feedUrl": "http://onethingwell.org/rss",
+      "siteUrl": "https://onethingwell.org/",
+      "articles": []
+    },
+    {
+      "title": "jwz",
+      "feedUrl": "http://www.jwz.org/blog/feed/",
+      "siteUrl": "https://www.jwz.org/blog/",
+      "articles": [
+        {
+          "id": "https://jwz.org/b/yjoF",
+          "author": "jwz",
+          "description": "We just picked up a 75\" TV for super cheap and we're trying to figure out what to do with it. I was thinking maybe we'd set it up vertically (5'6\" tall!) and turn it into some kind of \"magic mirror\" where it does video effects on your reflection or something. Is there any good software out there for that? Any other suggestions? It's very heavy, so using it as an on-stage prop would be a hassle; it needs to be mounted somewhere. We could just stick it in the DNA Pizza window and use it for signage, but that's not very exciting.",
+          "link": "https://www.jwz.org/blog/2021/05/what-to-do-with-a-big-tv/",
+          "publishedOn": "2021-05-29T18:44:27.000Z",
+          "wordCount": 774,
+          "title": "What to do with a big TV?"
+        },
+        {
+          "id": "https://jwz.org/b/yjoE",
+          "author": "jwz",
+          "description": "Body parts, due to their hollow nature, often contain water. We do not want them to leak in your car. You can bring a cordless drill to let \"water\" out. We often get asked about hands. You are welcome to hands but there is a limit of 5 pairs per customer along with other parts. Under no circumstances whatsoever will you be able to fill your car boot with hands. Please don't ask.",
+          "link": "https://www.jwz.org/blog/2021/05/mannequin-mountain/",
+          "publishedOn": "2021-05-28T18:05:10.000Z",
+          "wordCount": 624,
+          "title": "Mannequin Mountain"
+        },
+        {
+          "id": "https://jwz.org/b/yjoD",
+          "author": "jwz",
+          "description": "Suncreen infosec",
+          "link": "https://www.jwz.org/blog/2021/05/suncreen-infosec/",
+          "publishedOn": "2021-05-26T16:37:42.000Z",
+          "wordCount": 471,
+          "title": "Suncreen infosec"
+        },
+        {
+          "id": "https://jwz.org/b/yjoC",
+          "author": "jwz",
+          "description": "Here's the worst part about switching to a new point-of-sale system: buying a whole stack of new iPads. And this is less than half of them. Because of course the perfectly functional iPads we already have are now unsuitable. These things would have been considered supercomputers in the 90s, but I'm to believe that they are so old and obsolete that they are incapable of keeping up with someone clicking the button that says \"cheese slice\". A task like that obviously requires the absolute bleeding edge. Apple has stopped shipping OS updates for our existing iPads, and vendors don't support old versions of iOS, largely because Apple intentionally makes it nearly impossible for them to do so even if they wanted to. The second worst part is that nobody offers data portability of any kind. If we …",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/25.html",
+          "publishedOn": "2021-05-26T03:54:55.000Z",
+          "wordCount": 2314,
+          "title": "DNA Lounge: Wherein we have a new POS"
+        },
+        {
+          "id": "https://jwz.org/b/yjoB",
+          "author": "jwz",
+          "description": "Here's a final photo of our new dance floor, after being painted and before anyone has thrown up on it, or dragged a road case across it where half of the wheels have been replaced with jagged pieces of sheet metal: We re-surfaced the Above DNA stage. No more burlesque performers complaining about getting splinters in their butts! We replaced the floor in our walk-in fridge. Ten years of dragging beer kegs over it took quite a toll: And we built a new VIP booth. We've replaced the two upstairs 6-person booths with a single 9-person booth. It's raised on a platform like downstairs, and has three benches and is a bit more enclosed than the others: Only 35 more days until we get to invite you back inside!",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/24.html",
+          "publishedOn": "2021-05-24T17:31:49.000Z",
+          "wordCount": 314,
+          "title": "DNA Lounge: Wherein the construction will continue until morale improves."
+        },
+        {
+          "id": "https://jwz.org/b/yjn-",
+          "author": "jwz",
+          "description": "The IDF has been using small drones to drop tear gas on protesters in Ramallah in the West Bank.",
+          "link": "https://www.jwz.org/blog/2021/05/tear-gas-drones/",
+          "publishedOn": "2021-05-23T16:08:31.000Z",
+          "wordCount": 599,
+          "title": "Tear Gas Drones",
+          "enclosure": {
+            "url": "https://www.jwz.org/images/2021/5ifwwuqnb9w-ypuh.mp4",
+            "length": "572617",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://jwz.org/b/yjn9",
+          "author": "jwz",
+          "description": "Please welcome DNA Lounge Brand Dark Rum to the family, complementing our existing selection of Silver Rum, Vodka, Gin, Whiskey and Bourbon. Order your bottle today from DNA Pizza or pick up a bottle in person tonight and collect the whole set!",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/22.html",
+          "publishedOn": "2021-05-22T16:41:18.000Z",
+          "wordCount": 177,
+          "title": "DNA Lounge: Wherein we've got dark rum!"
+        },
+        {
+          "id": "https://jwz.org/b/yjn6",
+          "author": "jwz",
+          "description": "Dear Lazyweb, I've had a couple of people report that after upgrading to Fedora 34, XScreenSaver 6.00 has stopped being able to detect user activity and activates prematurely. From the logs they sent, it looks like the XInput2 extension still exists but has stopped working entirely. No events are printed by driver/test-xinput (with no args, or with -grab -kbd-async -mouse-async). Can anyone confirm or deny this? The server is still X.Org 12101001, however it was launched by sddm / startplasma / Xwayland and the environment contains XDG_SESSION_TYPE=wayland and WAYLAND_DISPLAY=wayland-0. So maybe it's Wayland that is screwing everything up? One user was using Gnome and one was using KDE. Maybe there's a way to configure the system to go back to running \"real\" X11 instead of whatever fresh hell of X11 / Wayland hybridization this is? Or is there some way for me to infect Raspbian 10.9 with this hybridization so that I can reproduce it myself? Related question: At some point in the distant past, I convinced myself that Wayland was incompatible with XScreenSaver locking, and therefore XScreenSaver refuses to lock when $WAYLAND_DISPLAY is set. I commented this change with \"X11 grabs don't work under Wayland's embedded X11 server. The Wayland window manager lives at a higher level than the X11 emulation layer.\" However, now I can't find any record of what the actual problem was. Do you know? My guess is that it's something like running X11 under macOS: the grabs stay inside the X11 app, but you can still use Cmd-Tab to switch away to non-X11 apps even if X11 thinks things are \"locked\" inside its little sandbox. But I don't remember.",
+          "link": "https://www.jwz.org/blog/2021/05/xscreensaver-wayland-shenanigans/",
+          "publishedOn": "2021-05-22T16:30:35.000Z",
+          "wordCount": 2380,
+          "title": "XScreenSaver Wayland shenanigans"
+        },
+        {
+          "id": "https://jwz.org/b/yjn5",
+          "author": "jwz",
+          "description": "Just spit on your hand and see what's gurgling around in there.",
+          "link": "https://www.jwz.org/blog/2021/05/burmese-peacock-softshell-turtle/",
+          "publishedOn": "2021-05-22T15:36:00.000Z",
+          "wordCount": 519,
+          "title": "Burmese peacock softshell turtle",
+          "enclosure": {
+            "url": "https://www.jwz.org/images/2021/scneuv8v2hbmqbds.mp4",
+            "length": "1168489",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://jwz.org/b/yjn4",
+          "author": "jwz",
+          "description": "As always, takedowns happen in seconds, and the appeals are processed in just as timely a fashion -- only 1,602 days this time. Fifty-three months! From: Instagram <no-reply@mail.instagram.com> Subject: Your video has been re-posted. Date: Fri, 21 May 2021 11:43:29 -0700 We received your appeal and re-posted the video you originally shared at 1:25 PM on December 31, 2016. View Video",
+          "link": "https://www.jwz.org/blog/2021/05/fucking-facebook-4/",
+          "publishedOn": "2021-05-21T19:28:26.000Z",
+          "wordCount": 905,
+          "title": "Fucking Facebook"
+        },
+        {
+          "id": "https://jwz.org/b/yjn1",
+          "author": "jwz",
+          "description": "Not a place of honor.",
+          "link": "https://www.jwz.org/blog/2021/05/not-a-place-of-honor/",
+          "publishedOn": "2021-05-17T18:25:14.000Z",
+          "wordCount": 650,
+          "title": "Not a place of honor."
+        },
+        {
+          "id": "https://jwz.org/b/yjn0",
+          "author": "jwz",
+          "description": "Ladies and Gentlemen, DNA Lounge will be open for your indoors, in-person festivities on Saturday, June 19th! Our lineup that evening begins with Hubba Hubba Revue at 7pm, the full, seated Big Show; then at 10pm, we bring you the triumphant return of Bootie Mashup! And in Above DNA, Xile Collective presents Lower Underground! Obviously the Feds or the State might pull the rug out from under us on this, but our understanding as of today is that in mid June, all restrictions will be lifted in California, and we get to party like it's 2019. Or, \"The Full Florida\", as I've been calling it. We are all incredibly excited to invite you back into our house, show you our lovely remodeling and upgrades, and return to something like normalcy -- after having been closed for (what will have been) fourteen months! I'm sure you have questions. I probably don't have answers. We're all still figuring this out. Tickets are on sale now. Oh yeah, and also we're hiring!",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/15.html",
+          "publishedOn": "2021-05-15T20:28:49.000Z",
+          "wordCount": 565,
+          "title": "DNA Lounge: Wherein we are re-opening!"
+        },
+        {
+          "id": "https://jwz.org/b/yjnz",
+          "author": "jwz",
+          "description": "Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.",
+          "link": "https://www.jwz.org/blog/2021/05/jwz-mixtape-227/",
+          "publishedOn": "2021-05-14T16:38:46.000Z",
+          "wordCount": 580,
+          "title": "jwz mixtape 227"
+        },
+        {
+          "id": "https://jwz.org/b/yjny",
+          "author": "jwz",
+          "description": "Animated map projections",
+          "link": "https://www.jwz.org/blog/2021/05/animated-map-projections/",
+          "publishedOn": "2021-05-12T20:55:20.000Z",
+          "wordCount": 548,
+          "title": "Animated map projections"
+        },
+        {
+          "id": "https://jwz.org/b/yjnx",
+          "author": "jwz",
+          "description": "Wacky 90s fads!",
+          "link": "https://www.jwz.org/blog/2021/05/wacky-90s-fads/",
+          "publishedOn": "2021-05-12T20:42:18.000Z",
+          "wordCount": 576,
+          "title": "Wacky 90s fads!"
+        },
+        {
+          "id": "https://jwz.org/b/yjnw",
+          "author": "jwz",
+          "description": "Jeff Bezos' superyacht is so big it needs its own yacht. The world's richest man is buying a boat, though that word feels inappropriately sensible for the monstrosity going to Captain Bezos: a 417-foot superyacht that's so massive it has its own \"support yacht\" with a helipad. The estimated cost, not including the boat's support boat, is $500 million. Half a billion bucks is an inconceivable amount of money for most people, but it's a small fraction of the $75 billion that Bezos gained in 2020 alone. His total net worth stands just shy of $200 billion. Amazon stock rose a staggering 75% last year. [...] Recent quarters for superyachts have been record-breaking, one analyst told Bloomberg. Makers of extravagant yachts can barely keep up. \"It's impossible to get a slot in a new-build yard,\" the analyst said. \"They're totally booked.\"",
+          "link": "https://www.jwz.org/blog/2021/05/today-in-hot-superyacht-probs-7/",
+          "publishedOn": "2021-05-11T19:40:20.000Z",
+          "wordCount": 1436,
+          "title": "Today in Hot Superyacht Probs"
+        },
+        {
+          "id": "https://jwz.org/b/yjnt",
+          "author": "jwz",
+          "description": "I made a time-lapse video of the dance floor installation! This is the first two days of the floor installation. They also came back for a third full day of sanding, but that wasn't very interesting to watch; and now we're going to paint it, which will take another day or two. (We do have an older video where you can watch paint dry, if you're in to that sort of thing.) We set up a laptop recording 24/7 all weekend with OBS, and that generated a 98 GB TS file. Fun fact: guess what Quicktime Player, VLC and ffmpeg really don't like to deal with? That's right, 98 GB TS files. So my plan to just scrub through it and find the timestamps to extract didn't work because no player would let me scrub. I ended up splitting it into 10 minute segments with: -map 0 -f segment -segment_time 10 -reset_timestamps 1 $encode_options With \"-codec copy\" it wouldn't split at all, so I had to re-encode it. Then I was able to manually page through and delete the segments that were in the middle of the night. Next, I time-lapsed like this: -f concat -i file_list.txt -vf 'tblend=average, setpts=PTS*0.01, tmix=frames=30' -r 30 $encode_options The \"tblend\" filter is what gives the ghostly motion-blur effect on the people walking around. Without that, time lapses have a much more flickery, stuttery quality to them. That final encode took twenty hours to convert 22 hours of source video into a 13 minute time lapse on a 3.2 GHz iMac Pro. So this is maybe not the ideal procedure.",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/11.html",
+          "publishedOn": "2021-05-11T16:18:13.000Z",
+          "wordCount": 1220,
+          "title": "DNA Lounge: Wherein there has been a lapse of time"
+        },
+        {
+          "id": "https://jwz.org/b/yjns",
+          "author": "jwz",
+          "description": "Thanks to three generous donors who prefer to remain anonymous, we have a new dance floor! And it looks fantastic. The existing floor was a festive pancake of concrete, then a quarter inch of neoprene for springiness, then two layers of plywood. After two decades of dancing, the old plywood was extremly torn up, meaning the surface was rough and splotchy and paint would no longer stick to it well. It was a finished surface but a soft wood, probably pine or Douglas fir. After repairing some soft spots in the old floor, we laid down a new layer of 3/4\" birch. That is the same hardwood that we used on the go-go boxes and the Dazzle dance floor, which have held up exceptionally well. It turns out that we didn't need to tear up the old floor first. The new layer is glued and screwed on top of the old floor, which means that you are all now 3/4\" taller. Before: During and after: We hope to have you dancing on this new floor very soon. Birch is normally one of the more expensive woods, but as it turns out there's some kind of supply-chain fuckery going on affecting most of the softer woods, so this is currently the least expensive plywood available, because the price of the lower quality stuff has gone through the ceiling! We're going to paint that gray, like the old floor. We considered staining and varnishing it instead, since we can always paint it later if we need to, but the downside of that is the varnish would make the paint adhere less well. So we're just going to go with paint from the start. I must say, I am surprised and gratified that my Hail Mary \"Wanna buy us a dance floor?\" post succeeded. Without these donations, we would have just kept lumbering along with our fairly-scruffy old floor. Thank you again, dear anonymous donors, you are the best! We do have a few other renovations that we'd love to do if there are any other generous folks out there willing to help...",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/09.html",
+          "publishedOn": "2021-05-10T03:36:05.000Z",
+          "wordCount": 686,
+          "title": "DNA Lounge: Wherein we have a new dance floor!"
+        },
+        {
+          "id": "https://jwz.org/b/yjnp",
+          "author": "jwz",
+          "description": "We finally got our fan controllers replaced. And there was much rejoicing. We have two gigantic fans on the roof, and about a decade ago the controllers that let us operate them at variable speed broke. Those controllers were many thousands of dollars each, so we just tore them out and replaced them with a pair of on-off switches, meaning the fans were either on at 100%, or off. This kind of sucked (see what I did there). Well it turns out, the price of the controllers has dropped a lot since then, so we finally got new ones, and now we can run our fans more sensibly. We now have choices lying on the continuum between \"sweatbox\" and \"arctic hurricane\". Why so expensive? Why aren't these controllers just a potentiometer knob? Because that trick only works for DC motors. DC motor speed is controlled by the voltage, so a resistor slows them down. AC motor speed is based on the input frequency, which is typically 60 Hz, so to run them at a different speed you need to vary the frequency, which is complicated. Also, big AC motors like the ones on our roof usually run off three phase power, meaning a separate feed to each of the motor's three coils, with both the input signal and the physical coils being 120° out of phase, because science. So that's why it takes more electronics than a pot. The controllers also do other stuff like having an attack/decay ramp to avoid stressing out the motors, and for some reason there's a 5kHz \"carrier frequency\" which I don't understand. Some kind of in-band signaling for fancier motors than ours? One thing that occurred to us, now that we have these new controllers, is that one technique for clearing away the years of confetti that are gumming up the outtake vent above the stage would be to just run that fan backwards and blast it all out into the room again. Then we can pack it all up in a box and mail it to Adriana.",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/08.html",
+          "publishedOn": "2021-05-08T17:49:58.000Z",
+          "wordCount": 1620,
+          "title": "DNA Lounge: Wherein we break a mighty wind."
+        },
+        {
+          "id": "https://jwz.org/b/yjno",
+          "author": "jwz",
+          "description": "\"Son, what's your dirt doing in Boss's hole?\" Sometimes we get soft spots in the floor, typically where liquids pool and can't evaporate. The floor underneath the photo booth got particularly destroyed, after only a couple of years of the booth sitting there. And the floor under the ATM was also pretty bad. When that happens, sometimes we can just use this stuff called \"Rot Stop\" which is a two part epoxy that is runny enough to penetrate pretty deeply into the wood and makes mushy, soft wood as hard as a rock. It's pretty magical. But when the area is too large, it's time to just cut it out and pour concrete. Mostly these aren't in \"dancing\" areas, so that's fine, but it does move the wood/concrete interface farther out into the room, which is not great as that's where things tend to go wrong in the future. Check out these sweet fractals we found under the floor! I think the first one is a mycelial network (though we can't activate our spore drive for some reason) and the second is from termites. It's been a little while since the room didn't look like a construction site: Oh, and some City money finally showed up! Given all of my bitching about how none of the various recovery programs had paid out anything, I thought I should mention that one finally did. There's a program called \"Jobs Now\" that will subsidize a few months of payroll for laid-off SF residents whom we re-hire. It finally kicked in, so we were able to bring a few people back to help us get to work on some of the stuff we need to do to get this place open again. We are hiring!",
+          "link": "https://www.dnalounge.com/backstage/log/2021/05/04.html",
+          "publishedOn": "2021-05-04T16:45:28.000Z",
+          "wordCount": 446,
+          "title": "DNA Lounge: Wherein we pour some floor"
+        },
+        {
+          "id": "https://jwz.org/b/yjnn",
+          "author": "jwz",
+          "description": "We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, \"we'll probably fill up the big tank from the street on our own schedule sometime within a six week window\". Anything other than that, and they could hardly be bothered. We often had to drive down there and pick up tanks ourselves at the last minute. Like animals. The leak was somewhere in that maze of pipes and valves bolted onto the top of the tank, rather than the tank itself, so you'd think that they could just un-bolt that octopus and bolt on a new one. But apparently their policy is, \"Fuck that, buy a whole new tank.\" I'm like 90% sure we're being ripped off, but on the other hand, they probably have more experience with tanks full of 500 pounds of liquid CO2 exploding, so what are you gonna do. This is the exciting nightclub content that you are here for.",
+          "link": "https://www.dnalounge.com/backstage/log/2021/04/30.html",
+          "publishedOn": "2021-05-01T05:34:43.000Z",
+          "wordCount": 748,
+          "title": "DNA Lounge: Wherein we've got gas."
+        }
+      ]
+    },
+    {
+      "title": "Trivium",
+      "feedUrl": "http://chneukirchen.org/trivium/index.atom",
+      "siteUrl": "https://leahneukirchen.org/trivium/",
+      "articles": [
+        {
+          "id": "https://leahneukirchen.org/trivium/2021-05-24",
+          "author": null,
+          "description": "FragAttacks, a collection of new security vulnerabilities that\naffect Wi-Fi devices.\nCounterexamples in Type Systems, by Stephen Dolan.\nThree Realisms and The Idea of Sheaves (YouTube),\ntalk by David Jaz Myers.\nExplains many complicated terms in a graphical way.\nPepper, a simple and opinionated modal code editor for your terminal.\nStill early but feels pretty nice already.\nbpftrace-2048, because you can.\nBaking Magnetic Recording Tape, sometimes you just have to.\nSoda locomotive\nNEW SESSION",
+          "link": "https://leahneukirchen.org/trivium/2021-05-24",
+          "publishedOn": "2021-05-24T19:22:52.000Z",
+          "wordCount": 88,
+          "title": "24may2021"
+        },
+        {
+          "id": "https://leahneukirchen.org/trivium/2021-05-09",
+          "author": null,
+          "description": "21Nails: Multiple vulnerabilities in Exim, a Qualys Security Advisory.\nProving 50-Year-Old Sorting Networks Optimal: Part 1,\nby Jannis Harder.\nWhy I’ll never create modules for VCV Rack anymore—and what I’ll make instead, by Aria Salvatrice.\nContractibility as uniqueness (YouTube), talk by Emily Riehl\nat the Topos Institute.\nObjective-S is an architecture-oriented programming language based\nloosely on Smalltalk and Objective-C.\nzx, useful functions for scripting in Node.js.\nLearn shogi by playing!",
+          "link": "https://leahneukirchen.org/trivium/2021-05-09",
+          "publishedOn": "2021-05-09T18:51:36.000Z",
+          "wordCount": 86,
+          "title": "09may2021"
+        },
+        {
+          "id": "https://leahneukirchen.org/trivium/2021-05-02",
+          "author": null,
+          "description": "OpenBSD 6.9 has been released, nice.\nExploiting Undocumented Hardware Blocks in the LPC55S69,\nby Laura Abbott from Oxide Computer.\nThese days even ROM chips get CVEs…\nHunting down the stuck BGP routes, by Ben Cox.\nWhat3Words – The Algorithm, explained by Cybergibbons.\nInheritance was invented as a performance hack, says Spencer Baugh.\nThe Hawaiian Earring Group (2013), by Jeremy Brazas.\ntmp.0ut Volume 1, a zine.\nEin Zeitstempel von ERFU, beschrieben von Andreas Kelz.\nBASIC 10-liners for Atari.",
+          "link": "https://leahneukirchen.org/trivium/2021-05-02",
+          "publishedOn": "2021-05-02T19:24:40.000Z",
+          "wordCount": 93,
+          "title": "02may2021"
+        }
+      ]
+    },
+    {
+      "title": "Lambda the Ultimate - Programming Languages Weblog",
+      "feedUrl": "http://lambda-the-ultimate.org/rss.xml",
+      "siteUrl": "http://lambda-the-ultimate.org",
+      "articles": []
+    },
+    {
+      "title": "*incoherent yelling about worms*",
+      "feedUrl": "http://gfzoda.tumblr.com/rss",
+      "siteUrl": "https://gfzoda.tumblr.com/",
+      "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/652518166019342336",
+          "author": null,
+          "description": "newtonpermetersquare:\n\nSo that’s basically how it went down",
+          "link": "https://gfzoda.tumblr.com/post/652518166019342336",
+          "publishedOn": "2021-05-29T12:03:35.000Z",
+          "wordCount": 264,
+          "title": "newtonpermetersquare:So that’s basically how it went down"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/652517901573783552",
+          "author": null,
+          "description": "digitaldiscipline:\n\nfullyfunctionalminiaturebeehive:\n\ngarbuge:\n\nearrings change your gender not like fully but they Change it\n\nThey’re a flavour enhancer, like salt or soy sauce.\n\nMSG (more substantial gender)",
+          "link": "https://gfzoda.tumblr.com/post/652517901573783552",
+          "publishedOn": "2021-05-29T11:59:23.000Z",
+          "wordCount": 286,
+          "title": "digitaldiscipline:fullyfunctionalminiaturebeehive:garbuge:earrings change your gender not like fully..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/652448776910503936",
+          "author": null,
+          "description": "right-2-rebel:\n\np0stmarxed:\n\nOh okay up until now I’ve just thought Pacific Rim was an okay movie but after hearing Del Toro refused any Pentagon funding for it I’ve changed my mind what a great film",
+          "link": "https://gfzoda.tumblr.com/post/652448776910503936",
+          "publishedOn": "2021-05-28T17:40:41.000Z",
+          "wordCount": 312,
+          "title": "right-2-rebel:p0stmarxed:Oh okay up until now I&rsquo;ve just thought Pacific Rim was an okay movie..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/652253593949421568",
+          "author": null,
+          "description": "wishfishy:\n\nrespectfulofwomen:\n\n\nJohn Brosio’s paintings exemplify what I truly mean when I say “it’s time for crab”.",
+          "link": "https://gfzoda.tumblr.com/post/652253593949421568",
+          "publishedOn": "2021-05-26T13:58:20.000Z",
+          "wordCount": 271,
+          "title": "wishfishy:respectfulofwomen:John Brosio’s paintings exemplify what I truly mean when I say “it’s..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/652098974296178688",
+          "author": null,
+          "description": "acemer1in:\n\ntheprinceofsnark:\n\naskasexual:\n\noccasionally-gay:\n\nincessant-honking:\n\nbad-puns-n-finger-guns:\n\nice-dispenser:\nbad-puns-n-finger-guns:\n\n2boldlyqueer:\n\nsporkkles-irl:\n\nbill-nye-official-blog:\n\nice-dispenser:\n\nthings i’ll not call you a whore for:\n\nsexual activity\nhow you dress\n\nthings i’ll call you a whore for:\n\nstealing my food \nstealing my lemons\nmy cat likes you more than me\n\nwhy are lemons separate from food op?\n\neveryone knows lemons arent food\n\nlemon stealing whores are a huge issue separate from food stealing whores. there’s a whole documentary about whores stealing lemons from the trees of unsuspecting victims. you can see the first two minutes of it here.\n\n\n\nThats a rickroll. That totally is a fucking rickroll. No fukin way. Not falling for it.\n\ndude, trust me, that isn’t a rick roll. its something worse\n\n\n\nMe to the rest of tumblr after actually watching what was in the link:\n\n…I really don’t know what I was expecting.\n\n\n\nWhat the fuck did i just watch.\n\n\n\nIt- it’s not a Rick  roll \n\n\n\nHave we really reached a time when the Lemon Stealing Whores are no longer common knowledge.",
+          "link": "https://gfzoda.tumblr.com/post/652098974296178688",
+          "publishedOn": "2021-05-24T21:00:43.000Z",
+          "wordCount": 420,
+          "title": "acemer1in:theprinceofsnark:askasexual:occasionally-gay:incessant-honking:bad-puns-n-finger-guns:ice-d..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/652077249951055872",
+          "author": null,
+          "description": "thetatteredveil:\n\nthetatteredveil:\n\nbooks had absolutely no right trying to tell me that swamp hags are villains. the older i get the more i can feel myself yearning to become that bitch baba yaga. i dont want skin and i dont want a system of commerce and currency i want moss for hair and a big bubbling cauldron\n\nto be clear yes i think swamp hags are evil im just saying that theyre right",
+          "link": "https://gfzoda.tumblr.com/post/652077249951055872",
+          "publishedOn": "2021-05-24T15:15:25.000Z",
+          "wordCount": 347,
+          "title": "thetatteredveil:thetatteredveil:books had absolutely no right trying to tell me that swamp hags are..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651838370549481472",
+          "author": null,
+          "description": "theywontletmebeprincipal:\n\ngirl you look like a bloodborne boss (complimentary)",
+          "link": "https://gfzoda.tumblr.com/post/651838370549481472",
+          "publishedOn": "2021-05-21T23:58:32.000Z",
+          "wordCount": 277,
+          "title": "theywontletmebeprincipal:girl you look like a bloodborne boss (complimentary)"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651664120250269696",
+          "author": null,
+          "description": "parakeet:\n\nparakeet:\n\nim eating the gemstones in the museum gift shop i like the taste",
+          "link": "https://gfzoda.tumblr.com/post/651664120250269696",
+          "publishedOn": "2021-05-20T01:48:54.000Z",
+          "wordCount": 278,
+          "title": "parakeet:parakeet:im eating the gemstones in the museum gift shop i like the taste"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651632105876504576",
+          "author": null,
+          "description": "ace-pervert:\n\nnerdi-author-girl:\nessoreese:\n\ncwicseolfor:\nmaculategiraffe:\nme, reaching into my dresser drawer for black pants: I hope this isn’t the pair with big holes worn in the inner thighs\nMarie Kondo, gently over my shoulder: why is a pair of pants you find unwearable still in your dresser drawer\nme: oh shit that’s right!!  The dresser is for clothes that under some circumstance I might conceivably wear!!\nMarie Kondo, beaming proudly: Yes, that’s correct!!  These pants must have been your favorites.  How wonderful that they were so comfortable and practical that you wore them out.  But now since they no longer function as pants, you should move them from the drawer where you keep your functioning pants!\nme: Yes thanks I got it they’re in the fabric basket now\nMarie Kondo, fading back into the darkness: I love what you’ve done with the kitchen!!\nThe notion of KonMari as some creepy semi-embodied but entirely benevolent spirit, like a well-intentioned Bloody Mary, is so perfect and wonderful. \nMarie Kondo has the same powers but the exact opposite energy of the Duolingo Owl.\nYES.\nMarie Kondo: Your room isn’t very clean, but that’s okay, I love mess! Does this spark joy?\nDuolingo Owl: I wrote the ransom note in Spanish, and if you have to use Google Translate to read it, your kid gets it. You broke your streak. I’ll break your neck.\n\n\nMarie Kondo holding your child, while standing on the remains of the Duolingo Owl : The Bird did not spark joy",
+          "link": "https://gfzoda.tumblr.com/post/651632105876504576",
+          "publishedOn": "2021-05-19T17:20:03.000Z",
+          "wordCount": 510,
+          "title": "ace-pervert:nerdi-author-girl:\n\nessoreese:\ncwicseolfor:\n\nmaculategiraffe:\n\nme, reaching into my..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651622627892396032",
+          "author": null,
+          "description": "my-gender-is:\nmy gender is 37 axolotls in a top hat",
+          "link": "https://gfzoda.tumblr.com/post/651622627892396032",
+          "publishedOn": "2021-05-19T14:49:24.000Z",
+          "wordCount": 255,
+          "title": "my-gender-is:\n\nmy gender is 37 axolotls in a top hat"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651610411024760832",
+          "author": null,
+          "description": "42ds:\n\ndestroyingitself:\n\nqueeranarchism:\n\nrayvenreayes:\n\ngreat-tweets:\n\nBeware!\n\nAvoid sci-hub too👀\n\nFrom   Ask for PDFs from People with Institutional Access  \n\nIf you want to read an academic article that’s behind a paywall just email the author and ask politely if they will send you the article. Most academics will be thrilled that you want to read their work and will gladly send it to you. \n\nPSA",
+          "link": "https://gfzoda.tumblr.com/post/651610411024760832",
+          "publishedOn": "2021-05-19T11:35:13.000Z",
+          "wordCount": 320,
+          "title": "42ds:destroyingitself:queeranarchism:rayvenreayes:great-tweets:Beware!Avoid sci-hub too👀From   Ask..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651551744967442432",
+          "author": null,
+          "description": "muppethole:\n\nmuppethole:\n\nursula k le guin was right\n\nall of it, more or less",
+          "link": "https://gfzoda.tumblr.com/post/651551744967442432",
+          "publishedOn": "2021-05-18T20:02:44.000Z",
+          "wordCount": 281,
+          "title": "muppethole:muppethole:ursula k le guin was rightall of it, more or less"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651479006615584768",
+          "author": null,
+          "description": "guooey:\n\ni love them. they are referred to as godlike in many ancient cultures while at the same time existing as just some guy. the duality… it doesn’t get better than this",
+          "link": "https://gfzoda.tumblr.com/post/651479006615584768",
+          "publishedOn": "2021-05-18T00:46:36.000Z",
+          "wordCount": 292,
+          "title": "guooey:i love them. they are referred to as godlike in many..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651478425743343616",
+          "author": null,
+          "description": "maddiesharafian:\n\nA Blacksmith’s Dream",
+          "link": "https://gfzoda.tumblr.com/post/651478425743343616",
+          "publishedOn": "2021-05-18T00:37:22.000Z",
+          "wordCount": 252,
+          "title": "maddiesharafian:A Blacksmith’s Dream"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651254426098630656",
+          "author": null,
+          "description": "killapunk:\none thing ill never forgive fandom for is its constant sacrificing of found family in favor of shipping shipping shipping like just go rub one out and come back and reexamine the material",
+          "link": "https://gfzoda.tumblr.com/post/651254426098630656",
+          "publishedOn": "2021-05-15T13:16:59.000Z",
+          "wordCount": 241,
+          "title": "killapunk:\n\none thing ill never forgive fandom for is its constant sacrificing of found family in..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/651028914062458880",
+          "author": null,
+          "description": "airsignpariston:\n\nfunhaver:\n\nok but shonen rly did it with mob man. every protag is just some little boy but mob is the most boy ever and like it makes him so so incredible. like i have a soft spot for all of the sweet and pure protags like tanjiro and deku but like mob isn’t trying to be a superhero or save the world from evil he’s just trying to gain some muscle and talk to his crush and be a good big brother and yes i KNOW that’s the whole point of him and the show i just want to talk about him bc i love him sm for it and yeah",
+          "link": "https://gfzoda.tumblr.com/post/651028914062458880",
+          "publishedOn": "2021-05-13T01:32:34.000Z",
+          "wordCount": 407,
+          "title": "airsignpariston:funhaver:ok but shonen rly did it with mob man. every protag is just some little boy..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/650987388688039936",
+          "author": null,
+          "description": "mysharona1987:",
+          "link": "https://gfzoda.tumblr.com/post/650987388688039936",
+          "publishedOn": "2021-05-12T14:32:32.000Z",
+          "wordCount": 223,
+          "title": "mysharona1987:"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/650852763362885632",
+          "author": null,
+          "description": "godsensei:\n\ni can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain producing a perfectly clear rendition of James Blunt going “YAH BYÜTEHFA'AL”",
+          "link": "https://gfzoda.tumblr.com/post/650852763362885632",
+          "publishedOn": "2021-05-11T02:52:44.000Z",
+          "wordCount": 289,
+          "title": "godsensei:i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/650845696422035457",
+          "author": null,
+          "description": "thank you!!! and\nABBA IS FUCKING WHAT\nTHEY WHAT",
+          "link": "https://gfzoda.tumblr.com/post/650845696422035457",
+          "publishedOn": "2021-05-11T01:00:24.000Z",
+          "wordCount": 315,
+          "title": "<p>hello your hair looks really good and if nothing else is going well today i at least woke up to national news here in sweden that abba is recording new music again</p>"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/650476941280952320",
+          "author": null,
+          "description": "kernalphage:\n\nintercal:\n\n“I could look it up but it’s more fun asking friends” gang\n\n“there’s probably an objective answer for this but let’s see if someone has a rant locked and loaded” group chat",
+          "link": "https://gfzoda.tumblr.com/post/650476941280952320",
+          "publishedOn": "2021-05-06T23:19:12.000Z",
+          "wordCount": 313,
+          "title": "kernalphage:intercal:&ldquo;I could look it up but it&rsquo;s more fun asking friends&rdquo;..."
+        }
+      ]
+    },
+    {
+      "title": "CuriosityConfusion",
+      "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
+      "siteUrl": "https://curiosityconfusion.tumblr.com/",
+      "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651943493806227456",
+          "author": null,
+          "description": "I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this post? Validate my existence? Please?",
+          "link": "https://curiosityconfusion.tumblr.com/post/651943493806227456",
+          "publishedOn": "2021-05-23T03:49:25.000Z",
+          "wordCount": 133,
+          "title": "I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651941419275124736",
+          "author": null,
+          "description": "closet-keys:\n\nIt’s extremely weird how comfortable people are with violence if it wears a police uniform. Like someone who would be afraid to even raise their voice against a customer and would never dream of shoving someone in intimidation in any situation is somehow simultaneously okay with asking someone to go up and threaten them with a loaded gun and drag them out of the building. If cops weren’t normalized and it was just some random guy, they’d never do it. They wouldn’t turn to their coworker and say “that person’s breaking the store policy, can you take this loaded gun and chase him out of here?” I wish I could snap people out of this cognitive dissonance they have where violence doesn’t count if it comes with a badge.",
+          "link": "https://curiosityconfusion.tumblr.com/post/651941419275124736",
+          "publishedOn": "2021-05-23T03:16:27.000Z",
+          "wordCount": 365,
+          "title": "closet-keys:It’s extremely weird how comfortable people are with violence if it wears a police..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651939753024978944",
+          "author": null,
+          "description": "ana-bolism:\n\nana-bolism:\n\nYou know what? I don’t want neurotypicals to see me as “normal.” I want them to be okay with my wackiness.\n\nI want them to be okay with autistic people being fucking weird when that’s what we are! I don’t want you to suddenly dismiss our unique behaviours. I want you to be okay with the fact I go extended amounts of time without talking. I want you to be okay with the fact I move my arms in a weird way. I want you to be okay with the fact I will be in genuine pain if I hear that seemingly harmless noise just one more time. I want neurotypicals to be okay with the fact that sometimes, they WILL find autistic people wacky and that we STILL deserve respect regardless.",
+          "link": "https://curiosityconfusion.tumblr.com/post/651939753024978944",
+          "publishedOn": "2021-05-23T02:49:58.000Z",
+          "wordCount": 371,
+          "title": "ana-bolism:ana-bolism:You know what? I don’t want neurotypicals to see me as “normal.” I want them..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651717457724211200",
+          "author": null,
+          "description": "foreverravenclaw:\n\nWhy do little kids get all the cool clothes?? What if I want a shirt with a \n\nstegosaurus driving an excavator on it?? Huh, why does the fashion industry not think about that??",
+          "link": "https://curiosityconfusion.tumblr.com/post/651717457724211200",
+          "publishedOn": "2021-05-20T15:56:40.000Z",
+          "wordCount": 272,
+          "title": "foreverravenclaw:Why do little kids get all the cool clothes?? What if I want a shirt with..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651378726843695104",
+          "author": null,
+          "description": "batmanisagatewaydrug:\n\nah-beans-im-a-transmed:\n\nbatmanisagatewaydrug:\n\nqueer is a gender, sexuality, romantic orientation, political alignment, and mission statement, babey\n\nqueer is literally a slur that means weird and strange \n\nand I most certainly am weird and strange, what else you got?",
+          "link": "https://curiosityconfusion.tumblr.com/post/651378726843695104",
+          "publishedOn": "2021-05-16T22:12:42.000Z",
+          "wordCount": 275,
+          "title": "batmanisagatewaydrug:ah-beans-im-a-transmed:batmanisagatewaydrug:queer is a gender, sexuality,..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/651301886100684800",
+          "author": null,
+          "description": "smokethereisfire:\n\nRichard Calver (1946-) - Dandelions Rejoicing",
+          "link": "https://curiosityconfusion.tumblr.com/post/651301886100684800",
+          "publishedOn": "2021-05-16T01:51:20.000Z",
+          "wordCount": 249,
+          "title": "smokethereisfire:Richard Calver (1946-) - Dandelions Rejoicing"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.9.0"
+}
