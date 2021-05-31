@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T00:52:02.092Z</updated>
+    <updated>2021-05-31T00:58:21.094Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[marianhalcombes:marianhalcombes:i like mad scientists bc i think we should all get to indulge in...]]></title>
+        <id>https://gfzoda.tumblr.com/post/652637723166965760</id>
+        <link href="https://gfzoda.tumblr.com/post/652637723166965760"/>
+        <updated>2021-05-30T19:43:54.000Z</updated>
+        <summary type="html"><![CDATA[marianhalcombes:
+
+marianhalcombes:
+
+i like mad scientists bc i think we should all get to indulge in being gay, evil, and insufferably smart
+
+no more of that “im gay and stupid” nonsense im gay and smart and im building a man that will be my downfall]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bagginshield:bagginshield:something about needless tragedy when its effectively written and how it...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/652579097701187584</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/652579097701187584"/>
+        <updated>2021-05-30T04:12:04.000Z</updated>
+        <summary type="html"><![CDATA[bagginshield:
+
+bagginshield:
+
+something about needless tragedy when its effectively written and how it works SO well. boromir taking like seven arrows to the chest and continuing to fight and it doesnt save merry and pippin. the fact that merry and pippin were needlessly taken bc the uruks thought they had the ring, which they didnt. there are people in this war willingly sacrificing themselves to distract sauron from frodo and then there are people given no time to think through a plan, doing the best with the few seconds they have and dying with the hope that their actions will protect the people they love. and sometimes it doesnt. boromirs epic final stand did not actually matter, did not give the hobbits a chance to escape. but his final breaths were given with love nonetheless.
+
+sometimes heroism is not in whether or not your actions actually save people, sometimes the glory is simply in the desperate and heartfelt trying]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bi-demonboi:]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/652577765592334336</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/652577765592334336"/>
+        <updated>2021-05-30T03:50:54.000Z</updated>
+        <summary type="html"><![CDATA[bi-demonboi:]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to do with a big TV?]]></title>
         <id>https://jwz.org/b/yjoF</id>
@@ -753,16 +795,6 @@ Ein Zeitstempel von ERFU, beschrieben von Andreas Kelz.
 BASIC 10-liners for Atari.]]></summary>
         <author>
             <name>Trivium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Lounge: Wherein we've got gas.]]></title>
-        <id>https://jwz.org/b/yjnn</id>
-        <link href="https://www.dnalounge.com/backstage/log/2021/04/30.html"/>
-        <updated>2021-05-01T05:34:43.000Z</updated>
-        <summary type="html"><![CDATA[We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, "we'll probably fill up the big tank from the street on our own schedule sometime within a six week window". Anything other than that, and they could hardly be bothered. We often had to drive down there and pick up tanks ourselves at the last minute. Like animals. The leak was somewhere in that maze of pipes and valves bolted onto the top of the tank, rather than the tank itself, so you'd think that they could just un-bolt that octopus and bolt on a new one. But apparently their policy is, "Fuck that, buy a whole new tank." I'm like 90% sure we're being ripped off, but on the other hand, they probably have more experience with tanks full of 500 pounds of liquid CO2 exploding, so what are you gonna do. This is the exciting nightclub content that you are here for.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>

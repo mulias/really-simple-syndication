@@ -222,15 +222,6 @@
           "publishedOn": "2021-05-04T16:45:28.000Z",
           "wordCount": 446,
           "title": "DNA Lounge: Wherein we pour some floor"
-        },
-        {
-          "id": "https://jwz.org/b/yjnn",
-          "author": "jwz",
-          "description": "We had to replace our big CO2 tank. It had a slow leak, which was costing us money, and so we had been using smaller rental tanks instead of the big one for quite a while, which was also costing us more money. And Airgas had been pretty unreliable about those deliveries; it seems that the schedule that they are comfortable with is, \"we'll probably fill up the big tank from the street on our own schedule sometime within a six week window\". Anything other than that, and they could hardly be bothered. We often had to drive down there and pick up tanks ourselves at the last minute. Like animals. The leak was somewhere in that maze of pipes and valves bolted onto the top of the tank, rather than the tank itself, so you'd think that they could just un-bolt that octopus and bolt on a new one. But apparently their policy is, \"Fuck that, buy a whole new tank.\" I'm like 90% sure we're being ripped off, but on the other hand, they probably have more experience with tanks full of 500 pounds of liquid CO2 exploding, so what are you gonna do. This is the exciting nightclub content that you are here for.",
-          "link": "https://www.dnalounge.com/backstage/log/2021/04/30.html",
-          "publishedOn": "2021-05-01T05:34:43.000Z",
-          "wordCount": 748,
-          "title": "DNA Lounge: Wherein we've got gas."
         }
       ]
     },
@@ -279,6 +270,15 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/652637723166965760",
+          "author": null,
+          "description": "marianhalcombes:\n\nmarianhalcombes:\n\ni like mad scientists bc i think we should all get to indulge in being gay, evil, and insufferably smart\n\nno more of that “im gay and stupid” nonsense im gay and smart and im building a man that will be my downfall",
+          "link": "https://gfzoda.tumblr.com/post/652637723166965760",
+          "publishedOn": "2021-05-30T19:43:54.000Z",
+          "wordCount": 291,
+          "title": "marianhalcombes:marianhalcombes:i like mad scientists bc i think we should all get to indulge in..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/652518166019342336",
           "author": null,
@@ -466,6 +466,24 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/652579097701187584",
+          "author": null,
+          "description": "bagginshield:\n\nbagginshield:\n\nsomething about needless tragedy when its effectively written and how it works SO well. boromir taking like seven arrows to the chest and continuing to fight and it doesnt save merry and pippin. the fact that merry and pippin were needlessly taken bc the uruks thought they had the ring, which they didnt. there are people in this war willingly sacrificing themselves to distract sauron from frodo and then there are people given no time to think through a plan, doing the best with the few seconds they have and dying with the hope that their actions will protect the people they love. and sometimes it doesnt. boromirs epic final stand did not actually matter, did not give the hobbits a chance to escape. but his final breaths were given with love nonetheless.\n\nsometimes heroism is not in whether or not your actions actually save people, sometimes the glory is simply in the desperate and heartfelt trying",
+          "link": "https://curiosityconfusion.tumblr.com/post/652579097701187584",
+          "publishedOn": "2021-05-30T04:12:04.000Z",
+          "wordCount": 408,
+          "title": "bagginshield:bagginshield:something about needless tragedy when its effectively written and how it..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/652577765592334336",
+          "author": null,
+          "description": "bi-demonboi:",
+          "link": "https://curiosityconfusion.tumblr.com/post/652577765592334336",
+          "publishedOn": "2021-05-30T03:50:54.000Z",
+          "wordCount": 248,
+          "title": "bi-demonboi:"
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/651943493806227456",
           "author": null,
