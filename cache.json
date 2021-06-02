@@ -34,6 +34,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoG",
+          "author": "jwz",
+          "description": "\"We here at Weyland-Yutani Corporation would like to wish a happy Pride Month to all of our LGBT colonists on LV-426.\" Also Omni Consumer Products, Cyberdyne Systems, Umbrella Corporation, and Tyrell Corporation.",
+          "link": "https://www.jwz.org/blog/2021/06/brands/",
+          "publishedOn": "2021-06-01T18:03:58.000Z",
+          "wordCount": 604,
+          "title": "Brands"
+        },
+        {
           "id": "https://jwz.org/b/yjoF",
           "author": "jwz",
           "description": "We just picked up a 75\" TV for super cheap and we're trying to figure out what to do with it. I was thinking maybe we'd set it up vertically (5'6\" tall!) and turn it into some kind of \"magic mirror\" where it does video effects on your reflection or something. Is there any good software out there for that? Any other suggestions? It's very heavy, so using it as an on-stage prop would be a hassle; it needs to be mounted somewhere. We could just stick it in the DNA Pizza window and use it for signage, but that's not very exciting.",
@@ -247,15 +256,6 @@
           "publishedOn": "2021-05-09T18:51:36.000Z",
           "wordCount": 86,
           "title": "09may2021"
-        },
-        {
-          "id": "https://leahneukirchen.org/trivium/2021-05-02",
-          "author": null,
-          "description": "OpenBSD 6.9 has been released, nice.\nExploiting Undocumented Hardware Blocks in the LPC55S69,\nby Laura Abbott from Oxide Computer.\nThese days even ROM chips get CVEs…\nHunting down the stuck BGP routes, by Ben Cox.\nWhat3Words – The Algorithm, explained by Cybergibbons.\nInheritance was invented as a performance hack, says Spencer Baugh.\nThe Hawaiian Earring Group (2013), by Jeremy Brazas.\ntmp.0ut Volume 1, a zine.\nEin Zeitstempel von ERFU, beschrieben von Andreas Kelz.\nBASIC 10-liners for Atari.",
-          "link": "https://leahneukirchen.org/trivium/2021-05-02",
-          "publishedOn": "2021-05-02T19:24:40.000Z",
-          "wordCount": 93,
-          "title": "02may2021"
         }
       ]
     },
@@ -476,6 +476,24 @@
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/652837763534766080",
+          "author": null,
+          "description": "castlesofcards:\n\nhere are some more flags i made with comic book newsprint textures :-) to get the textures i scanned real comics!",
+          "link": "https://curiosityconfusion.tumblr.com/post/652837763534766080",
+          "publishedOn": "2021-06-02T00:43:27.000Z",
+          "wordCount": 253,
+          "title": "castlesofcards:here are some more flags i made with comic book..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/652808540228026368",
+          "author": null,
+          "description": "sonicrainbooms:\n\nhappy pride month i love being bisexual and defining myself as bisexual and i really like how bisexual sounds and the bisexual flag is very pretty",
+          "link": "https://curiosityconfusion.tumblr.com/post/652808540228026368",
+          "publishedOn": "2021-06-01T16:58:58.000Z",
+          "wordCount": 271,
+          "title": "sonicrainbooms:happy pride month i love being bisexual and defining myself as bisexual and i really..."
+        },
+        {
           "id": "https://curiosityconfusion.tumblr.com/post/652673205876752384",
           "author": null,
           "description": "glitter-and-popcorn:\n\noldshrewsburyian:\n\nbemusedlybespectacled:\n\nhazeldomain:\noganizediguana:\nlauraantoniou:\nlastxleviathan:\nrobotmango:\ntsunderepup:\nrandomslasher:\npastel-selkie:\nlesbianshepard:\nstupid leftists and their belief in *checks notes* the intrinsic value of human life\n\n\nReblog if you would burn down the statue of liberty to save a life\nHere’s the thing, though. If you asked a conservative “Would you let the statue of liberty burn to save one life?” they’d probably scoff and say no, it’s a national landmark, a treasure, a piece of too much historical importance to let it be destroyed for the sake of one measly life. \nBut if you asked, “Would you let the statue of liberty burn in order to save your child? your spouse? someone you loved a great deal?” the tune abruptly changes. At…",
@@ -559,5 +577,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

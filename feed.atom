@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:13:06.389Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T01:18:37.959Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[castlesofcards:here are some more flags i made with comic book...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/652837763534766080</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/652837763534766080"/>
+        <updated>2021-06-02T00:43:27.000Z</updated>
+        <summary type="html"><![CDATA[castlesofcards:
+
+here are some more flags i made with comic book newsprint textures :-) to get the textures i scanned real comics!]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brands]]></title>
+        <id>https://jwz.org/b/yjoG</id>
+        <link href="https://www.jwz.org/blog/2021/06/brands/"/>
+        <updated>2021-06-01T18:03:58.000Z</updated>
+        <summary type="html"><![CDATA["We here at Weyland-Yutani Corporation would like to wish a happy Pride Month to all of our LGBT colonists on LV-426." Also Omni Consumer Products, Cyberdyne Systems, Umbrella Corporation, and Tyrell Corporation.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sonicrainbooms:happy pride month i love being bisexual and defining myself as bisexual and i really...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/652808540228026368</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/652808540228026368"/>
+        <updated>2021-06-01T16:58:58.000Z</updated>
+        <summary type="html"><![CDATA[sonicrainbooms:
+
+happy pride month i love being bisexual and defining myself as bisexual and i really like how bisexual sounds and the bisexual flag is very pretty]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[teaboot:Old man insults are wild. &ldquo;Slut&rdquo;, &ldquo;Whore&rdquo;, &ldquo;Dumb...]]></title>
         <id>https://gfzoda.tumblr.com/post/652726713769459712</id>
@@ -818,26 +852,6 @@ intercal:
         <summary type="html"><![CDATA["Son, what's your dirt doing in Boss's hole?" Sometimes we get soft spots in the floor, typically where liquids pool and can't evaporate. The floor underneath the photo booth got particularly destroyed, after only a couple of years of the booth sitting there. And the floor under the ATM was also pretty bad. When that happens, sometimes we can just use this stuff called "Rot Stop" which is a two part epoxy that is runny enough to penetrate pretty deeply into the wood and makes mushy, soft wood as hard as a rock. It's pretty magical. But when the area is too large, it's time to just cut it out and pour concrete. Mostly these aren't in "dancing" areas, so that's fine, but it does move the wood/concrete interface farther out into the room, which is not great as that's where things tend to go wrong in the future. Check out these sweet fractals we found under the floor! I think the first one is a mycelial network (though we can't activate our spore drive for some reason) and the second is from termites. It's been a little while since the room didn't look like a construction site: Oh, and some City money finally showed up! Given all of my bitching about how none of the various recovery programs had paid out anything, I thought I should mention that one finally did. There's a program called "Jobs Now" that will subsidize a few months of payroll for laid-off SF residents whom we re-hire. It finally kicked in, so we were able to bring a few people back to help us get to work on some of the stuff we need to do to get this place open again. We are hiring!]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[02may2021]]></title>
-        <id>https://leahneukirchen.org/trivium/2021-05-02</id>
-        <link href="https://leahneukirchen.org/trivium/2021-05-02"/>
-        <updated>2021-05-02T19:24:40.000Z</updated>
-        <summary type="html"><![CDATA[OpenBSD 6.9 has been released, nice.
-Exploiting Undocumented Hardware Blocks in the LPC55S69,
-by Laura Abbott from Oxide Computer.
-These days even ROM chips get CVEs…
-Hunting down the stuck BGP routes, by Ben Cox.
-What3Words – The Algorithm, explained by Cybergibbons.
-Inheritance was invented as a performance hack, says Spencer Baugh.
-The Hawaiian Earring Group (2013), by Jeremy Brazas.
-tmp.0ut Volume 1, a zine.
-Ein Zeitstempel von ERFU, beschrieben von Andreas Kelz.
-BASIC 10-liners for Atari.]]></summary>
-        <author>
-            <name>Trivium</name>
         </author>
     </entry>
 </feed>
