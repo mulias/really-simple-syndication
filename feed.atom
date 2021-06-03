@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T01:18:37.959Z</updated>
+    <updated>2021-06-03T01:03:55.778Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mossworm:bee time]]></title>
+        <id>https://gfzoda.tumblr.com/post/652917645695418368</id>
+        <link href="https://gfzoda.tumblr.com/post/652917645695418368"/>
+        <updated>2021-06-02T21:53:09.000Z</updated>
+        <summary type="html"><![CDATA[mossworm:
+
+bee time]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thelasagnamanifesto:thelasagnamanifesto:I hope you eat. I hope we both eatI am cooking. There is...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/652848557009829888</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/652848557009829888"/>
+        <updated>2021-06-02T03:35:01.000Z</updated>
+        <summary type="html"><![CDATA[thelasagnamanifesto:
+
+thelasagnamanifesto:
+
+I hope you eat. I hope we both eat
+
+I am cooking. There is sign of food. You are coming to lunch with me. Fork in lovable hand.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[parliamentrook:And then it becomes part of the environment,...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/652840329220964352</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/652840329220964352"/>
+        <updated>2021-06-02T01:24:14.000Z</updated>
+        <summary type="html"><![CDATA[parliamentrook:
+
+And then it becomes part of the environment, That’s Just Where it Lives, until a bout of cleaning hyperfixation where you have to concentrate really hard on The Thing and the curse is broken.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[castlesofcards:here are some more flags i made with comic book...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/652837763534766080</id>
@@ -16,6 +56,24 @@
 here are some more flags i made with comic book newsprint textures :-) to get the textures i scanned real comics!]]></summary>
         <author>
             <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[06/01/2021]]></title>
+        <id>http://www.bay12games.com/dwarves/index.html#2021-06-01</id>
+        <link href="http://www.bay12games.com/dwarves/index.html#2021-06-01"/>
+        <updated>2021-06-01T23:48:00.000Z</updated>
+        <summary type="html"><![CDATA[(Toady One) This month, not unusually, there is 
+	
+		a monthly report.
+	
+  Additionally, 
+	
+		a reply to the Future of the Fortress questions from this month
+	
+ can be found by following the second link.  Most notably, the apartment move is done.]]></summary>
+        <author>
+            <name>Dwarf Fortress Development Log</name>
         </author>
     </entry>
     <entry>
