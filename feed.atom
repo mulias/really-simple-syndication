@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:04:56.728Z</updated>
+    <updated>2021-06-05T00:43:12.078Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[avanjogiagf:]]></title>
+        <id>https://gfzoda.tumblr.com/post/653094095015837696</id>
+        <link href="https://gfzoda.tumblr.com/post/653094095015837696"/>
+        <updated>2021-06-04T20:37:44.000Z</updated>
+        <summary type="html"><![CDATA[avanjogiagf:]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caring For Your Geriatric Millennial]]></title>
+        <id>https://jwz.org/b/yjoK</id>
+        <link href="https://www.jwz.org/blog/2021/06/caring-for-your-geriatric-millennial/"/>
+        <updated>2021-06-04T19:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Caring For Your Geriatric Millennial]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[odin-n-out:odin-n-out:I feel absolute rage when i call An Office and have to sit through a 5 minute...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653073453988085760</id>
+        <link href="https://gfzoda.tumblr.com/post/653073453988085760"/>
+        <updated>2021-06-04T15:09:39.000Z</updated>
+        <summary type="html"><![CDATA[odin-n-out:
+
+odin-n-out:
+
+I feel absolute rage when i call An Office and have to sit through a 5 minute recording telling me I can just use their website thanks!!! I can’t! Believe it or not I’m a child of the internet age who went on your website and it was shit!! Get me a human person!!!!]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[quixoty:
 gutter-guy:
