@@ -43,6 +43,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoN",
+          "author": "jwz",
+          "description": "One of life's simple joys is pointing a video camera at a TV. We should all do that more often. We recently got a screaming deal on this gargantuan 75\" TV, so we turned it into an instagram trap under the main stairs. I think it's going to be very popular! \"What software does it use?\" None, it uses none software. Video feedback works better if it stays in the analog domain, as with 30+ year old camcorders and CRTs rather than that four letter word \"HDMI\", but one does what one can. Hey, here's an interior decoration project maybe one of you could help us out with. The Green Room, that room to the South of the Lounge that you enter from the stage-left stairs, has always been less inviting than we'd like. People treat it as more of a hallway than as a place to hang out. I think it could use a bunch of overstuffed thrift-shop couches and chairs -- really gaudy stuff -- and also a shitload of chandeliers. It has a surprisingly high ceiling, and I think that filling that space with dozens of chandeliers might look pretty cool. So, if you are a person who already has the hobby of frequenting thrift shops and estate sales, I'd love to give you a small monthly budget for broken down chandeliers and couches to dress up that room. (The couches, I assume, won't long survive contact with the enemy and will need to be periodically replenished.)",
+          "link": "https://www.dnalounge.com/backstage/log/2021/06/06.html",
+          "publishedOn": "2021-06-06T17:34:46.000Z",
+          "wordCount": 653,
+          "title": "DNA Lounge: Wherein we value your feedback"
+        },
+        {
           "id": "https://jwz.org/b/yjoK",
           "author": "jwz",
           "description": "Caring For Your Geriatric Millennial",
@@ -272,6 +281,15 @@
       "siteUrl": "https://leahneukirchen.org/trivium/",
       "articles": [
         {
+          "id": "https://leahneukirchen.org/trivium/2021-06-06",
+          "author": null,
+          "description": "Cores that don’t count (PDF),\nby Peter H. Hochschild, Paul Turner, Jeffrey C. Mogul,\nRama Govindaraju, Parthasarathy Ranganathan, David E. Culler, and Amin Vahdat.\n“As fabrication pushes towards smaller feature sizes and more\nelaborate computational structures, and as increasingly specialized\ninstruction-silicon pairings are introduced to improve performance, we\nhave observed ephemeral computational errors that were not detected\nduring manufacturing tests. These defects cannot always be mitigated\nby techniques such as microcode updates, and may be correlated to\nspecific components within the processor, allowing small code changes\nto effect large shifts in reliability. Worse, these failures are often\n“silent” – the only symptom is an erroneous computation.”\nOh no.\nUnix Shell Programming: The Next 50 Years (PDF),\nby Michael Greenberg, Konstantinos Kallas, and Nikos Vasilakis.\nM1ssing Register Access Controls Leak EL0 State,\nM1RACLES (CVE-2021-30747) is a covert channel vulnerability in the\nApple Silicon “M1” chip.\nA metalanguage for multi-phase modularity (PDF),\nby Jonathan Sterling and Robert Harper.\nHalf a year of the Liquid Tensor Experiment: Amazing developments,\nby Peter Scholze.\nIntroduction to Univalent Foundations of Mathematics with Agda,\nby Martín Hötzel Escardó.\n“We introduce Voevodsky’s univalent foundations and univalent\nmathematics, and explain how to develop them with the computer system\nAgda, which is based on Martin-Löf type theory.”\nA Short Introduction to Categorical Logic (YouTube),\nby Evan Patterson at the Topos Institute.\nJoseph Weizenbaum’s Original ELIZA, Computer Conversations (1965).\nThe Sweden Solar System is the world’s largest permanent scale model\nof the Solar System. The model represents the Solar System on the\nscale of 1:20 million.",
+          "link": "https://leahneukirchen.org/trivium/2021-06-06",
+          "publishedOn": "2021-06-06T19:00:46.000Z",
+          "wordCount": 269,
+          "title": "06jun2021"
+        },
+        {
           "id": "https://leahneukirchen.org/trivium/2021-05-24",
           "author": null,
           "description": "FragAttacks, a collection of new security vulnerabilities that\naffect Wi-Fi devices.\nCounterexamples in Type Systems, by Stephen Dolan.\nThree Realisms and The Idea of Sheaves (YouTube),\ntalk by David Jaz Myers.\nExplains many complicated terms in a graphical way.\nPepper, a simple and opinionated modal code editor for your terminal.\nStill early but feels pretty nice already.\nbpftrace-2048, because you can.\nBaking Magnetic Recording Tape, sometimes you just have to.\nSoda locomotive\nNEW SESSION",
@@ -302,6 +320,51 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/653250585711263744",
+          "author": null,
+          "description": "cheese-whiz-barber:\n\nSome pride flags color picked from gastropods",
+          "link": "https://gfzoda.tumblr.com/post/653250585711263744",
+          "publishedOn": "2021-06-06T14:05:05.000Z",
+          "wordCount": 266,
+          "title": "cheese-whiz-barber:Some pride flags color picked from gastropods"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653250042755448833",
+          "author": null,
+          "description": "leonardepsilonchurch:\nCracking open a cold one1 with the boys.\n1: A can of worms.",
+          "link": "https://gfzoda.tumblr.com/post/653250042755448833",
+          "publishedOn": "2021-06-06T13:56:27.000Z",
+          "wordCount": 91,
+          "title": "leonardepsilonchurch:\n\nCracking open a cold one1 with the boys.1: A can of worms."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653245585532551168",
+          "author": null,
+          "description": "mooonbride:\n\nYou’re laughing. This is my second form and the latin choir has started singing, and you’re laughing.",
+          "link": "https://gfzoda.tumblr.com/post/653245585532551168",
+          "publishedOn": "2021-06-06T12:45:37.000Z",
+          "wordCount": 284,
+          "title": "mooonbride:You’re laughing. This is my second form and the latin choir has started singing, and..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653244501707685888",
+          "author": null,
+          "description": "vivienvalentino:\n\n\nspotalike creates a playlist based on a song\nmagicplaylist \n\ncreates a playlist based on a song\n\n\ndubolt \n\ncreates a playlist based on an artist\nboilthefrog creates a playlist between any two artists \npredominant suggests you albums based on cover art color   \nmusic-map \n\nsuggests similar artists\ngnoosic \n\nsuggests similar artists and songs",
+          "link": "https://gfzoda.tumblr.com/post/653244501707685888",
+          "publishedOn": "2021-06-06T12:28:23.000Z",
+          "wordCount": 327,
+          "title": "some sites for when you’re bored and looking for new music"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653244062708744192",
+          "author": null,
+          "description": "adelicateculturecell:\n\n\nJourney to the Microcosmos- Flatworms: Simple Wiggly Tubes\n\nImages Originally Captured by Jam’s Germs\nQuote Voiced by Jam’s Germs",
+          "link": "https://gfzoda.tumblr.com/post/653244062708744192",
+          "publishedOn": "2021-06-06T12:21:24.000Z",
+          "wordCount": 275,
+          "title": "adelicateculturecell:\n\n\n\nJourney to the Microcosmos- Flatworms:..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/653094095015837696",
           "author": null,
@@ -561,6 +624,15 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653285154538831872",
+          "author": null,
+          "description": "sw-maddie:\n\nsw-maddie:\n\nthe pristine gay/trans experience of communicating to another queer person that you are also queer by specifically complimenting the queer-coded thing about their style\n\nand conversely, being complimented by another queer person on the specifically queer-coded thing about your own style",
+          "link": "https://curiosityconfusion.tumblr.com/post/653285154538831872",
+          "publishedOn": "2021-06-06T23:14:33.000Z",
+          "wordCount": 285,
+          "title": "sw-maddie:sw-maddie:the pristine gay/trans experience of communicating to another queer person that..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/652848557009829888",
           "author": null,

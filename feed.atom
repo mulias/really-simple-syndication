@@ -2,10 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T00:36:28.443Z</updated>
+    <updated>2021-06-07T00:37:01.776Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sw-maddie:sw-maddie:the pristine gay/trans experience of communicating to another queer person that...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653285154538831872</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653285154538831872"/>
+        <updated>2021-06-06T23:14:33.000Z</updated>
+        <summary type="html"><![CDATA[sw-maddie:
+
+sw-maddie:
+
+the pristine gay/trans experience of communicating to another queer person that you are also queer by specifically complimenting the queer-coded thing about their style
+
+and conversely, being complimented by another queer person on the specifically queer-coded thing about your own style]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[06jun2021]]></title>
+        <id>https://leahneukirchen.org/trivium/2021-06-06</id>
+        <link href="https://leahneukirchen.org/trivium/2021-06-06"/>
+        <updated>2021-06-06T19:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Cores that don’t count (PDF),
+by Peter H. Hochschild, Paul Turner, Jeffrey C. Mogul,
+Rama Govindaraju, Parthasarathy Ranganathan, David E. Culler, and Amin Vahdat.
+“As fabrication pushes towards smaller feature sizes and more
+elaborate computational structures, and as increasingly specialized
+instruction-silicon pairings are introduced to improve performance, we
+have observed ephemeral computational errors that were not detected
+during manufacturing tests. These defects cannot always be mitigated
+by techniques such as microcode updates, and may be correlated to
+specific components within the processor, allowing small code changes
+to effect large shifts in reliability. Worse, these failures are often
+“silent” – the only symptom is an erroneous computation.”
+Oh no.
+Unix Shell Programming: The Next 50 Years (PDF),
+by Michael Greenberg, Konstantinos Kallas, and Nikos Vasilakis.
+M1ssing Register Access Controls Leak EL0 State,
+M1RACLES (CVE-2021-30747) is a covert channel vulnerability in the
+Apple Silicon “M1” chip.
+A metalanguage for multi-phase modularity (PDF),
+by Jonathan Sterling and Robert Harper.
+Half a year of the Liquid Tensor Experiment: Amazing developments,
+by Peter Scholze.
+Introduction to Univalent Foundations of Mathematics with Agda,
+by Martín Hötzel Escardó.
+“We introduce Voevodsky’s univalent foundations and univalent
+mathematics, and explain how to develop them with the computer system
+Agda, which is based on Martin-Löf type theory.”
+A Short Introduction to Categorical Logic (YouTube),
+by Evan Patterson at the Topos Institute.
+Joseph Weizenbaum’s Original ELIZA, Computer Conversations (1965).
+The Sweden Solar System is the world’s largest permanent scale model
+of the Solar System. The model represents the Solar System on the
+scale of 1:20 million.]]></summary>
+        <author>
+            <name>Trivium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein we value your feedback]]></title>
+        <id>https://jwz.org/b/yjoN</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/06/06.html"/>
+        <updated>2021-06-06T17:34:46.000Z</updated>
+        <summary type="html"><![CDATA[One of life's simple joys is pointing a video camera at a TV. We should all do that more often. We recently got a screaming deal on this gargantuan 75" TV, so we turned it into an instagram trap under the main stairs. I think it's going to be very popular! "What software does it use?" None, it uses none software. Video feedback works better if it stays in the analog domain, as with 30+ year old camcorders and CRTs rather than that four letter word "HDMI", but one does what one can. Hey, here's an interior decoration project maybe one of you could help us out with. The Green Room, that room to the South of the Lounge that you enter from the stage-left stairs, has always been less inviting than we'd like. People treat it as more of a hallway than as a place to hang out. I think it could use a bunch of overstuffed thrift-shop couches and chairs -- really gaudy stuff -- and also a shitload of chandeliers. It has a surprisingly high ceiling, and I think that filling that space with dozens of chandeliers might look pretty cool. So, if you are a person who already has the hobby of frequenting thrift shops and estate sales, I'd love to give you a small monthly budget for broken down chandeliers and couches to dress up that room. (The couches, I assume, won't long survive contact with the enemy and will need to be periodically replenished.)]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cheese-whiz-barber:Some pride flags color picked from gastropods]]></title>
+        <id>https://gfzoda.tumblr.com/post/653250585711263744</id>
+        <link href="https://gfzoda.tumblr.com/post/653250585711263744"/>
+        <updated>2021-06-06T14:05:05.000Z</updated>
+        <summary type="html"><![CDATA[cheese-whiz-barber:
+
+Some pride flags color picked from gastropods]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[leonardepsilonchurch:
+
+Cracking open a cold one1 with the boys.1: A can of worms.]]></title>
+        <id>https://gfzoda.tumblr.com/post/653250042755448833</id>
+        <link href="https://gfzoda.tumblr.com/post/653250042755448833"/>
+        <updated>2021-06-06T13:56:27.000Z</updated>
+        <summary type="html"><![CDATA[leonardepsilonchurch:
+Cracking open a cold one1 with the boys.
+1: A can of worms.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mooonbride:You’re laughing. This is my second form and the latin choir has started singing, and...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653245585532551168</id>
+        <link href="https://gfzoda.tumblr.com/post/653245585532551168"/>
+        <updated>2021-06-06T12:45:37.000Z</updated>
+        <summary type="html"><![CDATA[mooonbride:
+
+You’re laughing. This is my second form and the latin choir has started singing, and you’re laughing.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[some sites for when you’re bored and looking for new music]]></title>
+        <id>https://gfzoda.tumblr.com/post/653244501707685888</id>
+        <link href="https://gfzoda.tumblr.com/post/653244501707685888"/>
+        <updated>2021-06-06T12:28:23.000Z</updated>
+        <summary type="html"><![CDATA[vivienvalentino:
+
+
+spotalike creates a playlist based on a song
+magicplaylist 
+
+creates a playlist based on a song
+
+
+dubolt 
+
+creates a playlist based on an artist
+boilthefrog creates a playlist between any two artists 
+predominant suggests you albums based on cover art color   
+music-map 
+
+suggests similar artists
+gnoosic 
+
+suggests similar artists and songs]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adelicateculturecell:
+
+
+
+Journey to the Microcosmos- Flatworms:...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653244062708744192</id>
+        <link href="https://gfzoda.tumblr.com/post/653244062708744192"/>
+        <updated>2021-06-06T12:21:24.000Z</updated>
+        <summary type="html"><![CDATA[adelicateculturecell:
+
+
+Journey to the Microcosmos- Flatworms: Simple Wiggly Tubes
+
+Images Originally Captured by Jam’s Germs
+Quote Voiced by Jam’s Germs]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[avanjogiagf:]]></title>
         <id>https://gfzoda.tumblr.com/post/653094095015837696</id>
