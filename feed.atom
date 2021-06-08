@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T00:37:01.776Z</updated>
+    <updated>2021-06-08T00:39:03.667Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[qillermeme:]]></title>
+        <id>https://gfzoda.tumblr.com/post/653353561014566912</id>
+        <link href="https://gfzoda.tumblr.com/post/653353561014566912"/>
+        <updated>2021-06-07T17:21:50.000Z</updated>
+        <summary type="html"><![CDATA[qillermeme:]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tr4shie:]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653300158218534912</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653300158218534912"/>
+        <updated>2021-06-07T03:13:01.000Z</updated>
+        <summary type="html"><![CDATA[tr4shie:]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[spotlessmy-deactivated20210523:this was a great read. “Laziness Does Not Exist” by Devon Price]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653295505451991040</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653295505451991040"/>
+        <updated>2021-06-07T01:59:04.000Z</updated>
+        <summary type="html"><![CDATA[spotlessmy-deactivated20210523:
+
+this was a great read. “Laziness Does Not Exist” by Devon Price]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sw-maddie:sw-maddie:the pristine gay/trans experience of communicating to another queer person that...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/653285154538831872</id>
@@ -1159,16 +1191,6 @@ zx, useful functions for scripting in Node.js.
 Learn shogi by playing!]]></summary>
         <author>
             <name>Trivium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Lounge: Wherein we break a mighty wind.]]></title>
-        <id>https://jwz.org/b/yjnp</id>
-        <link href="https://www.dnalounge.com/backstage/log/2021/05/08.html"/>
-        <updated>2021-05-08T17:49:58.000Z</updated>
-        <summary type="html"><![CDATA[We finally got our fan controllers replaced. And there was much rejoicing. We have two gigantic fans on the roof, and about a decade ago the controllers that let us operate them at variable speed broke. Those controllers were many thousands of dollars each, so we just tore them out and replaced them with a pair of on-off switches, meaning the fans were either on at 100%, or off. This kind of sucked (see what I did there). Well it turns out, the price of the controllers has dropped a lot since then, so we finally got new ones, and now we can run our fans more sensibly. We now have choices lying on the continuum between "sweatbox" and "arctic hurricane". Why so expensive? Why aren't these controllers just a potentiometer knob? Because that trick only works for DC motors. DC motor speed is controlled by the voltage, so a resistor slows them down. AC motor speed is based on the input frequency, which is typically 60 Hz, so to run them at a different speed you need to vary the frequency, which is complicated. Also, big AC motors like the ones on our roof usually run off three phase power, meaning a separate feed to each of the motor's three coils, with both the input signal and the physical coils being 120° out of phase, because science. So that's why it takes more electronics than a pot. The controllers also do other stuff like having an attack/decay ramp to avoid stressing out the motors, and for some reason there's a 5kHz "carrier frequency" which I don't understand. Some kind of in-band signaling for fancier motors than ours? One thing that occurred to us, now that we have these new controllers, is that one technique for clearing away the years of confetti that are gumming up the outtake vent above the stage would be to just run that fan backwards and blast it all out into the room again. Then we can pack it all up in a box and mail it to Adriana.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>
