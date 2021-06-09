@@ -254,15 +254,6 @@
           "publishedOn": "2021-05-11T16:18:13.000Z",
           "wordCount": 1220,
           "title": "DNA Lounge: Wherein there has been a lapse of time"
-        },
-        {
-          "id": "https://jwz.org/b/yjns",
-          "author": "jwz",
-          "description": "Thanks to three generous donors who prefer to remain anonymous, we have a new dance floor! And it looks fantastic. The existing floor was a festive pancake of concrete, then a quarter inch of neoprene for springiness, then two layers of plywood. After two decades of dancing, the old plywood was extremly torn up, meaning the surface was rough and splotchy and paint would no longer stick to it well. It was a finished surface but a soft wood, probably pine or Douglas fir. After repairing some soft spots in the old floor, we laid down a new layer of 3/4\" birch. That is the same hardwood that we used on the go-go boxes and the Dazzle dance floor, which have held up exceptionally well. It turns out that we didn't need to tear up the old floor first. The new layer is glued and screwed on top of the old floor, which means that you are all now 3/4\" taller. Before: During and after: We hope to have you dancing on this new floor very soon. Birch is normally one of the more expensive woods, but as it turns out there's some kind of supply-chain fuckery going on affecting most of the softer woods, so this is currently the least expensive plywood available, because the price of the lower quality stuff has gone through the ceiling! We're going to paint that gray, like the old floor. We considered staining and varnishing it instead, since we can always paint it later if we need to, but the downside of that is the varnish would make the paint adhere less well. So we're just going to go with paint from the start. I must say, I am surprised and gratified that my Hail Mary \"Wanna buy us a dance floor?\" post succeeded. Without these donations, we would have just kept lumbering along with our fairly-scruffy old floor. Thank you again, dear anonymous donors, you are the best! We do have a few other renovations that we'd love to do if there are any other generous folks out there willing to help...",
-          "link": "https://www.dnalounge.com/backstage/log/2021/05/09.html",
-          "publishedOn": "2021-05-10T03:36:05.000Z",
-          "wordCount": 686,
-          "title": "DNA Lounge: Wherein we have a new dance floor!"
         }
       ]
     },
@@ -288,15 +279,6 @@
           "publishedOn": "2021-05-24T19:22:52.000Z",
           "wordCount": 88,
           "title": "24may2021"
-        },
-        {
-          "id": "https://leahneukirchen.org/trivium/2021-05-09",
-          "author": null,
-          "description": "21Nails: Multiple vulnerabilities in Exim, a Qualys Security Advisory.\nProving 50-Year-Old Sorting Networks Optimal: Part 1,\nby Jannis Harder.\nWhy I’ll never create modules for VCV Rack anymore—and what I’ll make instead, by Aria Salvatrice.\nContractibility as uniqueness (YouTube), talk by Emily Riehl\nat the Topos Institute.\nObjective-S is an architecture-oriented programming language based\nloosely on Smalltalk and Objective-C.\nzx, useful functions for scripting in Node.js.\nLearn shogi by playing!",
-          "link": "https://leahneukirchen.org/trivium/2021-05-09",
-          "publishedOn": "2021-05-09T18:51:36.000Z",
-          "wordCount": 86,
-          "title": "09may2021"
         }
       ]
     },
@@ -311,6 +293,51 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/653469269034729472",
+          "author": null,
+          "description": "cheeseanonioncrisps:\n\nFact 1: ‘Rubber duck debugging’ is a programming technique whereby a programmer explains their code, line by line, to a rubber duck. The idea is that in explaining it they will eventually figure out what the problem is.\nFact 2: In the same way, a lot of ordinary non-programming problems can be solved by talking them over with a friend, even if said friend does not actually know that much about the topic/situation and can’t contribute much to the conversation.\nFact 3: When you thank said friend for helping you solve your problem, and they reply “I didn’t really say anything”, it is very inadvisable to take the opportunity to tell them about Fact 1. No matter how interesting a comparison it may seem at the time.",
+          "link": "https://gfzoda.tumblr.com/post/653469269034729472",
+          "publishedOn": "2021-06-09T00:00:58.000Z",
+          "wordCount": 375,
+          "title": "cheeseanonioncrisps:Fact 1: &lsquo;Rubber duck debugging&rsquo; is a programming technique whereby a..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653444588162383872",
+          "author": null,
+          "description": "nascencio:\n\napplejuicewerewolf:\n\noflightbluecupcakes:\n\nesclapo:\n\nrikusqueenofhearts:\n\nkleeklutch:\n\n\nhappy pride month to country mama lynn and country mama lynn only\n\nSomeone give this woman a damn crown and medal\n\nHappy pride month to country mama lynn and ger gay son only\n\nCountry mama Lynn and her baseball bat could protect pride better than any cop",
+          "link": "https://gfzoda.tumblr.com/post/653444588162383872",
+          "publishedOn": "2021-06-08T17:28:40.000Z",
+          "wordCount": 300,
+          "title": "nascencio:applejuicewerewolf:oflightbluecupcakes:esclapo:rikusqueenofhearts:kleeklutch:happy pride..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653444410559889408",
+          "author": null,
+          "description": "raevenlywrites:\n\nraevenlywrites:\n\nYou can read a summary of my gender for free but the full gender is behind a paywall\n\nYou can perceive my gender five times a month for free but if you want to stay up to date on my latest gender you’ll have to subscribe",
+          "link": "https://gfzoda.tumblr.com/post/653444410559889408",
+          "publishedOn": "2021-06-08T17:25:51.000Z",
+          "wordCount": 290,
+          "title": "raevenlywrites:raevenlywrites:You can read a summary of my gender for free but the full gender is..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653444383553830912",
+          "author": null,
+          "description": "sharper-and-bigger:\n\nmartianaviator:\n\nysabelmystic:\n\nI just heard my mom tell my brother, “when you die, you will go outside and garden until your father says you’re done” and it took me a second to realize that my brother was playing a videogame and this was not a theological discussion. \n\nPurgatory\n\nThe Garden of Death\nWatercolor and gouache by Hugo Simberg, 1896",
+          "link": "https://gfzoda.tumblr.com/post/653444383553830912",
+          "publishedOn": "2021-06-08T17:25:25.000Z",
+          "wordCount": 320,
+          "title": "sharper-and-bigger:martianaviator:ysabelmystic:I just heard my mom tell my brother, “when you die,..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653444299296538624",
+          "author": null,
+          "description": "clementiens:",
+          "link": "https://gfzoda.tumblr.com/post/653444299296538624",
+          "publishedOn": "2021-06-08T17:24:05.000Z",
+          "wordCount": 245,
+          "title": "clementiens:"
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/653353561014566912",
           "author": null,
@@ -624,6 +651,24 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653457452285689856",
+          "author": null,
+          "description": "liv-abetic:\n\nI love that the two universal diabetic inside jokes that almost anyone with diabetes will understand, but must also seem weird to outsiders, are:\n1. Nobody changes their lancets\n2. The Insulin Compartment™️",
+          "link": "https://curiosityconfusion.tumblr.com/post/653457452285689856",
+          "publishedOn": "2021-06-08T20:53:09.000Z",
+          "wordCount": 365,
+          "title": "liv-abetic:I love that the two universal diabetic inside jokes that almost anyone with diabetes will..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653392546996830208",
+          "author": null,
+          "description": "cryptonature:\n\nVultures are holy creatures.\nTending the dead.\nBowing low.\nBared head.\nWhispers to cold flesh,\n“Your old name is not your king.\nI rename you ‘Everything.’”",
+          "link": "https://curiosityconfusion.tumblr.com/post/653392546996830208",
+          "publishedOn": "2021-06-08T03:41:30.000Z",
+          "wordCount": 261,
+          "title": "cryptonature:Vultures are holy creatures.Tending the dead.Bowing low.Bared head.Whispers to cold..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/653300158218534912",
           "author": null,
