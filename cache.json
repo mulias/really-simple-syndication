@@ -43,6 +43,29 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoP",
+          "author": "jwz",
+          "description": "Rep. Louie Gohmert (R-TX) asks whether the Forest Service or the BLM can alter the orbit of the moon or the Earth in order to fight climate change during a House Natural Resources hearing. \"I would have to follow up with you on that, Mr. Gomert.\"",
+          "link": "https://www.jwz.org/blog/2021/06/chrome-the-moon-for-a-brighter-tomorrow/",
+          "publishedOn": "2021-06-09T17:28:43.000Z",
+          "wordCount": 821,
+          "title": "Chrome The Moon for a Brighter Tomorrow!",
+          "enclosure": {
+            "url": "https://www.jwz.org/images/2021/78e12mrt1qxgm9gf.mp4",
+            "length": "1499361",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://jwz.org/b/yjoO",
+          "author": "jwz",
+          "description": "XScreenSaver 6.01 is out now. This is an X11-only maintenance release, so there are no macOS, iOS or Android packages this time around. The 6.00 refactor of the X11 XScreenSaver daemon has so far proven to be very stable and secure! The bugs fixed in this release are relatively minor. However: If you are using 6.00, I strongly recommend upgrading to 6.01. If you are using 5.xx, I strongly, strongly recommend upgrading to 6.01. Sadly, due to recent catastrophic decision-making on the part of certain Linux distros, I was forced to add the following section to the XScreenSaver manual: THE WAYLAND PROBLEM Wayland is a completely different window system that is intended to replace X11. After 13+ years of trying, some Linux distros have finally begun enabling it by default. Most deployments of it also include XWayland, which is a compatibility layer that allows some X11 programs to continue to work within a Wayland environment. Unfortunately, XScreenSaver is not one of those programs. If your system is running XWayland, XScreenSaver will malfunction in two ways: It will be unable to detect user activity in non-X11 programs. This means that while a native Wayland program is selected, XScreenSaver will think that you are idle, and may blank the screen prematurely. It will be unable to lock the screen. This is because X11 grabs don't work properly under XWayland, so there is no way for XScreenSaver to prevent the user from switching away from the screen locker to another application. If you are aware of some way for XScreenSaver to reliably detect user activity under Wayland, do let me know. Maybe there is some dbus/systemd signal that I have missed? Now that the XScreenSaver 6.x daemon has been sandboxed and massively reduced in size, it might be plausible for someone to rewrite xscreensaver.c to speak Wayland instead of X11, to run inside the Wayland compositor, and then to launch the X11 programs xscreensaver-auth and xscreensaver-gfx as needed. But that someone will not be me.",
+          "link": "https://www.jwz.org/blog/2021/06/xscreensaver-6-01-out-now/",
+          "publishedOn": "2021-06-09T16:34:45.000Z",
+          "wordCount": 969,
+          "title": "XScreenSaver 6.01 out now"
+        },
+        {
           "id": "https://jwz.org/b/yjoN",
           "author": "jwz",
           "description": "One of life's simple joys is pointing a video camera at a TV. We should all do that more often. We recently got a screaming deal on this gargantuan 75\" TV, so we turned it into an instagram trap under the main stairs. I think it's going to be very popular! \"What software does it use?\" None, it uses none software. Video feedback works better if it stays in the analog domain, as with 30+ year old camcorders and CRTs rather than that four letter word \"HDMI\", but one does what one can. Hey, here's an interior decoration project maybe one of you could help us out with. The Green Room, that room to the South of the Lounge that you enter from the stage-left stairs, has always been less inviting than we'd like. People treat it as more of a hallway than as a place to hang out. I think it could use a bunch of overstuffed thrift-shop couches and chairs -- really gaudy stuff -- and also a shitload of chandeliers. It has a surprisingly high ceiling, and I think that filling that space with dozens of chandeliers might look pretty cool. So, if you are a person who already has the hobby of frequenting thrift shops and estate sales, I'd love to give you a small monthly budget for broken down chandeliers and couches to dress up that room. (The couches, I assume, won't long survive contact with the enemy and will need to be periodically replenished.)",
@@ -625,24 +648,6 @@
           "publishedOn": "2021-05-12T14:32:32.000Z",
           "wordCount": 223,
           "title": "mysharona1987:"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/650852763362885632",
-          "author": null,
-          "description": "godsensei:\n\ni can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain producing a perfectly clear rendition of James Blunt going “YAH BYÜTEHFA'AL”",
-          "link": "https://gfzoda.tumblr.com/post/650852763362885632",
-          "publishedOn": "2021-05-11T02:52:44.000Z",
-          "wordCount": 289,
-          "title": "godsensei:i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/650845696422035457",
-          "author": null,
-          "description": "thank you!!! and\nABBA IS FUCKING WHAT\nTHEY WHAT",
-          "link": "https://gfzoda.tumblr.com/post/650845696422035457",
-          "publishedOn": "2021-05-11T01:00:24.000Z",
-          "wordCount": 315,
-          "title": "<p>hello your hair looks really good and if nothing else is going well today i at least woke up to national news here in sweden that abba is recording new music again</p>"
         }
       ]
     },
@@ -651,6 +656,15 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653476111759589376",
+          "author": null,
+          "description": "birlinterrupted:\ni dont know why people are like ‘we need to bully people so they are more normal’ when if the internet has been anything its been a series of longitudinal studies showing that prolonged large scale bullying tends to lead people to becoming increasingly weird, paranoid, sometimes off-putting, traumatized, emotionally troubled, ethically disregulated, etc. even unethical modalities like behaviorism don’t focus exclusively or primarily on punishment. like people should literally just be honest and say they want more bullying because they like to do it and have fun hurting other people",
+          "link": "https://curiosityconfusion.tumblr.com/post/653476111759589376",
+          "publishedOn": "2021-06-09T01:49:44.000Z",
+          "wordCount": 314,
+          "title": "birlinterrupted:\n\ni dont know why people are like ‘we need to bully people so they are more normal’..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/653457452285689856",
           "author": null,

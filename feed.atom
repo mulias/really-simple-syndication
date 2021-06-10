@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T00:22:42.948Z</updated>
+    <updated>2021-06-10T00:20:28.530Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome The Moon for a Brighter Tomorrow!]]></title>
+        <id>https://jwz.org/b/yjoP</id>
+        <link href="https://www.jwz.org/blog/2021/06/chrome-the-moon-for-a-brighter-tomorrow/"/>
+        <updated>2021-06-09T17:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Rep. Louie Gohmert (R-TX) asks whether the Forest Service or the BLM can alter the orbit of the moon or the Earth in order to fight climate change during a House Natural Resources hearing. "I would have to follow up with you on that, Mr. Gomert."]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XScreenSaver 6.01 out now]]></title>
+        <id>https://jwz.org/b/yjoO</id>
+        <link href="https://www.jwz.org/blog/2021/06/xscreensaver-6-01-out-now/"/>
+        <updated>2021-06-09T16:34:45.000Z</updated>
+        <summary type="html"><![CDATA[XScreenSaver 6.01 is out now. This is an X11-only maintenance release, so there are no macOS, iOS or Android packages this time around. The 6.00 refactor of the X11 XScreenSaver daemon has so far proven to be very stable and secure! The bugs fixed in this release are relatively minor. However: If you are using 6.00, I strongly recommend upgrading to 6.01. If you are using 5.xx, I strongly, strongly recommend upgrading to 6.01. Sadly, due to recent catastrophic decision-making on the part of certain Linux distros, I was forced to add the following section to the XScreenSaver manual: THE WAYLAND PROBLEM Wayland is a completely different window system that is intended to replace X11. After 13+ years of trying, some Linux distros have finally begun enabling it by default. Most deployments of it also include XWayland, which is a compatibility layer that allows some X11 programs to continue to work within a Wayland environment. Unfortunately, XScreenSaver is not one of those programs. If your system is running XWayland, XScreenSaver will malfunction in two ways: It will be unable to detect user activity in non-X11 programs. This means that while a native Wayland program is selected, XScreenSaver will think that you are idle, and may blank the screen prematurely. It will be unable to lock the screen. This is because X11 grabs don't work properly under XWayland, so there is no way for XScreenSaver to prevent the user from switching away from the screen locker to another application. If you are aware of some way for XScreenSaver to reliably detect user activity under Wayland, do let me know. Maybe there is some dbus/systemd signal that I have missed? Now that the XScreenSaver 6.x daemon has been sandboxed and massively reduced in size, it might be plausible for someone to rewrite xscreensaver.c to speak Wayland instead of X11, to run inside the Wayland compositor, and then to launch the X11 programs xscreensaver-auth and xscreensaver-gfx as needed. But that someone will not be me.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[birlinterrupted:
+
+i dont know why people are like ‘we need to bully people so they are more normal’...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653476111759589376</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653476111759589376"/>
+        <updated>2021-06-09T01:49:44.000Z</updated>
+        <summary type="html"><![CDATA[birlinterrupted:
+i dont know why people are like ‘we need to bully people so they are more normal’ when if the internet has been anything its been a series of longitudinal studies showing that prolonged large scale bullying tends to lead people to becoming increasingly weird, paranoid, sometimes off-putting, traumatized, emotionally troubled, ethically disregulated, etc. even unethical modalities like behaviorism don’t focus exclusively or primarily on punishment. like people should literally just be honest and say they want more bullying because they like to do it and have fun hurting other people]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cheeseanonioncrisps:Fact 1: &lsquo;Rubber duck debugging&rsquo; is a programming technique whereby a...]]></title>
         <id>https://gfzoda.tumblr.com/post/653469269034729472</id>
@@ -1260,30 +1293,6 @@ ok but shonen rly did it with mob man. every protag is just some little boy but 
         <summary type="html"><![CDATA[I made a time-lapse video of the dance floor installation! This is the first two days of the floor installation. They also came back for a third full day of sanding, but that wasn't very interesting to watch; and now we're going to paint it, which will take another day or two. (We do have an older video where you can watch paint dry, if you're in to that sort of thing.) We set up a laptop recording 24/7 all weekend with OBS, and that generated a 98 GB TS file. Fun fact: guess what Quicktime Player, VLC and ffmpeg really don't like to deal with? That's right, 98 GB TS files. So my plan to just scrub through it and find the timestamps to extract didn't work because no player would let me scrub. I ended up splitting it into 10 minute segments with: -map 0 -f segment -segment_time 10 -reset_timestamps 1 $encode_options With "-codec copy" it wouldn't split at all, so I had to re-encode it. Then I was able to manually page through and delete the segments that were in the middle of the night. Next, I time-lapsed like this: -f concat -i file_list.txt -vf 'tblend=average, setpts=PTS*0.01, tmix=frames=30' -r 30 $encode_options The "tblend" filter is what gives the ghostly motion-blur effect on the people walking around. Without that, time lapses have a much more flickery, stuttery quality to them. That final encode took twenty hours to convert 22 hours of source video into a 13 minute time lapse on a 3.2 GHz iMac Pro. So this is maybe not the ideal procedure.]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[godsensei:i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain...]]></title>
-        <id>https://gfzoda.tumblr.com/post/650852763362885632</id>
-        <link href="https://gfzoda.tumblr.com/post/650852763362885632"/>
-        <updated>2021-05-11T02:52:44.000Z</updated>
-        <summary type="html"><![CDATA[godsensei:
-
-i can’t see/hear the phrase, “you’re beautiful” without the primitive part of my brain producing a perfectly clear rendition of James Blunt going “YAH BYÜTEHFA'AL”]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<p>hello your hair looks really good and if nothing else is going well today i at least woke up to national news here in sweden that abba is recording new music again</p>]]></title>
-        <id>https://gfzoda.tumblr.com/post/650845696422035457</id>
-        <link href="https://gfzoda.tumblr.com/post/650845696422035457"/>
-        <updated>2021-05-11T01:00:24.000Z</updated>
-        <summary type="html"><![CDATA[thank you!!! and
-ABBA IS FUCKING WHAT
-THEY WHAT]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
