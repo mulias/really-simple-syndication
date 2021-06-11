@@ -259,24 +259,6 @@
           "publishedOn": "2021-05-12T20:42:18.000Z",
           "wordCount": 576,
           "title": "Wacky 90s fads!"
-        },
-        {
-          "id": "https://jwz.org/b/yjnw",
-          "author": "jwz",
-          "description": "Jeff Bezos' superyacht is so big it needs its own yacht. The world's richest man is buying a boat, though that word feels inappropriately sensible for the monstrosity going to Captain Bezos: a 417-foot superyacht that's so massive it has its own \"support yacht\" with a helipad. The estimated cost, not including the boat's support boat, is $500 million. Half a billion bucks is an inconceivable amount of money for most people, but it's a small fraction of the $75 billion that Bezos gained in 2020 alone. His total net worth stands just shy of $200 billion. Amazon stock rose a staggering 75% last year. [...] Recent quarters for superyachts have been record-breaking, one analyst told Bloomberg. Makers of extravagant yachts can barely keep up. \"It's impossible to get a slot in a new-build yard,\" the analyst said. \"They're totally booked.\"",
-          "link": "https://www.jwz.org/blog/2021/05/today-in-hot-superyacht-probs-7/",
-          "publishedOn": "2021-05-11T19:40:20.000Z",
-          "wordCount": 1436,
-          "title": "Today in Hot Superyacht Probs"
-        },
-        {
-          "id": "https://jwz.org/b/yjnt",
-          "author": "jwz",
-          "description": "I made a time-lapse video of the dance floor installation! This is the first two days of the floor installation. They also came back for a third full day of sanding, but that wasn't very interesting to watch; and now we're going to paint it, which will take another day or two. (We do have an older video where you can watch paint dry, if you're in to that sort of thing.) We set up a laptop recording 24/7 all weekend with OBS, and that generated a 98 GB TS file. Fun fact: guess what Quicktime Player, VLC and ffmpeg really don't like to deal with? That's right, 98 GB TS files. So my plan to just scrub through it and find the timestamps to extract didn't work because no player would let me scrub. I ended up splitting it into 10 minute segments with: -map 0 -f segment -segment_time 10 -reset_timestamps 1 $encode_options With \"-codec copy\" it wouldn't split at all, so I had to re-encode it. Then I was able to manually page through and delete the segments that were in the middle of the night. Next, I time-lapsed like this: -f concat -i file_list.txt -vf 'tblend=average, setpts=PTS*0.01, tmix=frames=30' -r 30 $encode_options The \"tblend\" filter is what gives the ghostly motion-blur effect on the people walking around. Without that, time lapses have a much more flickery, stuttery quality to them. That final encode took twenty hours to convert 22 hours of source video into a 13 minute time lapse on a 3.2 GHz iMac Pro. So this is maybe not the ideal procedure.",
-          "link": "https://www.dnalounge.com/backstage/log/2021/05/11.html",
-          "publishedOn": "2021-05-11T16:18:13.000Z",
-          "wordCount": 1220,
-          "title": "DNA Lounge: Wherein there has been a lapse of time"
         }
       ]
     },
@@ -316,6 +298,42 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/653639767004758016",
+          "author": null,
+          "description": "red-faced-wolf:\n\nkaijuno:\n\nWait this is funny\n\nThis humor is so fucking advanced yet so fucking simple at the same time",
+          "link": "https://gfzoda.tumblr.com/post/653639767004758016",
+          "publishedOn": "2021-06-10T21:10:57.000Z",
+          "wordCount": 279,
+          "title": "red-faced-wolf:kaijuno:Wait this is funnyThis humor is so fucking advanced yet so fucking simple at..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653623266934669312",
+          "author": null,
+          "description": "coldasawitchestit:\n\nSomething that makes me happy. Witches of the Discworld. They make me feel strong",
+          "link": "https://gfzoda.tumblr.com/post/653623266934669312",
+          "publishedOn": "2021-06-10T16:48:42.000Z",
+          "wordCount": 290,
+          "title": "coldasawitchestit:Something that makes me happy. Witches of the Discworld. They make me feel strong"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653620928229556224",
+          "author": null,
+          "description": "phemiec:\n\nReading The Lock Tomb series like:\nHeart wrenchingly beautiful prose-TEN YEAR OLD MEME-descriptive language so visceral and brilliant you feel it through your whole body-HORRIBLE DAD JOKE-a paragraph so original, poignant and resonant it’s like nothing you’ve ever read before, to the point where you’re sure you’re reading the work of a genius, the likes of which have never before- HOMESTUCK REFERENCE. ANOTHER EVEN WORSE DAD JOKE. TWENTY YEAR OLD MEME. FUCK YOUR IMMERSION, GET RICK ROLLED BITCH.",
+          "link": "https://gfzoda.tumblr.com/post/653620928229556224",
+          "publishedOn": "2021-06-10T16:11:31.000Z",
+          "wordCount": 341,
+          "title": "phemiec:Reading The Lock Tomb series like:Heart wrenchingly beautiful prose-TEN YEAR OLD..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653603419797504000",
+          "author": null,
+          "description": "callmebliss-got-swamped:\n\nkaczynskis:\n\nI clicked fearing it would be Out Of Touch but, instead, it is perfectly splendid",
+          "link": "https://gfzoda.tumblr.com/post/653603419797504000",
+          "publishedOn": "2021-06-10T11:33:14.000Z",
+          "wordCount": 263,
+          "title": "callmebliss-got-swamped:kaczynskis:I clicked fearing it would be Out Of Touch but, instead, it is..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/653469269034729472",
           "author": null,

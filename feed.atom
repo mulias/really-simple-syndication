@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:20:28.530Z</updated>
+    <updated>2021-06-11T00:19:32.638Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[red-faced-wolf:kaijuno:Wait this is funnyThis humor is so fucking advanced yet so fucking simple at...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653639767004758016</id>
+        <link href="https://gfzoda.tumblr.com/post/653639767004758016"/>
+        <updated>2021-06-10T21:10:57.000Z</updated>
+        <summary type="html"><![CDATA[red-faced-wolf:
+
+kaijuno:
+
+Wait this is funny
+
+This humor is so fucking advanced yet so fucking simple at the same time]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[coldasawitchestit:Something that makes me happy. Witches of the Discworld. They make me feel strong]]></title>
+        <id>https://gfzoda.tumblr.com/post/653623266934669312</id>
+        <link href="https://gfzoda.tumblr.com/post/653623266934669312"/>
+        <updated>2021-06-10T16:48:42.000Z</updated>
+        <summary type="html"><![CDATA[coldasawitchestit:
+
+Something that makes me happy. Witches of the Discworld. They make me feel strong]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phemiec:Reading The Lock Tomb series like:Heart wrenchingly beautiful prose-TEN YEAR OLD...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653620928229556224</id>
+        <link href="https://gfzoda.tumblr.com/post/653620928229556224"/>
+        <updated>2021-06-10T16:11:31.000Z</updated>
+        <summary type="html"><![CDATA[phemiec:
+
+Reading The Lock Tomb series like:
+Heart wrenchingly beautiful prose-TEN YEAR OLD MEME-descriptive language so visceral and brilliant you feel it through your whole body-HORRIBLE DAD JOKE-a paragraph so original, poignant and resonant it’s like nothing you’ve ever read before, to the point where you’re sure you’re reading the work of a genius, the likes of which have never before- HOMESTUCK REFERENCE. ANOTHER EVEN WORSE DAD JOKE. TWENTY YEAR OLD MEME. FUCK YOUR IMMERSION, GET RICK ROLLED BITCH.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[callmebliss-got-swamped:kaczynskis:I clicked fearing it would be Out Of Touch but, instead, it is...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653603419797504000</id>
+        <link href="https://gfzoda.tumblr.com/post/653603419797504000"/>
+        <updated>2021-06-10T11:33:14.000Z</updated>
+        <summary type="html"><![CDATA[callmebliss-got-swamped:
+
+kaczynskis:
+
+I clicked fearing it would be Out Of Touch but, instead, it is perfectly splendid]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome The Moon for a Brighter Tomorrow!]]></title>
         <id>https://jwz.org/b/yjoP</id>
@@ -1273,26 +1328,6 @@ ok but shonen rly did it with mob man. every protag is just some little boy but 
         <summary type="html"><![CDATA[mysharona1987:]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in Hot Superyacht Probs]]></title>
-        <id>https://jwz.org/b/yjnw</id>
-        <link href="https://www.jwz.org/blog/2021/05/today-in-hot-superyacht-probs-7/"/>
-        <updated>2021-05-11T19:40:20.000Z</updated>
-        <summary type="html"><![CDATA[Jeff Bezos' superyacht is so big it needs its own yacht. The world's richest man is buying a boat, though that word feels inappropriately sensible for the monstrosity going to Captain Bezos: a 417-foot superyacht that's so massive it has its own "support yacht" with a helipad. The estimated cost, not including the boat's support boat, is $500 million. Half a billion bucks is an inconceivable amount of money for most people, but it's a small fraction of the $75 billion that Bezos gained in 2020 alone. His total net worth stands just shy of $200 billion. Amazon stock rose a staggering 75% last year. [...] Recent quarters for superyachts have been record-breaking, one analyst told Bloomberg. Makers of extravagant yachts can barely keep up. "It's impossible to get a slot in a new-build yard," the analyst said. "They're totally booked."]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Lounge: Wherein there has been a lapse of time]]></title>
-        <id>https://jwz.org/b/yjnt</id>
-        <link href="https://www.dnalounge.com/backstage/log/2021/05/11.html"/>
-        <updated>2021-05-11T16:18:13.000Z</updated>
-        <summary type="html"><![CDATA[I made a time-lapse video of the dance floor installation! This is the first two days of the floor installation. They also came back for a third full day of sanding, but that wasn't very interesting to watch; and now we're going to paint it, which will take another day or two. (We do have an older video where you can watch paint dry, if you're in to that sort of thing.) We set up a laptop recording 24/7 all weekend with OBS, and that generated a 98 GB TS file. Fun fact: guess what Quicktime Player, VLC and ffmpeg really don't like to deal with? That's right, 98 GB TS files. So my plan to just scrub through it and find the timestamps to extract didn't work because no player would let me scrub. I ended up splitting it into 10 minute segments with: -map 0 -f segment -segment_time 10 -reset_timestamps 1 $encode_options With "-codec copy" it wouldn't split at all, so I had to re-encode it. Then I was able to manually page through and delete the segments that were in the middle of the night. Next, I time-lapsed like this: -f concat -i file_list.txt -vf 'tblend=average, setpts=PTS*0.01, tmix=frames=30' -r 30 $encode_options The "tblend" filter is what gives the ghostly motion-blur effect on the people walking around. Without that, time lapses have a much more flickery, stuttery quality to them. That final encode took twenty hours to convert 22 hours of source video into a 13 minute time lapse on a 3.2 GHz iMac Pro. So this is maybe not the ideal procedure.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>
