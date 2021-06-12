@@ -43,6 +43,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoQ",
+          "author": "jwz",
+          "description": "I always enjoy it when people tell on themselves with their font changes, making it clear that they have sent a hastily-edited form letter rather than a sincere one-to-one communication. Here's what a recent email looked like when viewed in Mail on iOS: And here's what it looked like in Mail on macOS. The difference is more subtle, but the text of [MAJOR METROPOLITAN AREA] is still smaller (capital letters are 25px instead of 28px). Also one of them is Arial and the other is Helvetica. Now, I know what you're thinking -- normally when someone makes that distinction you know that you're dealing with some kind of font-hipster super-nerd. This is true. But when they're side by side, sometimes even normal people can tell them apart! Here's an easy way to screw up like this on macOS: Compose an…",
+          "link": "https://www.jwz.org/blog/2021/06/unintentional-forensic-edit-logs-via-font-changes/",
+          "publishedOn": "2021-06-11T17:47:30.000Z",
+          "wordCount": 993,
+          "title": "Unintentional forensic edit logs via font changes"
+        },
+        {
           "id": "https://jwz.org/b/yjoP",
           "author": "jwz",
           "description": "Rep. Louie Gohmert (R-TX) asks whether the Forest Service or the BLM can alter the orbit of the moon or the Earth in order to fight climate change during a House Natural Resources hearing. \"I would have to follow up with you on that, Mr. Gomert.\"",
@@ -241,24 +250,6 @@
           "publishedOn": "2021-05-14T16:38:46.000Z",
           "wordCount": 580,
           "title": "jwz mixtape 227"
-        },
-        {
-          "id": "https://jwz.org/b/yjny",
-          "author": "jwz",
-          "description": "Animated map projections",
-          "link": "https://www.jwz.org/blog/2021/05/animated-map-projections/",
-          "publishedOn": "2021-05-12T20:55:20.000Z",
-          "wordCount": 548,
-          "title": "Animated map projections"
-        },
-        {
-          "id": "https://jwz.org/b/yjnx",
-          "author": "jwz",
-          "description": "Wacky 90s fads!",
-          "link": "https://www.jwz.org/blog/2021/05/wacky-90s-fads/",
-          "publishedOn": "2021-05-12T20:42:18.000Z",
-          "wordCount": 576,
-          "title": "Wacky 90s fads!"
         }
       ]
     },
@@ -298,6 +289,15 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/653708816226140160",
+          "author": null,
+          "description": "cipheramnesia:\n\ncipheramnesia:\n\nI don’t care about hot girl summer, but everyone better fucking be vaccinated by Halloween, feel me? \n\nout of the way hot girl summer \nMonster Fucker Fall is gonna get it",
+          "link": "https://gfzoda.tumblr.com/post/653708816226140160",
+          "publishedOn": "2021-06-11T15:28:28.000Z",
+          "wordCount": 302,
+          "title": "cipheramnesia:cipheramnesia:I don&rsquo;t care about hot girl summer, but everyone better fucking be..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/653639767004758016",
           "author": null,
@@ -648,24 +648,6 @@
           "publishedOn": "2021-05-15T13:16:59.000Z",
           "wordCount": 241,
           "title": "killapunk:\n\none thing ill never forgive fandom for is its constant sacrificing of found family in..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/651028914062458880",
-          "author": null,
-          "description": "airsignpariston:\n\nfunhaver:\n\nok but shonen rly did it with mob man. every protag is just some little boy but mob is the most boy ever and like it makes him so so incredible. like i have a soft spot for all of the sweet and pure protags like tanjiro and deku but like mob isn’t trying to be a superhero or save the world from evil he’s just trying to gain some muscle and talk to his crush and be a good big brother and yes i KNOW that’s the whole point of him and the show i just want to talk about him bc i love him sm for it and yeah",
-          "link": "https://gfzoda.tumblr.com/post/651028914062458880",
-          "publishedOn": "2021-05-13T01:32:34.000Z",
-          "wordCount": 407,
-          "title": "airsignpariston:funhaver:ok but shonen rly did it with mob man. every protag is just some little boy..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/650987388688039936",
-          "author": null,
-          "description": "mysharona1987:",
-          "link": "https://gfzoda.tumblr.com/post/650987388688039936",
-          "publishedOn": "2021-05-12T14:32:32.000Z",
-          "wordCount": 223,
-          "title": "mysharona1987:"
         }
       ]
     },
@@ -674,6 +656,15 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653730656964182016",
+          "author": null,
+          "description": "Has anyone else been getting this ad?? It’s like the only one I see, and I…honestly can’t figure out how to interpret it as anything but advocating for emotional abuse? What does it mean, if not “tired of yelling? Ignore your child until they feel like you don’t care about them!”\n???",
+          "link": "https://curiosityconfusion.tumblr.com/post/653730656964182016",
+          "publishedOn": "2021-06-11T21:15:37.000Z",
+          "wordCount": 119,
+          "title": "Has anyone else been getting this ad?? It&rsquo;s like the only one I see, and I&hellip;honestly..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/653476111759589376",
           "author": null,

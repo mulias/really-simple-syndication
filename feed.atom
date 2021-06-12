@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:19:32.638Z</updated>
+    <updated>2021-06-12T00:16:10.907Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Has anyone else been getting this ad?? It&rsquo;s like the only one I see, and I&hellip;honestly...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653730656964182016</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653730656964182016"/>
+        <updated>2021-06-11T21:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone else been getting this ad?? It’s like the only one I see, and I…honestly can’t figure out how to interpret it as anything but advocating for emotional abuse? What does it mean, if not “tired of yelling? Ignore your child until they feel like you don’t care about them!”
+???]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unintentional forensic edit logs via font changes]]></title>
+        <id>https://jwz.org/b/yjoQ</id>
+        <link href="https://www.jwz.org/blog/2021/06/unintentional-forensic-edit-logs-via-font-changes/"/>
+        <updated>2021-06-11T17:47:30.000Z</updated>
+        <summary type="html"><![CDATA[I always enjoy it when people tell on themselves with their font changes, making it clear that they have sent a hastily-edited form letter rather than a sincere one-to-one communication. Here's what a recent email looked like when viewed in Mail on iOS: And here's what it looked like in Mail on macOS. The difference is more subtle, but the text of [MAJOR METROPOLITAN AREA] is still smaller (capital letters are 25px instead of 28px). Also one of them is Arial and the other is Helvetica. Now, I know what you're thinking -- normally when someone makes that distinction you know that you're dealing with some kind of font-hipster super-nerd. This is true. But when they're side by side, sometimes even normal people can tell them apart! Here's an easy way to screw up like this on macOS: Compose an…]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cipheramnesia:cipheramnesia:I don&rsquo;t care about hot girl summer, but everyone better fucking be...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653708816226140160</id>
+        <link href="https://gfzoda.tumblr.com/post/653708816226140160"/>
+        <updated>2021-06-11T15:28:28.000Z</updated>
+        <summary type="html"><![CDATA[cipheramnesia:
+
+cipheramnesia:
+
+I don’t care about hot girl summer, but everyone better fucking be vaccinated by Halloween, feel me? 
+
+out of the way hot girl summer 
+Monster Fucker Fall is gonna get it]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[red-faced-wolf:kaijuno:Wait this is funnyThis humor is so fucking advanced yet so fucking simple at...]]></title>
         <id>https://gfzoda.tumblr.com/post/653639767004758016</id>
@@ -1284,50 +1322,6 @@ one thing ill never forgive fandom for is its constant sacrificing of found fami
         <summary type="html"><![CDATA[Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[airsignpariston:funhaver:ok but shonen rly did it with mob man. every protag is just some little boy...]]></title>
-        <id>https://gfzoda.tumblr.com/post/651028914062458880</id>
-        <link href="https://gfzoda.tumblr.com/post/651028914062458880"/>
-        <updated>2021-05-13T01:32:34.000Z</updated>
-        <summary type="html"><![CDATA[airsignpariston:
-
-funhaver:
-
-ok but shonen rly did it with mob man. every protag is just some little boy but mob is the most boy ever and like it makes him so so incredible. like i have a soft spot for all of the sweet and pure protags like tanjiro and deku but like mob isn’t trying to be a superhero or save the world from evil he’s just trying to gain some muscle and talk to his crush and be a good big brother and yes i KNOW that’s the whole point of him and the show i just want to talk about him bc i love him sm for it and yeah]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animated map projections]]></title>
-        <id>https://jwz.org/b/yjny</id>
-        <link href="https://www.jwz.org/blog/2021/05/animated-map-projections/"/>
-        <updated>2021-05-12T20:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Animated map projections]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wacky 90s fads!]]></title>
-        <id>https://jwz.org/b/yjnx</id>
-        <link href="https://www.jwz.org/blog/2021/05/wacky-90s-fads/"/>
-        <updated>2021-05-12T20:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Wacky 90s fads!]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mysharona1987:]]></title>
-        <id>https://gfzoda.tumblr.com/post/650987388688039936</id>
-        <link href="https://gfzoda.tumblr.com/post/650987388688039936"/>
-        <updated>2021-05-12T14:32:32.000Z</updated>
-        <summary type="html"><![CDATA[mysharona1987:]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
