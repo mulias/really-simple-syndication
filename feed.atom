@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:16:10.907Z</updated>
+    <updated>2021-06-13T00:21:00.319Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[elymaiis:“If you give a man a fish, he will eat for a day; if you teach a man to fish, he will eat...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653830860795248640</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653830860795248640"/>
+        <updated>2021-06-12T23:48:19.000Z</updated>
+        <summary type="html"><![CDATA[elymaiis:
+
+“If you give a man a fish, he will eat for a day; if you teach a man to fish, he will eat for a lifetime,” but you have done neither. You have stood before us and eaten fish after fish, and chided us for our greed as you have done so. You have cast aside their offal and simultaneously chided us for our waste. You then told us that, coincidentally, you owned the river, and our parents should have gotten us the same if we wanted fish. You gave a man a fish to murder us if we step too close to the river, or speak too loud, or eat a fish from another river. You’ve copyrighted the fishing net. It costs us fish to leave.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spent Fuel Pools]]></title>
+        <id>https://jwz.org/b/yjoU</id>
+        <link href="https://www.jwz.org/blog/2021/06/spent-fuel-pools/"/>
+        <updated>2021-06-12T18:55:39.000Z</updated>
+        <summary type="html"><![CDATA[NullMemories:]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sugary-bowl:
+
+kropotkindersurprise:June 22 2019 - A fascist...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653809037370114049</id>
+        <link href="https://gfzoda.tumblr.com/post/653809037370114049"/>
+        <updated>2021-06-12T18:01:26.000Z</updated>
+        <summary type="html"><![CDATA[sugary-bowl:
+kropotkindersurprise:
+
+June 22 2019 - A fascist trying to pick a fight at Bologna Pride gets more reaction than he bargained for. [video]
+
+
+Exit, pursued by bear.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Web became unreadable]]></title>
+        <id>https://jwz.org/b/yjoS</id>
+        <link href="https://www.jwz.org/blog/2021/06/how-the-web-became-unreadable/"/>
+        <updated>2021-06-12T17:28:10.000Z</updated>
+        <summary type="html"><![CDATA[How the Web became unreadable]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shitshow]]></title>
+        <id>https://jwz.org/b/yjoR</id>
+        <link href="https://www.jwz.org/blog/2021/06/shitshow/"/>
+        <updated>2021-06-12T17:23:49.000Z</updated>
+        <summary type="html"><![CDATA["Ultimate Slip 'N Slide" Production Shut Down Over Explosive Diarrhea. The upcoming TV competition series has shut down indefinitely after up to 40 crew members fell violently ill during production on a remote ranch in Simi Valley, California. The outbreak of "awful explosive diarrhea" left people "collapsing" on set and "being forced to run into port-o-potties." [...] According to an insider, many original crew members are reluctant to return to the shoot and blame the production for not ensuring that fresh, clean water was used on set. Plus side, maybe Ow My Balls will get picked up for a full season.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[theplantqueer:
+sciencevevo:
+
+thyrell:
+
+out: gender reveal party
+in: gender repeal party
+
+
+
+[ID:...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653793552742187008</id>
+        <link href="https://gfzoda.tumblr.com/post/653793552742187008"/>
+        <updated>2021-06-12T13:55:19.000Z</updated>
+        <summary type="html"><![CDATA[theplantqueer:
+
+sciencevevo:
+thyrell:
+out: gender reveal party
+in: gender repeal party
+
+[ID: Laura Jane Grace grinning and burning her birth certificate live on stage /end ID]]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zooterscooter:listening to will wood and the tapeworms like]]></title>
+        <id>https://gfzoda.tumblr.com/post/653793217813331968</id>
+        <link href="https://gfzoda.tumblr.com/post/653793217813331968"/>
+        <updated>2021-06-12T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[zooterscooter:
+
+listening to will wood and the tapeworms like]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[affectionatesuggestion:
+
+let’s go get slurpies together and then go to a park and I’ll push you on...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653753735325106176</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653753735325106176"/>
+        <updated>2021-06-12T03:22:26.000Z</updated>
+        <summary type="html"><![CDATA[affectionatesuggestion:
+let’s go get slurpies together and then go to a park and I’ll push you on the tire swing and we will laugh and laugh until our sides hurt]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Has anyone else been getting this ad?? It&rsquo;s like the only one I see, and I&hellip;honestly...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/653730656964182016</id>

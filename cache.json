@@ -43,6 +43,33 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoU",
+          "author": "jwz",
+          "description": "NullMemories:",
+          "link": "https://www.jwz.org/blog/2021/06/spent-fuel-pools/",
+          "publishedOn": "2021-06-12T18:55:39.000Z",
+          "wordCount": 543,
+          "title": "Spent Fuel Pools"
+        },
+        {
+          "id": "https://jwz.org/b/yjoS",
+          "author": "jwz",
+          "description": "How the Web became unreadable",
+          "link": "https://www.jwz.org/blog/2021/06/how-the-web-became-unreadable/",
+          "publishedOn": "2021-06-12T17:28:10.000Z",
+          "wordCount": 582,
+          "title": "How the Web became unreadable"
+        },
+        {
+          "id": "https://jwz.org/b/yjoR",
+          "author": "jwz",
+          "description": "\"Ultimate Slip 'N Slide\" Production Shut Down Over Explosive Diarrhea. The upcoming TV competition series has shut down indefinitely after up to 40 crew members fell violently ill during production on a remote ranch in Simi Valley, California. The outbreak of \"awful explosive diarrhea\" left people \"collapsing\" on set and \"being forced to run into port-o-potties.\" [...] According to an insider, many original crew members are reluctant to return to the shoot and blame the production for not ensuring that fresh, clean water was used on set. Plus side, maybe Ow My Balls will get picked up for a full season.",
+          "link": "https://www.jwz.org/blog/2021/06/shitshow/",
+          "publishedOn": "2021-06-12T17:23:49.000Z",
+          "wordCount": 686,
+          "title": "Shitshow"
+        },
+        {
           "id": "https://jwz.org/b/yjoQ",
           "author": "jwz",
           "description": "I always enjoy it when people tell on themselves with their font changes, making it clear that they have sent a hastily-edited form letter rather than a sincere one-to-one communication. Here's what a recent email looked like when viewed in Mail on iOS: And here's what it looked like in Mail on macOS. The difference is more subtle, but the text of [MAJOR METROPOLITAN AREA] is still smaller (capital letters are 25px instead of 28px). Also one of them is Arial and the other is Helvetica. Now, I know what you're thinking -- normally when someone makes that distinction you know that you're dealing with some kind of font-hipster super-nerd. This is true. But when they're side by side, sometimes even normal people can tell them apart! Here's an easy way to screw up like this on macOS: Compose an…",
@@ -289,6 +316,33 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/653809037370114049",
+          "author": null,
+          "description": "sugary-bowl:\nkropotkindersurprise:\n\nJune 22 2019 - A fascist trying to pick a fight at Bologna Pride gets more reaction than he bargained for. [video]\n\n\nExit, pursued by bear.",
+          "link": "https://gfzoda.tumblr.com/post/653809037370114049",
+          "publishedOn": "2021-06-12T18:01:26.000Z",
+          "wordCount": 283,
+          "title": "sugary-bowl:\n\nkropotkindersurprise:June 22 2019 - A fascist..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653793552742187008",
+          "author": null,
+          "description": "theplantqueer:\n\nsciencevevo:\nthyrell:\nout: gender reveal party\nin: gender repeal party\n\n[ID: Laura Jane Grace grinning and burning her birth certificate live on stage /end ID]",
+          "link": "https://gfzoda.tumblr.com/post/653793552742187008",
+          "publishedOn": "2021-06-12T13:55:19.000Z",
+          "wordCount": 275,
+          "title": "theplantqueer:\nsciencevevo:\n\nthyrell:\n\nout: gender reveal party\nin: gender repeal party\n\n\n\n[ID:..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653793217813331968",
+          "author": null,
+          "description": "zooterscooter:\n\nlistening to will wood and the tapeworms like",
+          "link": "https://gfzoda.tumblr.com/post/653793217813331968",
+          "publishedOn": "2021-06-12T13:50:00.000Z",
+          "wordCount": 262,
+          "title": "zooterscooter:listening to will wood and the tapeworms like"
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/653708816226140160",
           "author": null,
@@ -656,6 +710,24 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653830860795248640",
+          "author": null,
+          "description": "elymaiis:\n\n“If you give a man a fish, he will eat for a day; if you teach a man to fish, he will eat for a lifetime,” but you have done neither. You have stood before us and eaten fish after fish, and chided us for our greed as you have done so. You have cast aside their offal and simultaneously chided us for our waste. You then told us that, coincidentally, you owned the river, and our parents should have gotten us the same if we wanted fish. You gave a man a fish to murder us if we step too close to the river, or speak too loud, or eat a fish from another river. You’ve copyrighted the fishing net. It costs us fish to leave.",
+          "link": "https://curiosityconfusion.tumblr.com/post/653830860795248640",
+          "publishedOn": "2021-06-12T23:48:19.000Z",
+          "wordCount": 388,
+          "title": "elymaiis:“If you give a man a fish, he will eat for a day; if you teach a man to fish, he will eat..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653753735325106176",
+          "author": null,
+          "description": "affectionatesuggestion:\nlet’s go get slurpies together and then go to a park and I’ll push you on the tire swing and we will laugh and laugh until our sides hurt",
+          "link": "https://curiosityconfusion.tumblr.com/post/653753735325106176",
+          "publishedOn": "2021-06-12T03:22:26.000Z",
+          "wordCount": 269,
+          "title": "affectionatesuggestion:\n\nlet’s go get slurpies together and then go to a park and I’ll push you on..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/653730656964182016",
           "author": null,
