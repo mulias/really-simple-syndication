@@ -43,6 +43,24 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoW",
+          "author": "jwz",
+          "description": "Please enjoy jwz mixtape 228.",
+          "link": "https://www.jwz.org/blog/2021/06/jwz-mixtape-228/",
+          "publishedOn": "2021-06-13T16:57:46.000Z",
+          "wordCount": 548,
+          "title": "jwz mixtape 228"
+        },
+        {
+          "id": "https://jwz.org/b/yjoV",
+          "author": "jwz",
+          "description": "Diver Nearly Swallowed By Humpback Whale: \"I was in his closed mouth for about 30 to 40 seconds before he rose to the surface and spit me out,\" Packard wrote. \"I am very bruised up but have no broken bones.\" [...] \"To be clear, the whale did not want him in its mouth,\" Kerr added, comparing the situation to an open-mouthed biker accidentally inhaling a fly.",
+          "link": "https://www.jwz.org/blog/2021/06/to-be-clear-the-whale-did-not-want-him-in-its-mouth/",
+          "publishedOn": "2021-06-13T06:06:50.000Z",
+          "wordCount": 651,
+          "title": "\"To be clear, the whale did not want him in its mouth\""
+        },
+        {
           "id": "https://jwz.org/b/yjoU",
           "author": "jwz",
           "description": "NullMemories:",
@@ -268,15 +286,6 @@
           "publishedOn": "2021-05-15T20:28:49.000Z",
           "wordCount": 565,
           "title": "DNA Lounge: Wherein we are re-opening!"
-        },
-        {
-          "id": "https://jwz.org/b/yjnz",
-          "author": "jwz",
-          "description": "Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.",
-          "link": "https://www.jwz.org/blog/2021/05/jwz-mixtape-227/",
-          "publishedOn": "2021-05-14T16:38:46.000Z",
-          "wordCount": 580,
-          "title": "jwz mixtape 227"
         }
       ]
     },
@@ -316,6 +325,33 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/653885489528651776",
+          "author": null,
+          "description": "catchymemes:",
+          "link": "https://gfzoda.tumblr.com/post/653885489528651776",
+          "publishedOn": "2021-06-13T14:16:37.000Z",
+          "wordCount": 247,
+          "title": "Astronaut tweets"
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653885461923872768",
+          "author": null,
+          "description": "babyphat05:\n\nMeeting friends is so much harder than people think. Like actually finding a group of people who you can genuinely vibe with and who you can trust is a hard process that can take years on top of years. Making fun of people who may have a harder time meeting friends is whack, it’s really not something that happens overnight.",
+          "link": "https://gfzoda.tumblr.com/post/653885461923872768",
+          "publishedOn": "2021-06-13T14:16:10.000Z",
+          "wordCount": 338,
+          "title": "babyphat05:Meeting friends is so much harder than people think. Like actually finding a group of..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/653885446226608128",
+          "author": null,
+          "description": "dwarvishring:\n\nian mckellen directed these movies actually",
+          "link": "https://gfzoda.tumblr.com/post/653885446226608128",
+          "publishedOn": "2021-06-13T14:15:55.000Z",
+          "wordCount": 264,
+          "title": "dwarvishring:ian mckellen directed these movies actually"
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/653809037370114049",
           "author": null,

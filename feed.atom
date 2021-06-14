@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T00:21:00.319Z</updated>
+    <updated>2021-06-14T00:17:49.762Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[jwz mixtape 228]]></title>
+        <id>https://jwz.org/b/yjoW</id>
+        <link href="https://www.jwz.org/blog/2021/06/jwz-mixtape-228/"/>
+        <updated>2021-06-13T16:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Please enjoy jwz mixtape 228.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronaut tweets]]></title>
+        <id>https://gfzoda.tumblr.com/post/653885489528651776</id>
+        <link href="https://gfzoda.tumblr.com/post/653885489528651776"/>
+        <updated>2021-06-13T14:16:37.000Z</updated>
+        <summary type="html"><![CDATA[catchymemes:]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[babyphat05:Meeting friends is so much harder than people think. Like actually finding a group of...]]></title>
+        <id>https://gfzoda.tumblr.com/post/653885461923872768</id>
+        <link href="https://gfzoda.tumblr.com/post/653885461923872768"/>
+        <updated>2021-06-13T14:16:10.000Z</updated>
+        <summary type="html"><![CDATA[babyphat05:
+
+Meeting friends is so much harder than people think. Like actually finding a group of people who you can genuinely vibe with and who you can trust is a hard process that can take years on top of years. Making fun of people who may have a harder time meeting friends is whack, it’s really not something that happens overnight.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dwarvishring:ian mckellen directed these movies actually]]></title>
+        <id>https://gfzoda.tumblr.com/post/653885446226608128</id>
+        <link href="https://gfzoda.tumblr.com/post/653885446226608128"/>
+        <updated>2021-06-13T14:15:55.000Z</updated>
+        <summary type="html"><![CDATA[dwarvishring:
+
+ian mckellen directed these movies actually]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["To be clear, the whale did not want him in its mouth"]]></title>
+        <id>https://jwz.org/b/yjoV</id>
+        <link href="https://www.jwz.org/blog/2021/06/to-be-clear-the-whale-did-not-want-him-in-its-mouth/"/>
+        <updated>2021-06-13T06:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Diver Nearly Swallowed By Humpback Whale: "I was in his closed mouth for about 30 to 40 seconds before he rose to the surface and spit me out," Packard wrote. "I am very bruised up but have no broken bones." [...] "To be clear, the whale did not want him in its mouth," Kerr added, comparing the situation to an open-mouthed biker accidentally inhaling a fly.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[elymaiis:“If you give a man a fish, he will eat for a day; if you teach a man to fish, he will eat...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/653830860795248640</id>
@@ -1424,16 +1478,6 @@ one thing ill never forgive fandom for is its constant sacrificing of found fami
 one thing ill never forgive fandom for is its constant sacrificing of found family in favor of shipping shipping shipping like just go rub one out and come back and reexamine the material]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jwz mixtape 227]]></title>
-        <id>https://jwz.org/b/yjnz</id>
-        <link href="https://www.jwz.org/blog/2021/05/jwz-mixtape-227/"/>
-        <updated>2021-05-14T16:38:46.000Z</updated>
-        <summary type="html"><![CDATA[Please enjoy jwz mixtape 227. I dunno what happened last month -- my faucet of new music videos seems to have slowed to a trickle for a while there. But, it's back now.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>
