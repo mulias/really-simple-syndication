@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:17:49.762Z</updated>
+    <updated>2021-06-15T00:19:17.089Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Volcano Fortress versus Meteor: Fight!]]></title>
+        <id>https://jwz.org/b/yjoZ</id>
+        <link href="https://www.jwz.org/blog/2021/06/volcano-fortress-versus-meteor-fight/"/>
+        <updated>2021-06-14T19:53:30.000Z</updated>
+        <summary type="html"><![CDATA[The ETA Aquariids were towards the end of their shower on May 27, while the Arietids were at their beginning, so it could have been from either. Both tend to be more visible before dawn. Given that the image was snapped at 11:07 pm local time, the former might be more likely than the latter. The Arietids is one of the most intense meteoroids streams with up to 60 shooting stars an hour but most of them streak through the sky during the daytime so we don't see them.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroes don't eat pussy.]]></title>
+        <id>https://jwz.org/b/yjoY</id>
+        <link href="https://www.jwz.org/blog/2021/06/heroes-dont-eat-pussy/"/>
+        <updated>2021-06-14T19:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Not even Catwoman pussy. "In the third season of 'Harley Quinn' we had a moment where Batman was going down on Catwoman. And DC was like, 'You can't do that. You absolutely cannot do that.' They're like, 'Heroes don't do that.' So, we said, 'Are you saying heroes are just selfish lovers?' They were like, 'No, it's that we sell consumer toys for heroes. It's hard to sell a toy if Batman is also going down on someone.'" The duo compares the series to "The Mary Tyler Moore Show" -- "if Mary killed a bunch of people".]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein we re-open in FOUR DAYS!]]></title>
+        <id>https://jwz.org/b/yjoX</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/06/14.html"/>
+        <updated>2021-06-14T18:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Aaaaahhhhhh it's almost time!! Thanks to another extremely generous donor, we were able to re-surface the main stage, in the same manner as the dance floor! For the first time in the stage's 32 year life, it is actuallly level, and that weird bump in the middle (from a solitary glass block that used to poke through) is gone. Last year I put out a call for people who wanted to paint murals on some of our blank walls, but nothing really came of that, so last week I painted some chevrons on the balcony: I'd still like to get something painted on the walls inside the DNA Pizza and Above DNA restrooms, if only to cut down on the tagging. If you want to volunteer, let us know! Oh yeah, and since I mentioned last week that we could maybe give some old chandeliers a good home, three have shown up …]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tristaniseult:tristaniseult:love looks like the mosaic from ancient rome about a race horse that...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/653947950324695040</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/653947950324695040"/>
+        <updated>2021-06-14T06:49:24.000Z</updated>
+        <summary type="html"><![CDATA[tristaniseult:
+
+tristaniseult:
+
+love looks like the mosaic from ancient rome about a race horse that says: “win or lose, we love you, polidoxus”
+
+love looks like all the people across history who have cared for their pets and named them sweet things like much-beloved or lovely or precious or grain-of-gold. and commissioned for their likenesses to be carved or painted or made into mosaics. bc their affection was so much greater and grander than the constraints of a human lifetime. and some piece of those pets outlasted even their owners in the annals of history. like that’s love]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jwz mixtape 228]]></title>
         <id>https://jwz.org/b/yjoW</id>
@@ -1443,41 +1489,6 @@ queer is literally a slur that means weird and strange
 and I most certainly am weird and strange, what else you got?]]></summary>
         <author>
             <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[smokethereisfire:Richard Calver (1946-) - Dandelions Rejoicing]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/651301886100684800</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/651301886100684800"/>
-        <updated>2021-05-16T01:51:20.000Z</updated>
-        <summary type="html"><![CDATA[smokethereisfire:
-
-Richard Calver (1946-) - Dandelions Rejoicing]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Lounge: Wherein we are re-opening!]]></title>
-        <id>https://jwz.org/b/yjn0</id>
-        <link href="https://www.dnalounge.com/backstage/log/2021/05/15.html"/>
-        <updated>2021-05-15T20:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Ladies and Gentlemen, DNA Lounge will be open for your indoors, in-person festivities on Saturday, June 19th! Our lineup that evening begins with Hubba Hubba Revue at 7pm, the full, seated Big Show; then at 10pm, we bring you the triumphant return of Bootie Mashup! And in Above DNA, Xile Collective presents Lower Underground! Obviously the Feds or the State might pull the rug out from under us on this, but our understanding as of today is that in mid June, all restrictions will be lifted in California, and we get to party like it's 2019. Or, "The Full Florida", as I've been calling it. We are all incredibly excited to invite you back into our house, show you our lovely remodeling and upgrades, and return to something like normalcy -- after having been closed for (what will have been) fourteen months! I'm sure you have questions. I probably don't have answers. We're all still figuring this out. Tickets are on sale now. Oh yeah, and also we're hiring!]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[killapunk:
-
-one thing ill never forgive fandom for is its constant sacrificing of found family in...]]></title>
-        <id>https://gfzoda.tumblr.com/post/651254426098630656</id>
-        <link href="https://gfzoda.tumblr.com/post/651254426098630656"/>
-        <updated>2021-05-15T13:16:59.000Z</updated>
-        <summary type="html"><![CDATA[killapunk:
-one thing ill never forgive fandom for is its constant sacrificing of found family in favor of shipping shipping shipping like just go rub one out and come back and reexamine the material]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>

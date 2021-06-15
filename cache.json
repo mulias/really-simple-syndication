@@ -43,6 +43,33 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoZ",
+          "author": "jwz",
+          "description": "The ETA Aquariids were towards the end of their shower on May 27, while the Arietids were at their beginning, so it could have been from either. Both tend to be more visible before dawn. Given that the image was snapped at 11:07 pm local time, the former might be more likely than the latter. The Arietids is one of the most intense meteoroids streams with up to 60 shooting stars an hour but most of them streak through the sky during the daytime so we don't see them.",
+          "link": "https://www.jwz.org/blog/2021/06/volcano-fortress-versus-meteor-fight/",
+          "publishedOn": "2021-06-14T19:53:30.000Z",
+          "wordCount": 617,
+          "title": "Volcano Fortress versus Meteor: Fight!"
+        },
+        {
+          "id": "https://jwz.org/b/yjoY",
+          "author": "jwz",
+          "description": "Not even Catwoman pussy. \"In the third season of 'Harley Quinn' we had a moment where Batman was going down on Catwoman. And DC was like, 'You can't do that. You absolutely cannot do that.' They're like, 'Heroes don't do that.' So, we said, 'Are you saying heroes are just selfish lovers?' They were like, 'No, it's that we sell consumer toys for heroes. It's hard to sell a toy if Batman is also going down on someone.'\" The duo compares the series to \"The Mary Tyler Moore Show\" -- \"if Mary killed a bunch of people\".",
+          "link": "https://www.jwz.org/blog/2021/06/heroes-dont-eat-pussy/",
+          "publishedOn": "2021-06-14T19:29:50.000Z",
+          "wordCount": 625,
+          "title": "Heroes don't eat pussy."
+        },
+        {
+          "id": "https://jwz.org/b/yjoX",
+          "author": "jwz",
+          "description": "Aaaaahhhhhh it's almost time!! Thanks to another extremely generous donor, we were able to re-surface the main stage, in the same manner as the dance floor! For the first time in the stage's 32 year life, it is actuallly level, and that weird bump in the middle (from a solitary glass block that used to poke through) is gone. Last year I put out a call for people who wanted to paint murals on some of our blank walls, but nothing really came of that, so last week I painted some chevrons on the balcony: I'd still like to get something painted on the walls inside the DNA Pizza and Above DNA restrooms, if only to cut down on the tagging. If you want to volunteer, let us know! Oh yeah, and since I mentioned last week that we could maybe give some old chandeliers a good home, three have shown up …",
+          "link": "https://www.dnalounge.com/backstage/log/2021/06/14.html",
+          "publishedOn": "2021-06-14T18:53:34.000Z",
+          "wordCount": 823,
+          "title": "DNA Lounge: Wherein we re-open in FOUR DAYS!"
+        },
+        {
           "id": "https://jwz.org/b/yjoW",
           "author": "jwz",
           "description": "Please enjoy jwz mixtape 228.",
@@ -277,15 +304,6 @@
           "publishedOn": "2021-05-17T18:25:14.000Z",
           "wordCount": 650,
           "title": "Not a place of honor."
-        },
-        {
-          "id": "https://jwz.org/b/yjn0",
-          "author": "jwz",
-          "description": "Ladies and Gentlemen, DNA Lounge will be open for your indoors, in-person festivities on Saturday, June 19th! Our lineup that evening begins with Hubba Hubba Revue at 7pm, the full, seated Big Show; then at 10pm, we bring you the triumphant return of Bootie Mashup! And in Above DNA, Xile Collective presents Lower Underground! Obviously the Feds or the State might pull the rug out from under us on this, but our understanding as of today is that in mid June, all restrictions will be lifted in California, and we get to party like it's 2019. Or, \"The Full Florida\", as I've been calling it. We are all incredibly excited to invite you back into our house, show you our lovely remodeling and upgrades, and return to something like normalcy -- after having been closed for (what will have been) fourteen months! I'm sure you have questions. I probably don't have answers. We're all still figuring this out. Tickets are on sale now. Oh yeah, and also we're hiring!",
-          "link": "https://www.dnalounge.com/backstage/log/2021/05/15.html",
-          "publishedOn": "2021-05-15T20:28:49.000Z",
-          "wordCount": 565,
-          "title": "DNA Lounge: Wherein we are re-opening!"
         }
       ]
     },
@@ -729,15 +747,6 @@
           "publishedOn": "2021-05-18T00:37:22.000Z",
           "wordCount": 252,
           "title": "maddiesharafian:A Blacksmith’s Dream"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/651254426098630656",
-          "author": null,
-          "description": "killapunk:\none thing ill never forgive fandom for is its constant sacrificing of found family in favor of shipping shipping shipping like just go rub one out and come back and reexamine the material",
-          "link": "https://gfzoda.tumblr.com/post/651254426098630656",
-          "publishedOn": "2021-05-15T13:16:59.000Z",
-          "wordCount": 241,
-          "title": "killapunk:\n\none thing ill never forgive fandom for is its constant sacrificing of found family in..."
         }
       ]
     },
@@ -746,6 +755,15 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/653947950324695040",
+          "author": null,
+          "description": "tristaniseult:\n\ntristaniseult:\n\nlove looks like the mosaic from ancient rome about a race horse that says: “win or lose, we love you, polidoxus”\n\nlove looks like all the people across history who have cared for their pets and named them sweet things like much-beloved or lovely or precious or grain-of-gold. and commissioned for their likenesses to be carved or painted or made into mosaics. bc their affection was so much greater and grander than the constraints of a human lifetime. and some piece of those pets outlasted even their owners in the annals of history. like that’s love",
+          "link": "https://curiosityconfusion.tumblr.com/post/653947950324695040",
+          "publishedOn": "2021-06-14T06:49:24.000Z",
+          "wordCount": 340,
+          "title": "tristaniseult:tristaniseult:love looks like the mosaic from ancient rome about a race horse that..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/653830860795248640",
           "author": null,
@@ -934,15 +952,6 @@
           "publishedOn": "2021-05-16T22:12:42.000Z",
           "wordCount": 275,
           "title": "batmanisagatewaydrug:ah-beans-im-a-transmed:batmanisagatewaydrug:queer is a gender, sexuality,..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/651301886100684800",
-          "author": null,
-          "description": "smokethereisfire:\n\nRichard Calver (1946-) - Dandelions Rejoicing",
-          "link": "https://curiosityconfusion.tumblr.com/post/651301886100684800",
-          "publishedOn": "2021-05-16T01:51:20.000Z",
-          "wordCount": 249,
-          "title": "smokethereisfire:Richard Calver (1946-) - Dandelions Rejoicing"
         }
       ]
     }
