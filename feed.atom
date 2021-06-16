@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T00:19:17.089Z</updated>
+    <updated>2021-06-16T00:18:53.688Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[murielswedding:the thing about self love is you are already doing everything in your day to day to...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654030174749360128</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654030174749360128"/>
+        <updated>2021-06-15T04:36:19.000Z</updated>
+        <summary type="html"><![CDATA[murielswedding:
+
+the thing about self love is you are already doing everything in your day to day to allow yourself to love yourself. if someone else charged your phone, you would appreciate that gesture. if someone else bought or cooked you a meal, you would appreciate that gesture. if someone else did your laundry, you would appreciate that gesture. all of those things are already acts of love to yourself. you don’t have to do anything more to be able to love yourself, you just have to reframe how you think about what you are already doing.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fruitz:]]></title>
+        <id>https://gfzoda.tumblr.com/post/654016118369009665</id>
+        <link href="https://gfzoda.tumblr.com/post/654016118369009665"/>
+        <updated>2021-06-15T00:52:54.000Z</updated>
+        <summary type="html"><![CDATA[fruitz:]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[local-friendlycryptid:anxietyproblem:[ID: A screenshot from Facebook from (@kev Thomas) it says...]]></title>
+        <id>https://gfzoda.tumblr.com/post/654016086334980096</id>
+        <link href="https://gfzoda.tumblr.com/post/654016086334980096"/>
+        <updated>2021-06-15T00:52:24.000Z</updated>
+        <summary type="html"><![CDATA[local-friendlycryptid:
+
+anxietyproblem:
+
+[ID: A screenshot from Facebook from (@kev Thomas) it says “life is a tornado and I’m just a cow being spun around for cinematic value”/END ID]]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volcano Fortress versus Meteor: Fight!]]></title>
         <id>https://jwz.org/b/yjoZ</id>
@@ -1469,26 +1505,6 @@ We oppose US-backed war crimes and the continuing apartheid, including the ongoi
         <summary type="html"><![CDATA[Not a place of honor.]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[batmanisagatewaydrug:ah-beans-im-a-transmed:batmanisagatewaydrug:queer is a gender, sexuality,...]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/651378726843695104</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/651378726843695104"/>
-        <updated>2021-05-16T22:12:42.000Z</updated>
-        <summary type="html"><![CDATA[batmanisagatewaydrug:
-
-ah-beans-im-a-transmed:
-
-batmanisagatewaydrug:
-
-queer is a gender, sexuality, romantic orientation, political alignment, and mission statement, babey
-
-queer is literally a slur that means weird and strange 
-
-and I most certainly am weird and strange, what else you got?]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
         </author>
     </entry>
 </feed>
