@@ -6,6 +6,15 @@
       "siteUrl": "http://www.bay12games.com/dwarves/index.html",
       "articles": [
         {
+          "id": "http://www.bay12games.com/dwarves/index.html#2021-06-15",
+          "author": null,
+          "description": "(Toady One) Here's \r\n\t\r\n\t\tthe last Steam News, concerning beekeeping\r\n\t\r\n, from earlier this month.\r\n\n\r\nSince then, I've mostly been working on the trade screen.  It's basically at a good spot now, though there are various bits that could be added, probably most notably the ability to view items again (it's not compatible with how we have our item sheets set up now, but I can work through it), and a few new lines of text to make the hidden haggling mechanics a little more sensible (to new players, counter-offers feel like they trigger at random, but it's actually based on skill rolls vs. profit/mood, etc.)  Also notably, there are item string filters now.  The little merchant in the top left is so low because creatures can be 64 pixels tall now, and dwarves can even be taller than 32 pixels if they have the right hair style, I think, but I'll probably adjust the positioning for smaller creatures before the end.  These sorts of things add up to make each of these screen rewrites take longer than expected, but another one down brings us that much closer.\r\n\n\r\nNext up we'll probably be looking at finishing the labor rewrite, the workshop profiles, and then how that all connects up e.g. to the military stuff (through e.g. civilian item assignments.)  That's also bound to get a little messy, ha ha.",
+          "link": "http://www.bay12games.com/dwarves/index.html#2021-06-15",
+          "publishedOn": "2021-06-16T01:10:00.000Z",
+          "wordCount": 13676,
+          "title": "06/15/2021"
+        },
+        {
           "id": "http://www.bay12games.com/dwarves/index.html#2021-06-01",
           "author": null,
           "description": "(Toady One) This month, not unusually, there is \r\n\t\r\n\t\ta monthly report.\r\n\t\r\n  Additionally, \r\n\t\r\n\t\ta reply to the Future of the Fortress questions from this month\r\n\t\r\n can be found by following the second link.  Most notably, the apartment move is done.",
@@ -13,15 +22,6 @@
           "publishedOn": "2021-06-01T23:48:00.000Z",
           "wordCount": 13450,
           "title": "06/01/2021"
-        },
-        {
-          "id": "http://www.bay12games.com/dwarves/index.html#2021-05-17",
-          "author": null,
-          "description": "(Toady One) The second Covid shot.  Which is good, because that should convey a healthy chunk of anti-Covidness.  But it has also knocked me out for days, and I've still got insomnia and I physically tire quickly.  Hopefully that'll all pass before too long.  Still moving this month, and it's going to keep slowing everything down to a crawl.  The lease on the old place lapses this month, so we'll get through it one way or another!  \r\n\t\r\n\t\tHere's the Steam news from earlier, with the excellent trade depots and pack critters Patrick drew up.\r\n\t\r\n\r\n\n\r\nHere is an archive of IGN's list of charities helping Palestinian civilians, before it was taken down.  The organizations listed are\r\n\n\r\nPalestine Children's Relief Fund\r\n\n\r\nAnera\r\n\n\r\nUnited Nations Relief and Works Agency\r\n\n\r\nMedical Aid for Palestinians\r\n\n\r\nDoctors Without Borders\r\n\n\r\nWe oppose US-backed war crimes and the continuing apartheid, including the ongoing bombing in Gaza and evictions in Jerusalem and the West Bank.",
-          "link": "http://www.bay12games.com/dwarves/index.html#2021-05-17",
-          "publishedOn": "2021-05-17T19:17:00.000Z",
-          "wordCount": 13412,
-          "title": "05/17/2021"
         }
       ]
     },
@@ -295,15 +295,6 @@
           "publishedOn": "2021-05-21T19:28:26.000Z",
           "wordCount": 905,
           "title": "Fucking Facebook"
-        },
-        {
-          "id": "https://jwz.org/b/yjn1",
-          "author": "jwz",
-          "description": "Not a place of honor.",
-          "link": "https://www.jwz.org/blog/2021/05/not-a-place-of-honor/",
-          "publishedOn": "2021-05-17T18:25:14.000Z",
-          "wordCount": 650,
-          "title": "Not a place of honor."
         }
       ]
     },
@@ -343,6 +334,15 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/654166254196817920",
+          "author": null,
+          "description": "neotrances:\n\ni like being out of the loop on every video game franchise ever bc u guys are on the dash right now like “PEBBLE NEBBLE FROM SUPER SQUIRT GALAXY JUST GOT ANNOUNCED FOR SMASH WORLD” and it means something i think, not to me, but it means a lot to you and thats whats important",
+          "link": "https://gfzoda.tumblr.com/post/654166254196817920",
+          "publishedOn": "2021-06-16T16:39:15.000Z",
+          "wordCount": 304,
+          "title": "neotrances:i like being out of the loop on every video game franchise ever bc u guys are on the dash..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/654016118369009665",
           "author": null,
@@ -747,24 +747,6 @@
           "publishedOn": "2021-05-18T20:02:44.000Z",
           "wordCount": 281,
           "title": "muppethole:muppethole:ursula k le guin was rightall of it, more or less"
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/651479006615584768",
-          "author": null,
-          "description": "guooey:\n\ni love them. they are referred to as godlike in many ancient cultures while at the same time existing as just some guy. the duality… it doesn’t get better than this",
-          "link": "https://gfzoda.tumblr.com/post/651479006615584768",
-          "publishedOn": "2021-05-18T00:46:36.000Z",
-          "wordCount": 292,
-          "title": "guooey:i love them. they are referred to as godlike in many..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/651478425743343616",
-          "author": null,
-          "description": "maddiesharafian:\n\nA Blacksmith’s Dream",
-          "link": "https://gfzoda.tumblr.com/post/651478425743343616",
-          "publishedOn": "2021-05-18T00:37:22.000Z",
-          "wordCount": 252,
-          "title": "maddiesharafian:A Blacksmith’s Dream"
         }
       ]
     },

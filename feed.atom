@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:18:53.688Z</updated>
+    <updated>2021-06-17T00:17:46.852Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[neotrances:i like being out of the loop on every video game franchise ever bc u guys are on the dash...]]></title>
+        <id>https://gfzoda.tumblr.com/post/654166254196817920</id>
+        <link href="https://gfzoda.tumblr.com/post/654166254196817920"/>
+        <updated>2021-06-16T16:39:15.000Z</updated>
+        <summary type="html"><![CDATA[neotrances:
+
+i like being out of the loop on every video game franchise ever bc u guys are on the dash right now like “PEBBLE NEBBLE FROM SUPER SQUIRT GALAXY JUST GOT ANNOUNCED FOR SMASH WORLD” and it means something i think, not to me, but it means a lot to you and thats whats important]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[06/15/2021]]></title>
+        <id>http://www.bay12games.com/dwarves/index.html#2021-06-15</id>
+        <link href="http://www.bay12games.com/dwarves/index.html#2021-06-15"/>
+        <updated>2021-06-16T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[(Toady One) Here's 
+	
+		the last Steam News, concerning beekeeping
+	
+, from earlier this month.
+
+
+Since then, I've mostly been working on the trade screen.  It's basically at a good spot now, though there are various bits that could be added, probably most notably the ability to view items again (it's not compatible with how we have our item sheets set up now, but I can work through it), and a few new lines of text to make the hidden haggling mechanics a little more sensible (to new players, counter-offers feel like they trigger at random, but it's actually based on skill rolls vs. profit/mood, etc.)  Also notably, there are item string filters now.  The little merchant in the top left is so low because creatures can be 64 pixels tall now, and dwarves can even be taller than 32 pixels if they have the right hair style, I think, but I'll probably adjust the positioning for smaller creatures before the end.  These sorts of things add up to make each of these screen rewrites take longer than expected, but another one down brings us that much closer.
+
+
+Next up we'll probably be looking at finishing the labor rewrite, the workshop profiles, and then how that all connects up e.g. to the military stuff (through e.g. civilian item assignments.)  That's also bound to get a little messy, ha ha.]]></summary>
+        <author>
+            <name>Dwarf Fortress Development Log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[murielswedding:the thing about self love is you are already doing everything in your day to day to...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/654030174749360128</id>
@@ -1436,75 +1468,6 @@ ursula k le guin was right
 all of it, more or less]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guooey:i love them. they are referred to as godlike in many...]]></title>
-        <id>https://gfzoda.tumblr.com/post/651479006615584768</id>
-        <link href="https://gfzoda.tumblr.com/post/651479006615584768"/>
-        <updated>2021-05-18T00:46:36.000Z</updated>
-        <summary type="html"><![CDATA[guooey:
-
-i love them. they are referred to as godlike in many ancient cultures while at the same time existing as just some guy. the duality… it doesn’t get better than this]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[maddiesharafian:A Blacksmith’s Dream]]></title>
-        <id>https://gfzoda.tumblr.com/post/651478425743343616</id>
-        <link href="https://gfzoda.tumblr.com/post/651478425743343616"/>
-        <updated>2021-05-18T00:37:22.000Z</updated>
-        <summary type="html"><![CDATA[maddiesharafian:
-
-A Blacksmith’s Dream]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[05/17/2021]]></title>
-        <id>http://www.bay12games.com/dwarves/index.html#2021-05-17</id>
-        <link href="http://www.bay12games.com/dwarves/index.html#2021-05-17"/>
-        <updated>2021-05-17T19:17:00.000Z</updated>
-        <summary type="html"><![CDATA[(Toady One) The second Covid shot.  Which is good, because that should convey a healthy chunk of anti-Covidness.  But it has also knocked me out for days, and I've still got insomnia and I physically tire quickly.  Hopefully that'll all pass before too long.  Still moving this month, and it's going to keep slowing everything down to a crawl.  The lease on the old place lapses this month, so we'll get through it one way or another!  
-	
-		Here's the Steam news from earlier, with the excellent trade depots and pack critters Patrick drew up.
-	
-
-
-
-Here is an archive of IGN's list of charities helping Palestinian civilians, before it was taken down.  The organizations listed are
-
-
-Palestine Children's Relief Fund
-
-
-Anera
-
-
-United Nations Relief and Works Agency
-
-
-Medical Aid for Palestinians
-
-
-Doctors Without Borders
-
-
-We oppose US-backed war crimes and the continuing apartheid, including the ongoing bombing in Gaza and evictions in Jerusalem and the West Bank.]]></summary>
-        <author>
-            <name>Dwarf Fortress Development Log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not a place of honor.]]></title>
-        <id>https://jwz.org/b/yjn1</id>
-        <link href="https://www.jwz.org/blog/2021/05/not-a-place-of-honor/"/>
-        <updated>2021-05-17T18:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Not a place of honor.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>
