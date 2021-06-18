@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:17:46.852Z</updated>
+    <updated>2021-06-18T00:18:55.411Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ewil:delusional-cannibal:
+
+ewil:
+
+murder is bad? even if i say sorry afterwards? even if i am an...]]></title>
+        <id>https://gfzoda.tumblr.com/post/654256590092992512</id>
+        <link href="https://gfzoda.tumblr.com/post/654256590092992512"/>
+        <updated>2021-06-17T16:35:06.000Z</updated>
+        <summary type="html"><![CDATA[ewil:
+
+delusional-cannibal:
+ewil:
+
+
+
+this is the worst website]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[neotrances:i like being out of the loop on every video game franchise ever bc u guys are on the dash...]]></title>
         <id>https://gfzoda.tumblr.com/post/654166254196817920</id>
@@ -1422,50 +1443,6 @@ my gender is 37 axolotls in a top hat]]></title>
         <updated>2021-05-19T14:49:24.000Z</updated>
         <summary type="html"><![CDATA[my-gender-is:
 my gender is 37 axolotls in a top hat]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[42ds:destroyingitself:queeranarchism:rayvenreayes:great-tweets:Beware!Avoid sci-hub too👀From   Ask...]]></title>
-        <id>https://gfzoda.tumblr.com/post/651610411024760832</id>
-        <link href="https://gfzoda.tumblr.com/post/651610411024760832"/>
-        <updated>2021-05-19T11:35:13.000Z</updated>
-        <summary type="html"><![CDATA[42ds:
-
-destroyingitself:
-
-queeranarchism:
-
-rayvenreayes:
-
-great-tweets:
-
-Beware!
-
-Avoid sci-hub too👀
-
-From   Ask for PDFs from People with Institutional Access  
-
-If you want to read an academic article that’s behind a paywall just email the author and ask politely if they will send you the article. Most academics will be thrilled that you want to read their work and will gladly send it to you. 
-
-PSA]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[muppethole:muppethole:ursula k le guin was rightall of it, more or less]]></title>
-        <id>https://gfzoda.tumblr.com/post/651551744967442432</id>
-        <link href="https://gfzoda.tumblr.com/post/651551744967442432"/>
-        <updated>2021-05-18T20:02:44.000Z</updated>
-        <summary type="html"><![CDATA[muppethole:
-
-muppethole:
-
-ursula k le guin was right
-
-all of it, more or less]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
         </author>
