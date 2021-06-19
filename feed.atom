@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T00:18:55.411Z</updated>
+    <updated>2021-06-19T00:18:59.393Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[stardustnarcissus:bisexuality is when u are attracted to both vampires and werewolves]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654367831280009216</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654367831280009216"/>
+        <updated>2021-06-18T22:03:14.000Z</updated>
+        <summary type="html"><![CDATA[stardustnarcissus:
+
+bisexuality is when u are attracted to both vampires and werewolves]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[afronerdism:Prison abolition. Today. Always.]]></title>
+        <id>https://gfzoda.tumblr.com/post/654332073827516416</id>
+        <link href="https://gfzoda.tumblr.com/post/654332073827516416"/>
+        <updated>2021-06-18T12:34:53.000Z</updated>
+        <summary type="html"><![CDATA[afronerdism:
+
+Prison abolition. Today. Always.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ewil:delusional-cannibal:
 
@@ -1381,70 +1405,6 @@ Why do little kids get all the cool clothes?? What if I want a shirt with a 
 stegosaurus driving an excavator on it?? Huh, why does the fashion industry not think about that??]]></summary>
         <author>
             <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[parakeet:parakeet:im eating the gemstones in the museum gift shop i like the taste]]></title>
-        <id>https://gfzoda.tumblr.com/post/651664120250269696</id>
-        <link href="https://gfzoda.tumblr.com/post/651664120250269696"/>
-        <updated>2021-05-20T01:48:54.000Z</updated>
-        <summary type="html"><![CDATA[parakeet:
-
-parakeet:
-
-im eating the gemstones in the museum gift shop i like the taste]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ace-pervert:nerdi-author-girl:
-
-essoreese:
-cwicseolfor:
-
-maculategiraffe:
-
-me, reaching into my...]]></title>
-        <id>https://gfzoda.tumblr.com/post/651632105876504576</id>
-        <link href="https://gfzoda.tumblr.com/post/651632105876504576"/>
-        <updated>2021-05-19T17:20:03.000Z</updated>
-        <summary type="html"><![CDATA[ace-pervert:
-
-nerdi-author-girl:
-essoreese:
-
-cwicseolfor:
-maculategiraffe:
-me, reaching into my dresser drawer for black pants: I hope this isn’t the pair with big holes worn in the inner thighs
-Marie Kondo, gently over my shoulder: why is a pair of pants you find unwearable still in your dresser drawer
-me: oh shit that’s right!!  The dresser is for clothes that under some circumstance I might conceivably wear!!
-Marie Kondo, beaming proudly: Yes, that’s correct!!  These pants must have been your favorites.  How wonderful that they were so comfortable and practical that you wore them out.  But now since they no longer function as pants, you should move them from the drawer where you keep your functioning pants!
-me: Yes thanks I got it they’re in the fabric basket now
-Marie Kondo, fading back into the darkness: I love what you’ve done with the kitchen!!
-The notion of KonMari as some creepy semi-embodied but entirely benevolent spirit, like a well-intentioned Bloody Mary, is so perfect and wonderful. 
-Marie Kondo has the same powers but the exact opposite energy of the Duolingo Owl.
-YES.
-Marie Kondo: Your room isn’t very clean, but that’s okay, I love mess! Does this spark joy?
-Duolingo Owl: I wrote the ransom note in Spanish, and if you have to use Google Translate to read it, your kid gets it. You broke your streak. I’ll break your neck.
-
-
-Marie Kondo holding your child, while standing on the remains of the Duolingo Owl : The Bird did not spark joy]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my-gender-is:
-
-my gender is 37 axolotls in a top hat]]></title>
-        <id>https://gfzoda.tumblr.com/post/651622627892396032</id>
-        <link href="https://gfzoda.tumblr.com/post/651622627892396032"/>
-        <updated>2021-05-19T14:49:24.000Z</updated>
-        <summary type="html"><![CDATA[my-gender-is:
-my gender is 37 axolotls in a top hat]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
