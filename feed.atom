@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:20:20.318Z</updated>
+    <updated>2021-06-21T00:19:37.126Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20jun2021]]></title>
+        <id>https://leahneukirchen.org/trivium/2021-06-20</id>
+        <link href="https://leahneukirchen.org/trivium/2021-06-20"/>
+        <updated>2021-06-20T20:35:49.000Z</updated>
+        <summary type="html"><![CDATA[Let’s Encrypt: certificate lifetimes 90 days plus one second,
+“However, RFC 5280 defines the validity period of a certificate as
+being the duration between the “not before” and the “not after”
+timestamps, inclusive. This inclusivity means that Let’s Encrypt’s
+certificates have all been actually valid for 90 days plus 1 second.”
+Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2, by
+Christof Beierle, Patrick Derbez, Gregor Leander, Gaëtan Leurent,
+Håvard Raddum, Yann Rotella, David Rupprecht, and Lukas Stennes.
+“The attack on GEA-1 is based on an exceptional interaction of the
+deployed LFSRs and the key initialization, which is highly unlikely to
+occur by chance.”
+Celebrating 30 years of Europe’s first root name server,
+“In 1991, the Nordic University Network (NORDUnet) was selected to
+operate the first root name server in Europe.”
+Fitting a FORTH in 512 bytes, really good write-up
+how to implement a Forth on x86 by Jakub Kądziołka.
+Gently down the stream, a gentle introduction to Apache Kafka
+written and illustrated by Mitch Seymour.  Absolutely adorable.
+ARTSEY is a one-handed keyboard system using 8 keys in a 2x4 layout.
+GXemul is a framework for full-system computer architecture emulation.
+Can emulate Motorola 88K.
+Creation of Internet Relay Chat Nicknames and Their Usage in English
+Chatroom Discourse (2011), by Robert Ecker.
+Daedalus: Man’s Greatest Flight,
+flying from Knossos to Santorini in a human-powered aircraft, in 1988.
+Building telemetry for tea aka Tealemetry (2018), by Ben Cox.
+Kaboom, a cruel but fair Minesweeper implementation.
+“If you try to guess, the game will always choose the worst scenario.”]]></summary>
+        <author>
+            <name>Trivium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPads as signage]]></title>
+        <id>https://jwz.org/b/yjoa</id>
+        <link href="https://www.jwz.org/blog/2021/06/ipads-as-signage/"/>
+        <updated>2021-06-20T19:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Dear Lazyweb, As I've got a stack of otherwise-useless old iPads lying around, I'd like to use them for signage: load a web page playing an MP4, don't let the user click on anything. "Guided Access" sounds like it is made for this, but I keep coming back a day or two later and the screen is blanked. It's on wall power and battery is at 100%. Any ideas? Also you can't hide the Safari title bar, which is slightly annoying. There are a ton of "digital signage" apps out there on the app store, but that's a spam-heavy SEO-poisoned concept to search for so I can't tell if any of them actually do anything that I care about that "Safari displaying a web page" doesn't already do.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[spider-shoes:mutuals. c'mere. this is a checkpoint. i am checking in. i am wrapping you in a blanket...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/654460764880535552</id>
@@ -1515,28 +1562,6 @@ I want them to be okay with autistic people being fucking weird when that’s wh
         <link href="https://www.jwz.org/blog/2021/05/burmese-peacock-softshell-turtle/"/>
         <updated>2021-05-22T15:36:00.000Z</updated>
         <summary type="html"><![CDATA[Just spit on your hand and see what's gurgling around in there.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[theywontletmebeprincipal:girl you look like a bloodborne boss (complimentary)]]></title>
-        <id>https://gfzoda.tumblr.com/post/651838370549481472</id>
-        <link href="https://gfzoda.tumblr.com/post/651838370549481472"/>
-        <updated>2021-05-21T23:58:32.000Z</updated>
-        <summary type="html"><![CDATA[theywontletmebeprincipal:
-
-girl you look like a bloodborne boss (complimentary)]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fucking Facebook]]></title>
-        <id>https://jwz.org/b/yjn4</id>
-        <link href="https://www.jwz.org/blog/2021/05/fucking-facebook-4/"/>
-        <updated>2021-05-21T19:28:26.000Z</updated>
-        <summary type="html"><![CDATA[As always, takedowns happen in seconds, and the appeals are processed in just as timely a fashion -- only 1,602 days this time. Fifty-three months! From: Instagram <no-reply@mail.instagram.com> Subject: Your video has been re-posted. Date: Fri, 21 May 2021 11:43:29 -0700 We received your appeal and re-posted the video you originally shared at 1:25 PM on December 31, 2016. View Video]]></summary>
         <author>
             <name>jwz</name>
         </author>

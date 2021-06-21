@@ -43,6 +43,15 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoa",
+          "author": "jwz",
+          "description": "Dear Lazyweb, As I've got a stack of otherwise-useless old iPads lying around, I'd like to use them for signage: load a web page playing an MP4, don't let the user click on anything. \"Guided Access\" sounds like it is made for this, but I keep coming back a day or two later and the screen is blanked. It's on wall power and battery is at 100%. Any ideas? Also you can't hide the Safari title bar, which is slightly annoying. There are a ton of \"digital signage\" apps out there on the app store, but that's a spam-heavy SEO-poisoned concept to search for so I can't tell if any of them actually do anything that I care about that \"Safari displaying a web page\" doesn't already do.",
+          "link": "https://www.jwz.org/blog/2021/06/ipads-as-signage/",
+          "publishedOn": "2021-06-20T19:00:22.000Z",
+          "wordCount": 1013,
+          "title": "iPads as signage"
+        },
+        {
           "id": "https://jwz.org/b/yjoZ",
           "author": "jwz",
           "description": "The ETA Aquariids were towards the end of their shower on May 27, while the Arietids were at their beginning, so it could have been from either. Both tend to be more visible before dawn. Given that the image was snapped at 11:07 pm local time, the former might be more likely than the latter. The Arietids is one of the most intense meteoroids streams with up to 60 shooting stars an hour but most of them streak through the sky during the daytime so we don't see them.",
@@ -286,15 +295,6 @@
             "length": "1168489",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://jwz.org/b/yjn4",
-          "author": "jwz",
-          "description": "As always, takedowns happen in seconds, and the appeals are processed in just as timely a fashion -- only 1,602 days this time. Fifty-three months! From: Instagram <no-reply@mail.instagram.com> Subject: Your video has been re-posted. Date: Fri, 21 May 2021 11:43:29 -0700 We received your appeal and re-posted the video you originally shared at 1:25 PM on December 31, 2016. View Video",
-          "link": "https://www.jwz.org/blog/2021/05/fucking-facebook-4/",
-          "publishedOn": "2021-05-21T19:28:26.000Z",
-          "wordCount": 905,
-          "title": "Fucking Facebook"
         }
       ]
     },
@@ -303,6 +303,15 @@
       "feedUrl": "http://chneukirchen.org/trivium/index.atom",
       "siteUrl": "https://leahneukirchen.org/trivium/",
       "articles": [
+        {
+          "id": "https://leahneukirchen.org/trivium/2021-06-20",
+          "author": null,
+          "description": "Let’s Encrypt: certificate lifetimes 90 days plus one second,\n“However, RFC 5280 defines the validity period of a certificate as\nbeing the duration between the “not before” and the “not after”\ntimestamps, inclusive. This inclusivity means that Let’s Encrypt’s\ncertificates have all been actually valid for 90 days plus 1 second.”\nCryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2, by\nChristof Beierle, Patrick Derbez, Gregor Leander, Gaëtan Leurent,\nHåvard Raddum, Yann Rotella, David Rupprecht, and Lukas Stennes.\n“The attack on GEA-1 is based on an exceptional interaction of the\ndeployed LFSRs and the key initialization, which is highly unlikely to\noccur by chance.”\nCelebrating 30 years of Europe’s first root name server,\n“In 1991, the Nordic University Network (NORDUnet) was selected to\noperate the first root name server in Europe.”\nFitting a FORTH in 512 bytes, really good write-up\nhow to implement a Forth on x86 by Jakub Kądziołka.\nGently down the stream, a gentle introduction to Apache Kafka\nwritten and illustrated by Mitch Seymour.  Absolutely adorable.\nARTSEY is a one-handed keyboard system using 8 keys in a 2x4 layout.\nGXemul is a framework for full-system computer architecture emulation.\nCan emulate Motorola 88K.\nCreation of Internet Relay Chat Nicknames and Their Usage in English\nChatroom Discourse (2011), by Robert Ecker.\nDaedalus: Man’s Greatest Flight,\nflying from Knossos to Santorini in a human-powered aircraft, in 1988.\nBuilding telemetry for tea aka Tealemetry (2018), by Ben Cox.\nKaboom, a cruel but fair Minesweeper implementation.\n“If you try to guess, the game will always choose the worst scenario.”",
+          "link": "https://leahneukirchen.org/trivium/2021-06-20",
+          "publishedOn": "2021-06-20T20:35:49.000Z",
+          "wordCount": 270,
+          "title": "20jun2021"
+        },
         {
           "id": "https://leahneukirchen.org/trivium/2021-06-06",
           "author": null,
@@ -756,15 +765,6 @@
           "publishedOn": "2021-05-24T15:15:25.000Z",
           "wordCount": 347,
           "title": "thetatteredveil:thetatteredveil:books had absolutely no right trying to tell me that swamp hags are..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/651838370549481472",
-          "author": null,
-          "description": "theywontletmebeprincipal:\n\ngirl you look like a bloodborne boss (complimentary)",
-          "link": "https://gfzoda.tumblr.com/post/651838370549481472",
-          "publishedOn": "2021-05-21T23:58:32.000Z",
-          "wordCount": 277,
-          "title": "theywontletmebeprincipal:girl you look like a bloodborne boss (complimentary)"
         }
       ]
     },
