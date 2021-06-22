@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T00:19:37.126Z</updated>
+    <updated>2021-06-22T00:20:12.528Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DNA Lounge: Wherein we did the thing]]></title>
+        <id>https://jwz.org/b/yjod</id>
+        <link href="https://www.dnalounge.com/backstage/log/2021/06/21.html"/>
+        <updated>2021-06-21T21:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Our opening weekend was amazing! All of the events were really fun, and packed. It's nice to be back. The thing that struck me most about our Friday night re-opening party, Turbo Drive, was that it wasn't the usual Turbo Drive crowd. I got the impression that a lot of people said to themselves, "I don't know what synthwave is, but I'm going anyway." And they stuck around, too! Also they all dressed up, but everyone dressed up for a different party. Here's a girl dressed for the symphony, here's a guy dressed for a punk show in 1977, here's Lara Croft swing dancing with Snake Plissken. I very much hope that this wasn't a one-off and that people hold on to that attitude: "I don't know what this is, but let's check it out anyway". Nature is healing and you are allowed to try new things. Then Saturday, we had three events: the early show was Hubba Hubba Revue, followed by Bootie in the main room and Lower Underground in Above DNA. The audiences for these parties were more traditional; it was the usual Hubba, Bootie and dubstep/rave crowds, but, there were nearly twice as many of them as in the Before Times, which was awesome. I had wondered whether people would stil be skittish about being in crowds, and the answer to that is, NOPE. They were happy being absolutely packed in, sweating all over each other. Though all our staff are still wearing masks, I'd say that less than 1% of the customers were. No soft re-entry here: they have embraced the Full Florida. I also very much expected to see some people getting seriously sloppy by about 1am, since everyone is out of practice at drinking in public, but nope again: they mostly held their shit together pretty well! Good form, SF. Our crew were all pretty exhausted by the end. It's going to take a little while to get our sea legs back. And also we are still hiring -- bartenders, security, restaurant and floor. Email jobs@dnalounge.com. Tonight: The Return of Death Guild! Bereft (I am reliably informed) in deathly bloom.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Election Endorsements]]></title>
+        <id>https://jwz.org/b/yjoc</id>
+        <link href="https://www.jwz.org/blog/2021/06/election-endorsements/"/>
+        <updated>2021-06-21T18:14:23.000Z</updated>
+        <summary type="html"><![CDATA[See More Evil: "The sociopath sack race is important to me. To do my part, I left one or two of these around New York."]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in Dunning-Krugerrand news]]></title>
+        <id>https://jwz.org/b/yjob</id>
+        <link href="https://www.jwz.org/blog/2021/06/today-in-dunning-krugerrand-news-5/"/>
+        <updated>2021-06-21T17:57:44.000Z</updated>
+        <summary type="html"><![CDATA[I'm not going to link to the article, but I will just note that it is journalistic malpractice that this headline says "cow poo" instead of "bullshit". I mean, the article that I am not linking to contains other acts of journalistic malpractice as well (credulity, publishing a company press release, pretending that the opinions of billionaire celebrities matter) but the headline is really the cherry on this bullshit sundae.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phoenixwrites:plague-chan-vs-the-world:glumshoe:“influencer” is such a sinister title. it’s got all...]]></title>
+        <id>https://gfzoda.tumblr.com/post/654623564143656960</id>
+        <link href="https://gfzoda.tumblr.com/post/654623564143656960"/>
+        <updated>2021-06-21T17:48:00.000Z</updated>
+        <summary type="html"><![CDATA[phoenixwrites:
+
+plague-chan-vs-the-world:
+
+glumshoe:
+
+“influencer” is such a sinister title. it’s got all the menace of “royal adviser” but none of the raw sex appeal. 
+
+whenever I hear “influencer” I think of this]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fruitytran:]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654573161253355520</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654573161253355520"/>
+        <updated>2021-06-21T04:26:52.000Z</updated>
+        <summary type="html"><![CDATA[fruitytran:]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654572956631072768</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654572956631072768"/>
+        <updated>2021-06-21T04:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Dax, they/them, genderqueer, 27]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20jun2021]]></title>
         <id>https://leahneukirchen.org/trivium/2021-06-20</id>
@@ -1494,74 +1562,6 @@ to be clear yes i think swamp hags are evil im just saying that theyre right]]><
         <link href="https://www.jwz.org/blog/2021/05/tear-gas-drones/"/>
         <updated>2021-05-23T16:08:31.000Z</updated>
         <summary type="html"><![CDATA[The IDF has been using small drones to drop tear gas on protesters in Ramallah in the West Bank.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this...]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/651943493806227456</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/651943493806227456"/>
-        <updated>2021-05-23T03:49:25.000Z</updated>
-        <summary type="html"><![CDATA[I am drunk and holy shit I want attention so bad. Message me? Or send me asks? Or just like this post? Validate my existence? Please?]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[closet-keys:It’s extremely weird how comfortable people are with violence if it wears a police...]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/651941419275124736</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/651941419275124736"/>
-        <updated>2021-05-23T03:16:27.000Z</updated>
-        <summary type="html"><![CDATA[closet-keys:
-
-It’s extremely weird how comfortable people are with violence if it wears a police uniform. Like someone who would be afraid to even raise their voice against a customer and would never dream of shoving someone in intimidation in any situation is somehow simultaneously okay with asking someone to go up and threaten them with a loaded gun and drag them out of the building. If cops weren’t normalized and it was just some random guy, they’d never do it. They wouldn’t turn to their coworker and say “that person’s breaking the store policy, can you take this loaded gun and chase him out of here?” I wish I could snap people out of this cognitive dissonance they have where violence doesn’t count if it comes with a badge.]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ana-bolism:ana-bolism:You know what? I don’t want neurotypicals to see me as “normal.” I want them...]]></title>
-        <id>https://curiosityconfusion.tumblr.com/post/651939753024978944</id>
-        <link href="https://curiosityconfusion.tumblr.com/post/651939753024978944"/>
-        <updated>2021-05-23T02:49:58.000Z</updated>
-        <summary type="html"><![CDATA[ana-bolism:
-
-ana-bolism:
-
-You know what? I don’t want neurotypicals to see me as “normal.” I want them to be okay with my wackiness.
-
-I want them to be okay with autistic people being fucking weird when that’s what we are! I don’t want you to suddenly dismiss our unique behaviours. I want you to be okay with the fact I go extended amounts of time without talking. I want you to be okay with the fact I move my arms in a weird way. I want you to be okay with the fact I will be in genuine pain if I hear that seemingly harmless noise just one more time. I want neurotypicals to be okay with the fact that sometimes, they WILL find autistic people wacky and that we STILL deserve respect regardless.]]></summary>
-        <author>
-            <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Lounge: Wherein we've got dark rum!]]></title>
-        <id>https://jwz.org/b/yjn9</id>
-        <link href="https://www.dnalounge.com/backstage/log/2021/05/22.html"/>
-        <updated>2021-05-22T16:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Please welcome DNA Lounge Brand Dark Rum to the family, complementing our existing selection of Silver Rum, Vodka, Gin, Whiskey and Bourbon. Order your bottle today from DNA Pizza or pick up a bottle in person tonight and collect the whole set!]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XScreenSaver Wayland shenanigans]]></title>
-        <id>https://jwz.org/b/yjn6</id>
-        <link href="https://www.jwz.org/blog/2021/05/xscreensaver-wayland-shenanigans/"/>
-        <updated>2021-05-22T16:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Dear Lazyweb, I've had a couple of people report that after upgrading to Fedora 34, XScreenSaver 6.00 has stopped being able to detect user activity and activates prematurely. From the logs they sent, it looks like the XInput2 extension still exists but has stopped working entirely. No events are printed by driver/test-xinput (with no args, or with -grab -kbd-async -mouse-async). Can anyone confirm or deny this? The server is still X.Org 12101001, however it was launched by sddm / startplasma / Xwayland and the environment contains XDG_SESSION_TYPE=wayland and WAYLAND_DISPLAY=wayland-0. So maybe it's Wayland that is screwing everything up? One user was using Gnome and one was using KDE. Maybe there's a way to configure the system to go back to running "real" X11 instead of whatever fresh hell of X11 / Wayland hybridization this is? Or is there some way for me to infect Raspbian 10.9 with this hybridization so that I can reproduce it myself? Related question: At some point in the distant past, I convinced myself that Wayland was incompatible with XScreenSaver locking, and therefore XScreenSaver refuses to lock when $WAYLAND_DISPLAY is set. I commented this change with "X11 grabs don't work under Wayland's embedded X11 server. The Wayland window manager lives at a higher level than the X11 emulation layer." However, now I can't find any record of what the actual problem was. Do you know? My guess is that it's something like running X11 under macOS: the grabs stay inside the X11 app, but you can still use Cmd-Tab to switch away to non-X11 apps even if X11 thinks things are "locked" inside its little sandbox. But I don't remember.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burmese peacock softshell turtle]]></title>
-        <id>https://jwz.org/b/yjn5</id>
-        <link href="https://www.jwz.org/blog/2021/05/burmese-peacock-softshell-turtle/"/>
-        <updated>2021-05-22T15:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Just spit on your hand and see what's gurgling around in there.]]></summary>
         <author>
             <name>jwz</name>
         </author>
