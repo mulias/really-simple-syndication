@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:20:12.528Z</updated>
+    <updated>2021-06-23T00:18:50.234Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Great moments in autocomplete]]></title>
+        <id>https://jwz.org/b/yjof</id>
+        <link href="https://www.jwz.org/blog/2021/06/great-moments-in-autocomplete/"/>
+        <updated>2021-06-22T21:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes autocomplete makes you really feel seen: And sometimes it's nothing but WTF: The primary completion, "Lisa R", is someone I have not exchanged email with in probably 15 years. "Lisa H" is someone I email multiple times a day. They're not even alphabetical!!]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in Nut Heist News]]></title>
+        <id>https://jwz.org/b/yjoe</id>
+        <link href="https://www.jwz.org/blog/2021/06/today-in-nut-heist-news/"/>
+        <updated>2021-06-22T18:23:29.000Z</updated>
+        <summary type="html"><![CDATA[California man stole 42,000 pounds of pistachios: Nuts are an ideal high-priced items to steal and resell because unlike electronic devices, pistachios don't have serial numbers -- making them virtually untraceable. [...] Thieves have used forged documents, fake companies and computer hacking to pose as legitimate truckers. Similarly, the thieves are also able to sell off the product to retailers, who are none the wiser about who is actually receiving the money. [...] When detectives inspected the truck, they found the pistachios siphoned into 2,000-pound sacks -- making it easier for resale, police said. DickKingSmith: Spider monkeys flee the crime scene after committing what we can only assume is some sort of high-rise fruit heist.]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654709827467083776</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654709827467083776"/>
+        <updated>2021-06-22T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Dax, they/them, genderqueer, 27]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA Lounge: Wherein we did the thing]]></title>
         <id>https://jwz.org/b/yjod</id>
@@ -1554,16 +1584,6 @@ books had absolutely no right trying to tell me that swamp hags are villains. th
 to be clear yes i think swamp hags are evil im just saying that theyre right]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tear Gas Drones]]></title>
-        <id>https://jwz.org/b/yjn-</id>
-        <link href="https://www.jwz.org/blog/2021/05/tear-gas-drones/"/>
-        <updated>2021-05-23T16:08:31.000Z</updated>
-        <summary type="html"><![CDATA[The IDF has been using small drones to drop tear gas on protesters in Ramallah in the West Bank.]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>

@@ -43,6 +43,29 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjof",
+          "author": "jwz",
+          "description": "Sometimes autocomplete makes you really feel seen: And sometimes it's nothing but WTF: The primary completion, \"Lisa R\", is someone I have not exchanged email with in probably 15 years. \"Lisa H\" is someone I email multiple times a day. They're not even alphabetical!!",
+          "link": "https://www.jwz.org/blog/2021/06/great-moments-in-autocomplete/",
+          "publishedOn": "2021-06-22T21:03:43.000Z",
+          "wordCount": 654,
+          "title": "Great moments in autocomplete"
+        },
+        {
+          "id": "https://jwz.org/b/yjoe",
+          "author": "jwz",
+          "description": "California man stole 42,000 pounds of pistachios: Nuts are an ideal high-priced items to steal and resell because unlike electronic devices, pistachios don't have serial numbers -- making them virtually untraceable. [...] Thieves have used forged documents, fake companies and computer hacking to pose as legitimate truckers. Similarly, the thieves are also able to sell off the product to retailers, who are none the wiser about who is actually receiving the money. [...] When detectives inspected the truck, they found the pistachios siphoned into 2,000-pound sacks -- making it easier for resale, police said. DickKingSmith: Spider monkeys flee the crime scene after committing what we can only assume is some sort of high-rise fruit heist.",
+          "link": "https://www.jwz.org/blog/2021/06/today-in-nut-heist-news/",
+          "publishedOn": "2021-06-22T18:23:29.000Z",
+          "wordCount": 666,
+          "title": "Today in Nut Heist News",
+          "enclosure": {
+            "url": "https://www.jwz.org/images/2021/fpzwbbctivpg9sfa-2.mp4",
+            "length": "331083",
+            "type": "video/mp4"
+          }
+        },
+        {
           "id": "https://jwz.org/b/yjod",
           "author": "jwz",
           "description": "Our opening weekend was amazing! All of the events were really fun, and packed. It's nice to be back. The thing that struck me most about our Friday night re-opening party, Turbo Drive, was that it wasn't the usual Turbo Drive crowd. I got the impression that a lot of people said to themselves, \"I don't know what synthwave is, but I'm going anyway.\" And they stuck around, too! Also they all dressed up, but everyone dressed up for a different party. Here's a girl dressed for the symphony, here's a guy dressed for a punk show in 1977, here's Lara Croft swing dancing with Snake Plissken. I very much hope that this wasn't a one-off and that people hold on to that attitude: \"I don't know what this is, but let's check it out anyway\". Nature is healing and you are allowed to try new things. Then Saturday, we had three events: the early show was Hubba Hubba Revue, followed by Bootie in the main room and Lower Underground in Above DNA. The audiences for these parties were more traditional; it was the usual Hubba, Bootie and dubstep/rave crowds, but, there were nearly twice as many of them as in the Before Times, which was awesome. I had wondered whether people would stil be skittish about being in crowds, and the answer to that is, NOPE. They were happy being absolutely packed in, sweating all over each other. Though all our staff are still wearing masks, I'd say that less than 1% of the customers were. No soft re-entry here: they have embraced the Full Florida. I also very much expected to see some people getting seriously sloppy by about 1am, since everyone is out of practice at drinking in public, but nope again: they mostly held their shit together pretty well! Good form, SF. Our crew were all pretty exhausted by the end. It's going to take a little while to get our sea legs back. And also we are still hiring -- bartenders, security, restaurant and floor. Email jobs@dnalounge.com. Tonight: The Return of Death Guild! Bereft (I am reliably informed) in deathly bloom.",
@@ -276,20 +299,6 @@
           "publishedOn": "2021-05-24T17:31:49.000Z",
           "wordCount": 314,
           "title": "DNA Lounge: Wherein the construction will continue until morale improves."
-        },
-        {
-          "id": "https://jwz.org/b/yjn-",
-          "author": "jwz",
-          "description": "The IDF has been using small drones to drop tear gas on protesters in Ramallah in the West Bank.",
-          "link": "https://www.jwz.org/blog/2021/05/tear-gas-drones/",
-          "publishedOn": "2021-05-23T16:08:31.000Z",
-          "wordCount": 599,
-          "title": "Tear Gas Drones",
-          "enclosure": {
-            "url": "https://www.jwz.org/images/2021/5ifwwuqnb9w-ypuh.mp4",
-            "length": "572617",
-            "type": "video/mp4"
-          }
         }
       ]
     },
@@ -777,6 +786,15 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/654709827467083776",
+          "author": null,
+          "description": "Dax, they/them, genderqueer, 27",
+          "link": "https://curiosityconfusion.tumblr.com/post/654709827467083776",
+          "publishedOn": "2021-06-22T16:39:07.000Z",
+          "wordCount": 236,
+          "title": "Photo"
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/654573161253355520",
           "author": null,
