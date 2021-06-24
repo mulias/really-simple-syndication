@@ -290,15 +290,6 @@
           "publishedOn": "2021-05-26T03:54:55.000Z",
           "wordCount": 2314,
           "title": "DNA Lounge: Wherein we have a new POS"
-        },
-        {
-          "id": "https://jwz.org/b/yjoB",
-          "author": "jwz",
-          "description": "Here's a final photo of our new dance floor, after being painted and before anyone has thrown up on it, or dragged a road case across it where half of the wheels have been replaced with jagged pieces of sheet metal: We re-surfaced the Above DNA stage. No more burlesque performers complaining about getting splinters in their butts! We replaced the floor in our walk-in fridge. Ten years of dragging beer kegs over it took quite a toll: And we built a new VIP booth. We've replaced the two upstairs 6-person booths with a single 9-person booth. It's raised on a platform like downstairs, and has three benches and is a bit more enclosed than the others: Only 35 more days until we get to invite you back inside!",
-          "link": "https://www.dnalounge.com/backstage/log/2021/05/24.html",
-          "publishedOn": "2021-05-24T17:31:49.000Z",
-          "wordCount": 314,
-          "title": "DNA Lounge: Wherein the construction will continue until morale improves."
         }
       ]
     },
@@ -324,15 +315,6 @@
           "publishedOn": "2021-06-06T19:00:46.000Z",
           "wordCount": 269,
           "title": "06jun2021"
-        },
-        {
-          "id": "https://leahneukirchen.org/trivium/2021-05-24",
-          "author": null,
-          "description": "FragAttacks, a collection of new security vulnerabilities that\naffect Wi-Fi devices.\nCounterexamples in Type Systems, by Stephen Dolan.\nThree Realisms and The Idea of Sheaves (YouTube),\ntalk by David Jaz Myers.\nExplains many complicated terms in a graphical way.\nPepper, a simple and opinionated modal code editor for your terminal.\nStill early but feels pretty nice already.\nbpftrace-2048, because you can.\nBaking Magnetic Recording Tape, sometimes you just have to.\nSoda locomotive\nNEW SESSION",
-          "link": "https://leahneukirchen.org/trivium/2021-05-24",
-          "publishedOn": "2021-05-24T19:22:52.000Z",
-          "wordCount": 88,
-          "title": "24may2021"
         }
       ]
     },
@@ -760,24 +742,6 @@
           "publishedOn": "2021-05-26T13:58:20.000Z",
           "wordCount": 271,
           "title": "wishfishy:respectfulofwomen:John Brosio’s paintings exemplify what I truly mean when I say “it’s..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/652098974296178688",
-          "author": null,
-          "description": "acemer1in:\n\ntheprinceofsnark:\n\naskasexual:\n\noccasionally-gay:\n\nincessant-honking:\n\nbad-puns-n-finger-guns:\n\nice-dispenser:\nbad-puns-n-finger-guns:\n\n2boldlyqueer:\n\nsporkkles-irl:\n\nbill-nye-official-blog:\n\nice-dispenser:\n\nthings i’ll not call you a whore for:\n\nsexual activity\nhow you dress\n\nthings i’ll call you a whore for:\n\nstealing my food \nstealing my lemons\nmy cat likes you more than me\n\nwhy are lemons separate from food op?\n\neveryone knows lemons arent food\n\nlemon stealing whores are a huge issue separate from food stealing whores. there’s a whole documentary about whores stealing lemons from the trees of unsuspecting victims. you can see the first two minutes of it here.\n\n\n\nThats a rickroll. That totally is a fucking rickroll. No fukin way. Not falling for it.\n\ndude, trust me, that isn’t a rick roll. its something worse\n\n\n\nMe to the rest of tumblr after actually watching what was in the link:\n\n…I really don’t know what I was expecting.\n\n\n\nWhat the fuck did i just watch.\n\n\n\nIt- it’s not a Rick  roll \n\n\n\nHave we really reached a time when the Lemon Stealing Whores are no longer common knowledge.",
-          "link": "https://gfzoda.tumblr.com/post/652098974296178688",
-          "publishedOn": "2021-05-24T21:00:43.000Z",
-          "wordCount": 420,
-          "title": "acemer1in:theprinceofsnark:askasexual:occasionally-gay:incessant-honking:bad-puns-n-finger-guns:ice-d..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/652077249951055872",
-          "author": null,
-          "description": "thetatteredveil:\n\nthetatteredveil:\n\nbooks had absolutely no right trying to tell me that swamp hags are villains. the older i get the more i can feel myself yearning to become that bitch baba yaga. i dont want skin and i dont want a system of commerce and currency i want moss for hair and a big bubbling cauldron\n\nto be clear yes i think swamp hags are evil im just saying that theyre right",
-          "link": "https://gfzoda.tumblr.com/post/652077249951055872",
-          "publishedOn": "2021-05-24T15:15:25.000Z",
-          "wordCount": 347,
-          "title": "thetatteredveil:thetatteredveil:books had absolutely no right trying to tell me that swamp hags are..."
         }
       ]
     },
@@ -1032,5 +996,5 @@
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
