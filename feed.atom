@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:15:06.303Z</updated>
+    <updated>2021-06-25T00:20:08.786Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[moveslikekeithrichards:
+
+moveslikekeithrichards:moveslikekeithrichards:i think everything should...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654916743188430848</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654916743188430848"/>
+        <updated>2021-06-24T23:27:57.000Z</updated>
+        <summary type="html"><![CDATA[moveslikekeithrichards:
+moveslikekeithrichards:
+
+moveslikekeithrichards:
+
+i think everything should come in more fun colors & patterns. like everything. houses. cars. appliances. when ur getting a fridge they should give u the option then & there to have a wizard airbrushed onto it. business attire should have dinosaurs on it. why arent there more pink cars
+
+every once in a blue moon i see this bright pink car with a massive tinkerbell decal on the hood & i think that person just Gets It. why cant that be the norm
+
+normalize fun]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Place is not a Place of Honor]]></title>
+        <id>https://jwz.org/b/yjog</id>
+        <link href="https://www.jwz.org/blog/2021/06/this-place-is-not-a-place-of-honor-3/"/>
+        <updated>2021-06-24T18:36:28.000Z</updated>
+        <summary type="html"><![CDATA[When everybody gets to be a princess: Located approximately halfway between Istanbul and Ankara, the empty town consists of hundreds of almost identical castles in various states of completion. Developers meant for these uniform villas to be luxury vacation homes for wealthy tourists when they began construction in 2014. However, when the company went bankrupt in 2018, investors pulled out of the deal which put construction on hold. The development cost a cool $200 million to build thus far. But instead of a grandiose, multi-million dollar retreat, Burj al Babas has become something out of a dystopian novel. [...] "We only need to sell 100 villas to pay off our debt," said Mezher Yerdelen, deputy chair of the Sarot Property Group. "I believe we can get over this crisis in four to five months and partially inaugurate the project in 2019."]]></summary>
+        <author>
+            <name>jwz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jb612:Quote from Welcome to Night Vale]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654840228958339072</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654840228958339072"/>
+        <updated>2021-06-24T03:11:47.000Z</updated>
+        <summary type="html"><![CDATA[jb612:
+
+Quote from Welcome to Night Vale]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haymitch:SSI Restoration Act of 2021i have never made a post like this before but i haven’t seen...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654835438514782208</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654835438514782208"/>
+        <updated>2021-06-24T01:55:39.000Z</updated>
+        <summary type="html"><![CDATA[haymitch:
+
+SSI Restoration Act of 2021
+i have never made a post like this before but i haven’t seen anyone here talk about it yet so i want to at least provide some links because this is extremely important for disabled people with or without benefits in the USA.
+
+link to this tiktok 
+
+
+she doesn’t name the bill in the video but in the comments it’s clarified that the act referred to is the SSI Restoration Act of 2021.
+“The Supplementary Security Income (SSI) Restoration Act of 2021 has been introduced in both the House and the Senate. The bill would improve the lives of millions of SSI beneficiaries around the country, including over 2 million older adults who are living below the federal poverty level due to inadequate benefit levels, and often lose or are denied benefits due to outdated…]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Great moments in autocomplete]]></title>
         <id>https://jwz.org/b/yjof</id>
@@ -1455,16 +1517,6 @@ respectfulofwomen:
 John Brosio’s paintings exemplify what I truly mean when I say “it’s time for crab”.]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Lounge: Wherein we have a new POS]]></title>
-        <id>https://jwz.org/b/yjoC</id>
-        <link href="https://www.dnalounge.com/backstage/log/2021/05/25.html"/>
-        <updated>2021-05-26T03:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Here's the worst part about switching to a new point-of-sale system: buying a whole stack of new iPads. And this is less than half of them. Because of course the perfectly functional iPads we already have are now unsuitable. These things would have been considered supercomputers in the 90s, but I'm to believe that they are so old and obsolete that they are incapable of keeping up with someone clicking the button that says "cheese slice". A task like that obviously requires the absolute bleeding edge. Apple has stopped shipping OS updates for our existing iPads, and vendors don't support old versions of iOS, largely because Apple intentionally makes it nearly impossible for them to do so even if they wanted to. The second worst part is that nobody offers data portability of any kind. If we …]]></summary>
-        <author>
-            <name>jwz</name>
         </author>
     </entry>
 </feed>

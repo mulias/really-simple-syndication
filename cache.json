@@ -43,6 +43,20 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjog",
+          "author": "jwz",
+          "description": "When everybody gets to be a princess: Located approximately halfway between Istanbul and Ankara, the empty town consists of hundreds of almost identical castles in various states of completion. Developers meant for these uniform villas to be luxury vacation homes for wealthy tourists when they began construction in 2014. However, when the company went bankrupt in 2018, investors pulled out of the deal which put construction on hold. The development cost a cool $200 million to build thus far. But instead of a grandiose, multi-million dollar retreat, Burj al Babas has become something out of a dystopian novel. [...] \"We only need to sell 100 villas to pay off our debt,\" said Mezher Yerdelen, deputy chair of the Sarot Property Group. \"I believe we can get over this crisis in four to five months and partially inaugurate the project in 2019.\"",
+          "link": "https://www.jwz.org/blog/2021/06/this-place-is-not-a-place-of-honor-3/",
+          "publishedOn": "2021-06-24T18:36:28.000Z",
+          "wordCount": 854,
+          "title": "This Place is not a Place of Honor",
+          "enclosure": {
+            "url": "https://www.jwz.org/images/2021/5dr1pjije8dywom1.mp4",
+            "length": "36851155",
+            "type": "video/mp4"
+          }
+        },
+        {
           "id": "https://jwz.org/b/yjof",
           "author": "jwz",
           "description": "Sometimes autocomplete makes you really feel seen: And sometimes it's nothing but WTF: The primary completion, \"Lisa R\", is someone I have not exchanged email with in probably 15 years. \"Lisa H\" is someone I email multiple times a day. They're not even alphabetical!!",
@@ -281,15 +295,6 @@
           "publishedOn": "2021-05-26T16:37:42.000Z",
           "wordCount": 471,
           "title": "Suncreen infosec"
-        },
-        {
-          "id": "https://jwz.org/b/yjoC",
-          "author": "jwz",
-          "description": "Here's the worst part about switching to a new point-of-sale system: buying a whole stack of new iPads. And this is less than half of them. Because of course the perfectly functional iPads we already have are now unsuitable. These things would have been considered supercomputers in the 90s, but I'm to believe that they are so old and obsolete that they are incapable of keeping up with someone clicking the button that says \"cheese slice\". A task like that obviously requires the absolute bleeding edge. Apple has stopped shipping OS updates for our existing iPads, and vendors don't support old versions of iOS, largely because Apple intentionally makes it nearly impossible for them to do so even if they wanted to. The second worst part is that nobody offers data portability of any kind. If we …",
-          "link": "https://www.dnalounge.com/backstage/log/2021/05/25.html",
-          "publishedOn": "2021-05-26T03:54:55.000Z",
-          "wordCount": 2314,
-          "title": "DNA Lounge: Wherein we have a new POS"
         }
       ]
     },
@@ -750,6 +755,33 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/654916743188430848",
+          "author": null,
+          "description": "moveslikekeithrichards:\nmoveslikekeithrichards:\n\nmoveslikekeithrichards:\n\ni think everything should come in more fun colors & patterns. like everything. houses. cars. appliances. when ur getting a fridge they should give u the option then & there to have a wizard airbrushed onto it. business attire should have dinosaurs on it. why arent there more pink cars\n\nevery once in a blue moon i see this bright pink car with a massive tinkerbell decal on the hood & i think that person just Gets It. why cant that be the norm\n\nnormalize fun",
+          "link": "https://curiosityconfusion.tumblr.com/post/654916743188430848",
+          "publishedOn": "2021-06-24T23:27:57.000Z",
+          "wordCount": 323,
+          "title": "moveslikekeithrichards:\n\nmoveslikekeithrichards:moveslikekeithrichards:i think everything should..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/654840228958339072",
+          "author": null,
+          "description": "jb612:\n\nQuote from Welcome to Night Vale",
+          "link": "https://curiosityconfusion.tumblr.com/post/654840228958339072",
+          "publishedOn": "2021-06-24T03:11:47.000Z",
+          "wordCount": 240,
+          "title": "jb612:Quote from Welcome to Night Vale"
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/654835438514782208",
+          "author": null,
+          "description": "haymitch:\n\nSSI Restoration Act of 2021\ni have never made a post like this before but i haven’t seen anyone here talk about it yet so i want to at least provide some links because this is extremely important for disabled people with or without benefits in the USA.\n\nlink to this tiktok \n\n\nshe doesn’t name the bill in the video but in the comments it’s clarified that the act referred to is the SSI Restoration Act of 2021.\n“The Supplementary Security Income (SSI) Restoration Act of 2021 has been introduced in both the House and the Senate. The bill would improve the lives of millions of SSI beneficiaries around the country, including over 2 million older adults who are living below the federal poverty level due to inadequate benefit levels, and often lose or are denied benefits due to outdated…",
+          "link": "https://curiosityconfusion.tumblr.com/post/654835438514782208",
+          "publishedOn": "2021-06-24T01:55:39.000Z",
+          "wordCount": 879,
+          "title": "haymitch:SSI Restoration Act of 2021i have never made a post like this before but i haven’t seen..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/654709827467083776",
           "author": null,
