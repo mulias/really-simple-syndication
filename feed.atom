@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:20:08.786Z</updated>
+    <updated>2021-06-26T00:19:12.345Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[06/25/2021]]></title>
+        <id>http://www.bay12games.com/dwarves/index.html#2021-06-25</id>
+        <link href="http://www.bay12games.com/dwarves/index.html#2021-06-25"/>
+        <updated>2021-06-25T20:56:00.000Z</updated>
+        <summary type="html"><![CDATA[(Toady One) The 
+	
+		Steam news from last week
+	
+ has the trade screen image I showed here, but also vertical bars and a floodgate with some flowing water.
+
+
+As we started to think about labor and military stuff, it became natural to just put it all into an info screen with various tabs.  So far I've mostly finished up the coding on the creatures and tasks tabs, which cover the old 'u'nit and 'j'obs screens (aside from the manager, which is now its own tab).  The new creatures tab also covers the animals section of the old 'z' status screens, and the main unit list also has a stress readout so you can easily figure out who is having trouble.
+
+
+Late last April, Zach and Annie also welcomed Princess Josephine of the Northern Lighthouse into their home!  Jojo is very small.  She is also fierce and ridiculous.]]></summary>
+        <author>
+            <name>Dwarf Fortress Development Log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[smoooothbrain:do you ever think about how if you dive into the ocean and go deeper and deeper you...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/654921986076786688</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/654921986076786688"/>
+        <updated>2021-06-25T00:51:17.000Z</updated>
+        <summary type="html"><![CDATA[smoooothbrain:
+
+do you ever think about how if you dive into the ocean and go deeper and deeper you will pass through layers of darker and darker blue until everything is black and cold and the pressure will be so intense that it will kill you without protection but if you keep going you will find little glowing specks of light, and if you go up into the sky and go higher and higher you will pass through layers of darker and darker blue until everything is black and cold and the pressure will be so intense that it will kill you without protection but if you keep going you will find little glowing specks of light]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[moveslikekeithrichards:
 
@@ -1490,31 +1522,6 @@ MSG (more substantial gender)]]></summary>
 p0stmarxed:
 
 Oh okay up until now I’ve just thought Pacific Rim was an okay movie but after hearing Del Toro refused any Pentagon funding for it I’ve changed my mind what a great film]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suncreen infosec]]></title>
-        <id>https://jwz.org/b/yjoD</id>
-        <link href="https://www.jwz.org/blog/2021/05/suncreen-infosec/"/>
-        <updated>2021-05-26T16:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Suncreen infosec]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wishfishy:respectfulofwomen:John Brosio’s paintings exemplify what I truly mean when I say “it’s...]]></title>
-        <id>https://gfzoda.tumblr.com/post/652253593949421568</id>
-        <link href="https://gfzoda.tumblr.com/post/652253593949421568"/>
-        <updated>2021-05-26T13:58:20.000Z</updated>
-        <summary type="html"><![CDATA[wishfishy:
-
-respectfulofwomen:
-
-
-John Brosio’s paintings exemplify what I truly mean when I say “it’s time for crab”.]]></summary>
         <author>
             <name>*incoherent yelling about worms*</name>
         </author>

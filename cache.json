@@ -6,6 +6,15 @@
       "siteUrl": "http://www.bay12games.com/dwarves/index.html",
       "articles": [
         {
+          "id": "http://www.bay12games.com/dwarves/index.html#2021-06-25",
+          "author": null,
+          "description": "(Toady One) The \r\n\t\r\n\t\tSteam news from last week\r\n\t\r\n has the trade screen image I showed here, but also vertical bars and a floodgate with some flowing water.\r\n\n\r\nAs we started to think about labor and military stuff, it became natural to just put it all into an info screen with various tabs.  So far I've mostly finished up the coding on the creatures and tasks tabs, which cover the old 'u'nit and 'j'obs screens (aside from the manager, which is now its own tab).  The new creatures tab also covers the animals section of the old 'z' status screens, and the main unit list also has a stress readout so you can easily figure out who is having trouble.\r\n\n\r\nLate last April, Zach and Annie also welcomed Princess Josephine of the Northern Lighthouse into their home!  Jojo is very small.  She is also fierce and ridiculous.",
+          "link": "http://www.bay12games.com/dwarves/index.html#2021-06-25",
+          "publishedOn": "2021-06-25T20:56:00.000Z",
+          "wordCount": 13821,
+          "title": "06/25/2021"
+        },
+        {
           "id": "http://www.bay12games.com/dwarves/index.html#2021-06-15",
           "author": null,
           "description": "(Toady One) Here's \r\n\t\r\n\t\tthe last Steam News, concerning beekeeping\r\n\t\r\n, from earlier this month.\r\n\n\r\nSince then, I've mostly been working on the trade screen.  It's basically at a good spot now, though there are various bits that could be added, probably most notably the ability to view items again (it's not compatible with how we have our item sheets set up now, but I can work through it), and a few new lines of text to make the hidden haggling mechanics a little more sensible (to new players, counter-offers feel like they trigger at random, but it's actually based on skill rolls vs. profit/mood, etc.)  Also notably, there are item string filters now.  The little merchant in the top left is so low because creatures can be 64 pixels tall now, and dwarves can even be taller than 32 pixels if they have the right hair style, I think, but I'll probably adjust the positioning for smaller creatures before the end.  These sorts of things add up to make each of these screen rewrites take longer than expected, but another one down brings us that much closer.\r\n\n\r\nNext up we'll probably be looking at finishing the labor rewrite, the workshop profiles, and then how that all connects up e.g. to the military stuff (through e.g. civilian item assignments.)  That's also bound to get a little messy, ha ha.",
@@ -286,15 +295,6 @@
           "publishedOn": "2021-05-28T18:05:10.000Z",
           "wordCount": 624,
           "title": "Mannequin Mountain"
-        },
-        {
-          "id": "https://jwz.org/b/yjoD",
-          "author": "jwz",
-          "description": "Suncreen infosec",
-          "link": "https://www.jwz.org/blog/2021/05/suncreen-infosec/",
-          "publishedOn": "2021-05-26T16:37:42.000Z",
-          "wordCount": 471,
-          "title": "Suncreen infosec"
         }
       ]
     },
@@ -738,15 +738,6 @@
           "publishedOn": "2021-05-28T17:40:41.000Z",
           "wordCount": 312,
           "title": "right-2-rebel:p0stmarxed:Oh okay up until now I&rsquo;ve just thought Pacific Rim was an okay movie..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/652253593949421568",
-          "author": null,
-          "description": "wishfishy:\n\nrespectfulofwomen:\n\n\nJohn Brosio’s paintings exemplify what I truly mean when I say “it’s time for crab”.",
-          "link": "https://gfzoda.tumblr.com/post/652253593949421568",
-          "publishedOn": "2021-05-26T13:58:20.000Z",
-          "wordCount": 271,
-          "title": "wishfishy:respectfulofwomen:John Brosio’s paintings exemplify what I truly mean when I say “it’s..."
         }
       ]
     },
@@ -755,6 +746,15 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/654921986076786688",
+          "author": null,
+          "description": "smoooothbrain:\n\ndo you ever think about how if you dive into the ocean and go deeper and deeper you will pass through layers of darker and darker blue until everything is black and cold and the pressure will be so intense that it will kill you without protection but if you keep going you will find little glowing specks of light, and if you go up into the sky and go higher and higher you will pass through layers of darker and darker blue until everything is black and cold and the pressure will be so intense that it will kill you without protection but if you keep going you will find little glowing specks of light",
+          "link": "https://curiosityconfusion.tumblr.com/post/654921986076786688",
+          "publishedOn": "2021-06-25T00:51:17.000Z",
+          "wordCount": 354,
+          "title": "smoooothbrain:do you ever think about how if you dive into the ocean and go deeper and deeper you..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/654916743188430848",
           "author": null,
