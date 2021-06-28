@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:21:19.649Z</updated>
+    <updated>2021-06-28T00:19:38.747Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[tturing:
+alright i did iti guess your taste in men without being a complete asshole (NSFW)]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/655105831503855616</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/655105831503855616"/>
+        <updated>2021-06-27T01:33:26.000Z</updated>
+        <summary type="html"><![CDATA[tturing:
+
+alright i did it
+i guess your taste in men without being a complete asshole (NSFW)]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[such-justice-wow:mathsturbation:
 
@@ -1558,62 +1572,6 @@ sometimes heroism is not in whether or not your actions actually save people, so
         <summary type="html"><![CDATA[We just picked up a 75" TV for super cheap and we're trying to figure out what to do with it. I was thinking maybe we'd set it up vertically (5'6" tall!) and turn it into some kind of "magic mirror" where it does video effects on your reflection or something. Is there any good software out there for that? Any other suggestions? It's very heavy, so using it as an on-stage prop would be a hassle; it needs to be mounted somewhere. We could just stick it in the DNA Pizza window and use it for signage, but that's not very exciting.]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[newtonpermetersquare:So that’s basically how it went down]]></title>
-        <id>https://gfzoda.tumblr.com/post/652518166019342336</id>
-        <link href="https://gfzoda.tumblr.com/post/652518166019342336"/>
-        <updated>2021-05-29T12:03:35.000Z</updated>
-        <summary type="html"><![CDATA[newtonpermetersquare:
-
-So that’s basically how it went down]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[digitaldiscipline:fullyfunctionalminiaturebeehive:garbuge:earrings change your gender not like fully...]]></title>
-        <id>https://gfzoda.tumblr.com/post/652517901573783552</id>
-        <link href="https://gfzoda.tumblr.com/post/652517901573783552"/>
-        <updated>2021-05-29T11:59:23.000Z</updated>
-        <summary type="html"><![CDATA[digitaldiscipline:
-
-fullyfunctionalminiaturebeehive:
-
-garbuge:
-
-earrings change your gender not like fully but they Change it
-
-They’re a flavour enhancer, like salt or soy sauce.
-
-MSG (more substantial gender)]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mannequin Mountain]]></title>
-        <id>https://jwz.org/b/yjoE</id>
-        <link href="https://www.jwz.org/blog/2021/05/mannequin-mountain/"/>
-        <updated>2021-05-28T18:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Body parts, due to their hollow nature, often contain water. We do not want them to leak in your car. You can bring a cordless drill to let "water" out. We often get asked about hands. You are welcome to hands but there is a limit of 5 pairs per customer along with other parts. Under no circumstances whatsoever will you be able to fill your car boot with hands. Please don't ask.]]></summary>
-        <author>
-            <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[right-2-rebel:p0stmarxed:Oh okay up until now I&rsquo;ve just thought Pacific Rim was an okay movie...]]></title>
-        <id>https://gfzoda.tumblr.com/post/652448776910503936</id>
-        <link href="https://gfzoda.tumblr.com/post/652448776910503936"/>
-        <updated>2021-05-28T17:40:41.000Z</updated>
-        <summary type="html"><![CDATA[right-2-rebel:
-
-p0stmarxed:
-
-Oh okay up until now I’ve just thought Pacific Rim was an okay movie but after hearing Del Toro refused any Pentagon funding for it I’ve changed my mind what a great film]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
