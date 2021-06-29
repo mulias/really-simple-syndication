@@ -52,6 +52,29 @@
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
         {
+          "id": "https://jwz.org/b/yjoi",
+          "author": "jwz",
+          "description": "Worst issue of \"Marvel Team-Up\" Ever.",
+          "link": "https://www.jwz.org/blog/2021/06/worst-issue-of-marvel-team-up-ever/",
+          "publishedOn": "2021-06-28T19:02:42.000Z",
+          "wordCount": 681,
+          "title": "Worst issue of \"Marvel Team-Up\" Ever.",
+          "enclosure": {
+            "url": "https://www.jwz.org/images/2021/jesusandspiderman.mp4",
+            "length": "177462",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://jwz.org/b/yjoh",
+          "author": "jwz",
+          "description": "\"Wilma! Where'd you put my electric drill!\" DentalSlim Diet Control is an intra-oral device fitted by a dental professional to the upper and lower back teeth. It uses magnetic devices with unique custom-manufactured locking bolts. It allows the wearer to open their mouths only about 2mm, restricting them to a liquid diet, but it allows free speech and doesn't restrict breathing. [...] The practice of surgically wiring people's jaws shut became popular in the 1980s, but it came with risks; vomiting brought with it the risk of choking and after 9 to 12 months the patients developed gum disease. In some cases, there were continuing issues with restriction of jaw movement and some developed acute psychiatric conditions. [...] \"The beauty of it is that once patients are fitted with the device, after two or three weeks they can have the magnets disengaged. They could then have a period with a less restricted diet and then go back into treatment,\" he says. [...] Patients are given a tool to open the device in an emergency, but none of the study participants needed to use it. Can't wait until these get 0wnz0red like the internet dick cage.",
+          "link": "https://www.jwz.org/blog/2021/06/lowjack-lockjaw/",
+          "publishedOn": "2021-06-28T18:20:29.000Z",
+          "wordCount": 811,
+          "title": "Lowjack Lockjaw"
+        },
+        {
           "id": "https://jwz.org/b/yjog",
           "author": "jwz",
           "description": "When everybody gets to be a princess: Located approximately halfway between Istanbul and Ankara, the empty town consists of hundreds of almost identical castles in various states of completion. Developers meant for these uniform villas to be luxury vacation homes for wealthy tourists when they began construction in 2014. However, when the company went bankrupt in 2018, investors pulled out of the deal which put construction on hold. The development cost a cool $200 million to build thus far. But instead of a grandiose, multi-million dollar retreat, Burj al Babas has become something out of a dystopian novel. [...] \"We only need to sell 100 villas to pay off our debt,\" said Mezher Yerdelen, deputy chair of the Sarot Property Group. \"I believe we can get over this crisis in four to five months and partially inaugurate the project in 2019.\"",
@@ -277,15 +300,6 @@
           "publishedOn": "2021-06-01T18:03:58.000Z",
           "wordCount": 604,
           "title": "Brands"
-        },
-        {
-          "id": "https://jwz.org/b/yjoF",
-          "author": "jwz",
-          "description": "We just picked up a 75\" TV for super cheap and we're trying to figure out what to do with it. I was thinking maybe we'd set it up vertically (5'6\" tall!) and turn it into some kind of \"magic mirror\" where it does video effects on your reflection or something. Is there any good software out there for that? Any other suggestions? It's very heavy, so using it as an on-stage prop would be a hassle; it needs to be mounted somewhere. We could just stick it in the DNA Pizza window and use it for signage, but that's not very exciting.",
-          "link": "https://www.jwz.org/blog/2021/05/what-to-do-with-a-big-tv/",
-          "publishedOn": "2021-05-29T18:44:27.000Z",
-          "wordCount": 774,
-          "title": "What to do with a big TV?"
         }
       ]
     },
@@ -720,6 +734,33 @@
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/655267694208286720",
+          "author": null,
+          "description": "thegreenpea:\n\nfr3ight-train:\n\nacutelesbian:\nfat-thin-skinny:\nacutelesbian:\nA lot of people ask me what my biggest fear is, or what scares me most. And I know they expect an answer like heights, or closed spaces, or people dressed like animals, but how do I tell them that when I was 17 I took a class called Relationships For Life and I learned that most people fall out of love for the same reasons they fell in it. That their lover’s once endearing stubbornness has now become refusal to compromise and their one track mind is now immaturity and their bad habits that you once adored is now money down the drain. Their spontaneity becomes reckless and irresponsible and their feet up on your dash is no longer sexy, just another distraction in your busy life. \nthis fucks me up every single time\nI …",
+          "link": "https://curiosityconfusion.tumblr.com/post/655267694208286720",
+          "publishedOn": "2021-06-28T20:26:10.000Z",
+          "wordCount": 751,
+          "title": "thegreenpea:fr3ight-train:\nacutelesbian:\n\nfat-thin-skinny:\n\nacutelesbian:\n\nA lot of people ask me..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/655252852756873216",
+          "author": null,
+          "description": "douceurs:\nexcerpt from “The Book of Delights” by Ross Gay (transcript under the cut) \n Keep reading",
+          "link": "https://curiosityconfusion.tumblr.com/post/655252852756873216",
+          "publishedOn": "2021-06-28T16:30:16.000Z",
+          "wordCount": 257,
+          "title": "douceurs:\n\nexcerpt from “The Book of Delights” by Ross Gay..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/655192504968282112",
+          "author": null,
+          "description": "eldritchgentleman:\n\njarhead4life:\n\nI swear this looks like a painting.",
+          "link": "https://curiosityconfusion.tumblr.com/post/655192504968282112",
+          "publishedOn": "2021-06-28T00:31:04.000Z",
+          "wordCount": 248,
+          "title": "eldritchgentleman:jarhead4life:I swear this looks like a painting."
+        },
+        {
           "id": "https://curiosityconfusion.tumblr.com/post/655105831503855616",
           "author": null,
           "description": "tturing:\n\nalright i did it\ni guess your taste in men without being a complete asshole (NSFW)",
@@ -1024,24 +1065,6 @@
           "publishedOn": "2021-05-31T05:07:53.000Z",
           "wordCount": 1965,
           "title": "glitter-and-popcorn:oldshrewsburyian:bemusedlybespectacled:\nhazel..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/652579097701187584",
-          "author": null,
-          "description": "bagginshield:\n\nbagginshield:\n\nsomething about needless tragedy when its effectively written and how it works SO well. boromir taking like seven arrows to the chest and continuing to fight and it doesnt save merry and pippin. the fact that merry and pippin were needlessly taken bc the uruks thought they had the ring, which they didnt. there are people in this war willingly sacrificing themselves to distract sauron from frodo and then there are people given no time to think through a plan, doing the best with the few seconds they have and dying with the hope that their actions will protect the people they love. and sometimes it doesnt. boromirs epic final stand did not actually matter, did not give the hobbits a chance to escape. but his final breaths were given with love nonetheless.\n\nsometimes heroism is not in whether or not your actions actually save people, sometimes the glory is simply in the desperate and heartfelt trying",
-          "link": "https://curiosityconfusion.tumblr.com/post/652579097701187584",
-          "publishedOn": "2021-05-30T04:12:04.000Z",
-          "wordCount": 408,
-          "title": "bagginshield:bagginshield:something about needless tragedy when its effectively written and how it..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/652577765592334336",
-          "author": null,
-          "description": "bi-demonboi:",
-          "link": "https://curiosityconfusion.tumblr.com/post/652577765592334336",
-          "publishedOn": "2021-05-30T03:50:54.000Z",
-          "wordCount": 248,
-          "title": "bi-demonboi:"
         }
       ]
     }
