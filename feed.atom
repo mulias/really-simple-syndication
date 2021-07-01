@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T00:18:09.691Z</updated>
+    <updated>2021-07-01T00:21:00.118Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[passionpeachy:passionpeachy:not to be the 1st person to die in a horror movie but I don’t 100%...]]></title>
+        <id>https://gfzoda.tumblr.com/post/655459431021182976</id>
+        <link href="https://gfzoda.tumblr.com/post/655459431021182976"/>
+        <updated>2021-06-30T23:13:44.000Z</updated>
+        <summary type="html"><![CDATA[passionpeachy:
+
+passionpeachy:
+
+not to be the 1st person to die in a horror movie but I don’t 100% believe in ghosts and even if they were real I’m much more afraid of capitalism so I’m considering buying a haunted house in the future if that means it’s at a very reduced cost and it’s gonna take way more than doors suddenly closing to change my mind]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[parliamentrook:lifewithoutcosette:it takes a long time to learn this, I still struggle with it]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/655436317318152192</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/655436317318152192"/>
+        <updated>2021-06-30T17:06:21.000Z</updated>
+        <summary type="html"><![CDATA[parliamentrook:
+
+lifewithoutcosette:
+
+it takes a long time to learn this, I still struggle with it]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[linabeanart:here’s your reminder to let yourself create. not create ‘well’, just create. draw badly....]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/655426934040330240</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/655426934040330240"/>
+        <updated>2021-06-30T14:37:13.000Z</updated>
+        <summary type="html"><![CDATA[linabeanart:
+
+here’s your reminder to let yourself create. not create ‘well’, just create. draw badly. write shitty poems. sing stupid songs. make whatever you want & have a great time doing it. that’s what creation is for. it’s self expression, not perfection]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing PathQuery, Google's Graph Query Language]]></title>
+        <id>http://lambda-the-ultimate.org/introducing-google-path-query</id>
+        <link href="http://lambda-the-ultimate.org/introducing-google-path-query"/>
+        <updated>2021-06-30T13:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Introducing PathQuery, Google's Graph Query Language
+We introduce PathQuery, a graph query language developed to scale with Google's query and data volumes as well as its internal developer community. PathQuery supports flexible and declarative semantics. We have found that this enables query developers to think in a naturally "graphy" design space and to avoid the additional cognitive effort of coordinating numerous joins and subqueries often required to express an equivalent query in a relational space. Despite its traversal-oriented syntactic style, PathQuery has a foundation on a custom variant of relational algebra -- the exposition of which we presently defer -- allowing for the application of both common and novel optimizations. We believe that PathQuery has withstood a "test of time" at Google, under both large scale and low latency requirements. We thus share herein a language design that admits a rigorous declarative semantics, has scaled well in practice, and provides a natural syntax for graph traversals while also admitting complex graph patterns.
+
+Things that are somewhat interesting to me, from an engineering standpoint:
+1. PathQuery has a module/compilation system, enabling re-use of PathQuery modules across projects.  (Someone had mentioned that Google has around 40,000 PathQuery modules already, internally...)
+Also, from a socio-linguistic perspective, Graph Languages are effectively the new Object-Relational Mapping layer, but they solve an interesting organizational problem of allowing multiple teams to code in different languages, without needing to re-write / re-implement entities and mapping configurations in each language.  It's the Old New Thing again...]]></summary>
+        <author>
+            <name>Lambda the Ultimate - Programming Languages Weblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thisgirlshouldbestudying:
+
+Good Omens S2 doesn’t need a plot. I just want to see David Tenant and...]]></title>
+        <id>https://gfzoda.tumblr.com/post/655418577596350464</id>
+        <link href="https://gfzoda.tumblr.com/post/655418577596350464"/>
+        <updated>2021-06-30T12:24:23.000Z</updated>
+        <summary type="html"><![CDATA[thisgirlshouldbestudying:
+Good Omens S2 doesn’t need a plot. I just want to see David Tenant and Michael Sheen being chaotic for as long as possible.]]></summary>
+        <author>
+            <name>*incoherent yelling about worms*</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hjbender:olderthannetfic:olderthannetfic:jemariel:sparkylurkdragon:ao3commentoftheday:Somewhere in...]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/655291017697902592</id>
@@ -1588,18 +1656,6 @@ here are some more flags i made with comic book newsprint textures :-) to get th
 happy pride month i love being bisexual and defining myself as bisexual and i really like how bisexual sounds and the bisexual flag is very pretty]]></summary>
         <author>
             <name>CuriosityConfusion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[teaboot:Old man insults are wild. &ldquo;Slut&rdquo;, &ldquo;Whore&rdquo;, &ldquo;Dumb...]]></title>
-        <id>https://gfzoda.tumblr.com/post/652726713769459712</id>
-        <link href="https://gfzoda.tumblr.com/post/652726713769459712"/>
-        <updated>2021-05-31T19:18:22.000Z</updated>
-        <summary type="html"><![CDATA[teaboot:
-
-Old man insults are wild. “Slut”, “Whore”, “Dumb Bitch”….. Sir, those are respectable occupations. Call me a landlord]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>
