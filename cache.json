@@ -22,15 +22,6 @@
           "publishedOn": "2021-06-16T01:10:00.000Z",
           "wordCount": 13676,
           "title": "06/15/2021"
-        },
-        {
-          "id": "http://www.bay12games.com/dwarves/index.html#2021-06-01",
-          "author": null,
-          "description": "(Toady One) This month, not unusually, there is \r\n\t\r\n\t\ta monthly report.\r\n\t\r\n  Additionally, \r\n\t\r\n\t\ta reply to the Future of the Fortress questions from this month\r\n\t\r\n can be found by following the second link.  Most notably, the apartment move is done.",
-          "link": "http://www.bay12games.com/dwarves/index.html#2021-06-01",
-          "publishedOn": "2021-06-01T23:48:00.000Z",
-          "wordCount": 13450,
-          "title": "06/01/2021"
         }
       ]
     },
@@ -51,6 +42,15 @@
       "feedUrl": "http://www.jwz.org/blog/feed/",
       "siteUrl": "https://www.jwz.org/blog/",
       "articles": [
+        {
+          "id": "https://jwz.org/b/yjoj",
+          "author": "jwz",
+          "description": "mateosfo: \"Wet bulb\" temperature is the temperature + relative humidity at which water stops evaporating off a \"wet\" thermometer bulb. If air is sufficiently humid (saturated w/ water vapor), evaporation will no longer cool the bulb, and it gets continuously hotter. [...] Dry air has essentially infinite capacity to absorb moisture, so, humans can survive in very high temps if the air is dry [...] But, the wet bulb is not about heat, per se. It's about the absorptive capacity of air. A wet bulb temperature in the mid-80s F can, and does, kill humans. Heat waves in the EU & Russia in 2003 and 2010 killed over a hundred thousand people at ~ 82 F. [...] If sweat won't evaporate, our body temp rises, continuously. And when body temp hits ~108, we're dead. For a vulnerable person in wet bulb te…",
+          "link": "https://www.jwz.org/blog/2021/06/wet-bulb-temperature/",
+          "publishedOn": "2021-07-01T04:45:11.000Z",
+          "wordCount": 2419,
+          "title": "Wet Bulb Temperature"
+        },
         {
           "id": "https://jwz.org/b/yjoi",
           "author": "jwz",
@@ -291,15 +291,6 @@
           "publishedOn": "2021-06-03T17:07:12.000Z",
           "wordCount": 930,
           "title": "And you will know my name is THE LORD when you accept my TRACKING COOKIE"
-        },
-        {
-          "id": "https://jwz.org/b/yjoG",
-          "author": "jwz",
-          "description": "\"We here at Weyland-Yutani Corporation would like to wish a happy Pride Month to all of our LGBT colonists on LV-426.\" Also Omni Consumer Products, Cyberdyne Systems, Umbrella Corporation, and Tyrell Corporation.",
-          "link": "https://www.jwz.org/blog/2021/06/brands/",
-          "publishedOn": "2021-06-01T18:03:58.000Z",
-          "wordCount": 604,
-          "title": "Brands"
         }
       ]
     },
@@ -349,6 +340,24 @@
       "feedUrl": "http://gfzoda.tumblr.com/rss",
       "siteUrl": "https://gfzoda.tumblr.com/",
       "articles": [
+        {
+          "id": "https://gfzoda.tumblr.com/post/655545039909437440",
+          "author": null,
+          "description": "dexterjettsters:\n\nwoke up today and chose violence (loving with my full heart and unable to escape the belief that humans may not be inherently good but are capable of great good and that we weren’t meant to live as we are now)",
+          "link": "https://gfzoda.tumblr.com/post/655545039909437440",
+          "publishedOn": "2021-07-01T21:54:27.000Z",
+          "wordCount": 309,
+          "title": "dexterjettsters:woke up today and chose violence (loving with my full heart and unable to escape the..."
+        },
+        {
+          "id": "https://gfzoda.tumblr.com/post/655474426604830720",
+          "author": null,
+          "description": "ariaste:\n\nariaste:\n\nTHE HANDS OF THE EMPEROR by Victoria Goddard!!!! Please read this book, it is my new FAVORITE book, it is the best thing in the entire world and it has literally changed my life. \nIt’s The Goblin Emperor (fealty, ethics, loyalty, the joy of serving a worthy and honorable lord), meets The West Wing (liberal politics, conversations in hallways, the long slow process of making the world better by increments, “Do you have a best friend? Is he smarter than you? Do  you trust him with your life? That’s your chief of staff.”), meets Moana (leaving home to follow the call of a powerful dream, returning home to bring back the dream and the fruits of your labor to your people, community and family, a solo journey across the sea mirrors an internal journey of personal identity).\n\nHere’s the link to buy it on Amazon\nAnd here’s the link to buy the hardback on Bookshop.org (Note: You will see the $42 price tag and wince, but I will point out that it is 900 pages long, which is really like three books, and $42 is not a bad price at all for three books. Just a factor to consider!)\n\nOkay well, this is going VERY well, and we have a discord chat now. Here’s the link: https://discord.gg/NWSDsDMBMk (Link updated 6/29/21)",
+          "link": "https://gfzoda.tumblr.com/post/655474426604830720",
+          "publishedOn": "2021-07-01T03:12:05.000Z",
+          "wordCount": 517,
+          "title": "ariaste:ariaste:THE HANDS OF THE EMPEROR by Victoria Goddard!!!!..."
+        },
         {
           "id": "https://gfzoda.tumblr.com/post/655459431021182976",
           "author": null,
@@ -753,6 +762,15 @@
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
         {
+          "id": "https://curiosityconfusion.tumblr.com/post/655552317539614720",
+          "author": null,
+          "description": "astrodidact:",
+          "link": "https://curiosityconfusion.tumblr.com/post/655552317539614720",
+          "publishedOn": "2021-07-01T23:50:08.000Z",
+          "wordCount": 234,
+          "title": "astrodidact:"
+        },
+        {
           "id": "https://curiosityconfusion.tumblr.com/post/655436317318152192",
           "author": null,
           "description": "parliamentrook:\n\nlifewithoutcosette:\n\nit takes a long time to learn this, I still struggle with it",
@@ -1066,42 +1084,6 @@
           "publishedOn": "2021-06-06T23:14:33.000Z",
           "wordCount": 285,
           "title": "sw-maddie:sw-maddie:the pristine gay/trans experience of communicating to another queer person that..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/652848557009829888",
-          "author": null,
-          "description": "thelasagnamanifesto:\n\nthelasagnamanifesto:\n\nI hope you eat. I hope we both eat\n\nI am cooking. There is sign of food. You are coming to lunch with me. Fork in lovable hand.",
-          "link": "https://curiosityconfusion.tumblr.com/post/652848557009829888",
-          "publishedOn": "2021-06-02T03:35:01.000Z",
-          "wordCount": 280,
-          "title": "thelasagnamanifesto:thelasagnamanifesto:I hope you eat. I hope we both eatI am cooking. There is..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/652840329220964352",
-          "author": null,
-          "description": "parliamentrook:\n\nAnd then it becomes part of the environment, That’s Just Where it Lives, until a bout of cleaning hyperfixation where you have to concentrate really hard on The Thing and the curse is broken.",
-          "link": "https://curiosityconfusion.tumblr.com/post/652840329220964352",
-          "publishedOn": "2021-06-02T01:24:14.000Z",
-          "wordCount": 317,
-          "title": "parliamentrook:And then it becomes part of the environment,..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/652837763534766080",
-          "author": null,
-          "description": "castlesofcards:\n\nhere are some more flags i made with comic book newsprint textures :-) to get the textures i scanned real comics!",
-          "link": "https://curiosityconfusion.tumblr.com/post/652837763534766080",
-          "publishedOn": "2021-06-02T00:43:27.000Z",
-          "wordCount": 253,
-          "title": "castlesofcards:here are some more flags i made with comic book..."
-        },
-        {
-          "id": "https://curiosityconfusion.tumblr.com/post/652808540228026368",
-          "author": null,
-          "description": "sonicrainbooms:\n\nhappy pride month i love being bisexual and defining myself as bisexual and i really like how bisexual sounds and the bisexual flag is very pretty",
-          "link": "https://curiosityconfusion.tumblr.com/post/652808540228026368",
-          "publishedOn": "2021-06-01T16:58:58.000Z",
-          "wordCount": 271,
-          "title": "sonicrainbooms:happy pride month i love being bisexual and defining myself as bisexual and i really..."
         }
       ]
     }
