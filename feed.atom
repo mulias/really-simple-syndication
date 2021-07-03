@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mulias.github.io/really-simple-syndication/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T00:18:11.870Z</updated>
+    <updated>2021-07-03T00:18:20.280Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mulias.github.io/really-simple-syndication/index.html"/>
     <link rel="self" href="https://mulias.github.io/really-simple-syndication/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[flowerais:your future self loves you. they will look through old photos of you with affection, not...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/655572721120460800</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/655572721120460800"/>
+        <updated>2021-07-02T05:14:26.000Z</updated>
+        <summary type="html"><![CDATA[flowerais:
+
+your future self loves you. they will look through old photos of you with affection, not disgust, nor embarrassment. they wish they could tell you stories of your future, of how much you’ll change, of the people you’ll meet, of how you’ll eventually learn to accept yourself, then love yourself. they will read your diary entries and poems and favourite lyrics, heart aching, tears in their eyes. if only you knew… 
+your future self loves you. if only they could show you. they are living proof. you’ll turn out okay after all. they wish they were there to console you, dance with you, and make you write it a hundred times: “I AM LOVED”. they will listen to playlists you made, just to experience you again. they will write you a letter - of forgiveness, longing, reassurance. you will never read it. but you will know.]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apparently I find owning a truck attractive?? I went on a date with a girl and she showed up in an...]]></title>
+        <id>https://curiosityconfusion.tumblr.com/post/655563144362672129</id>
+        <link href="https://curiosityconfusion.tumblr.com/post/655563144362672129"/>
+        <updated>2021-07-02T02:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Apparently I find owning a truck attractive?? I went on a date with a girl and she showed up in an Uber but then later she was like “oh yeah my dad’s car broke down so he took my truck to work” and I was ‘oh she has a truck’
+Things I did not know about myself!]]></summary>
+        <author>
+            <name>CuriosityConfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[07/01/2021]]></title>
+        <id>http://www.bay12games.com/dwarves/index.html#2021-07-01</id>
+        <link href="http://www.bay12games.com/dwarves/index.html#2021-07-01"/>
+        <updated>2021-07-02T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[(Toady One) 
+	
+		A report, for July!
+	
+  
+	
+		 The monthly Q&A as well!
+	
+  
+	
+		 And a Steam news post concerning the new information hub!]]></summary>
+        <author>
+            <name>Dwarf Fortress Development Log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[astrodidact:]]></title>
         <id>https://curiosityconfusion.tumblr.com/post/655552317539614720</id>
@@ -1616,18 +1660,6 @@ I disliked Spongebob as a kid and decided on my own not to watch it. It kept pre
         <summary type="html"><![CDATA[Prayer Posts: Facebook confirmed that the social media platform is currently testing the prayer post feature. "Our mission to give people the power to build community extends to the world's largest community; the faith community," Nona Jones, head of Global Faith Partnerships at Facebook, said in a written statement to Religion News Service. (I can't find any source for these important informations from a site without 'Christian' or 'Religion' in its name, so this may be bullshit.)]]></summary>
         <author>
             <name>jwz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mossworm:bee time]]></title>
-        <id>https://gfzoda.tumblr.com/post/652917645695418368</id>
-        <link href="https://gfzoda.tumblr.com/post/652917645695418368"/>
-        <updated>2021-06-02T21:53:09.000Z</updated>
-        <summary type="html"><![CDATA[mossworm:
-
-bee time]]></summary>
-        <author>
-            <name>*incoherent yelling about worms*</name>
         </author>
     </entry>
 </feed>

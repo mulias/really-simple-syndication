@@ -6,6 +6,15 @@
       "siteUrl": "http://www.bay12games.com/dwarves/index.html",
       "articles": [
         {
+          "id": "http://www.bay12games.com/dwarves/index.html#2021-07-01",
+          "author": null,
+          "description": "(Toady One) \r\n\t\r\n\t\tA report, for July!\r\n\t\r\n  \r\n\t\r\n\t\t The monthly Q&A as well!\r\n\t\r\n  \r\n\t\r\n\t\t And a Steam news post concerning the new information hub!",
+          "link": "http://www.bay12games.com/dwarves/index.html#2021-07-01",
+          "publishedOn": "2021-07-02T00:30:00.000Z",
+          "wordCount": 13841,
+          "title": "07/01/2021"
+        },
+        {
           "id": "http://www.bay12games.com/dwarves/index.html#2021-06-25",
           "author": null,
           "description": "(Toady One) The \r\n\t\r\n\t\tSteam news from last week\r\n\t\r\n has the trade screen image I showed here, but also vertical bars and a floodgate with some flowing water.\r\n\n\r\nAs we started to think about labor and military stuff, it became natural to just put it all into an info screen with various tabs.  So far I've mostly finished up the coding on the creatures and tasks tabs, which cover the old 'u'nit and 'j'obs screens (aside from the manager, which is now its own tab).  The new creatures tab also covers the animals section of the old 'z' status screens, and the main unit list also has a stress readout so you can easily figure out who is having trouble.\r\n\n\r\nLate last April, Zach and Annie also welcomed Princess Josephine of the Northern Lighthouse into their home!  Jojo is very small.  She is also fierce and ridiculous.",
@@ -744,15 +753,6 @@
           "publishedOn": "2021-06-03T21:09:37.000Z",
           "wordCount": 396,
           "title": "monstrousgourmandizingcats:headspace-hotel:headspace-hotel:headspace-hotel:shoutout to everybody who..."
-        },
-        {
-          "id": "https://gfzoda.tumblr.com/post/652917645695418368",
-          "author": null,
-          "description": "mossworm:\n\nbee time",
-          "link": "https://gfzoda.tumblr.com/post/652917645695418368",
-          "publishedOn": "2021-06-02T21:53:09.000Z",
-          "wordCount": 250,
-          "title": "mossworm:bee time"
         }
       ]
     },
@@ -761,6 +761,24 @@
       "feedUrl": "http://curiosityconfusion.tumblr.com/rss",
       "siteUrl": "https://curiosityconfusion.tumblr.com/",
       "articles": [
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/655572721120460800",
+          "author": null,
+          "description": "flowerais:\n\nyour future self loves you. they will look through old photos of you with affection, not disgust, nor embarrassment. they wish they could tell you stories of your future, of how much you’ll change, of the people you’ll meet, of how you’ll eventually learn to accept yourself, then love yourself. they will read your diary entries and poems and favourite lyrics, heart aching, tears in their eyes. if only you knew… \nyour future self loves you. if only they could show you. they are living proof. you’ll turn out okay after all. they wish they were there to console you, dance with you, and make you write it a hundred times: “I AM LOVED”. they will listen to playlists you made, just to experience you again. they will write you a letter - of forgiveness, longing, reassurance. you will never read it. but you will know.",
+          "link": "https://curiosityconfusion.tumblr.com/post/655572721120460800",
+          "publishedOn": "2021-07-02T05:14:26.000Z",
+          "wordCount": 381,
+          "title": "flowerais:your future self loves you. they will look through old photos of you with affection, not..."
+        },
+        {
+          "id": "https://curiosityconfusion.tumblr.com/post/655563144362672129",
+          "author": null,
+          "description": "Apparently I find owning a truck attractive?? I went on a date with a girl and she showed up in an Uber but then later she was like “oh yeah my dad’s car broke down so he took my truck to work” and I was ‘oh she has a truck’\nThings I did not know about myself!",
+          "link": "https://curiosityconfusion.tumblr.com/post/655563144362672129",
+          "publishedOn": "2021-07-02T02:42:13.000Z",
+          "wordCount": 173,
+          "title": "Apparently I find owning a truck attractive?? I went on a date with a girl and she showed up in an..."
+        },
         {
           "id": "https://curiosityconfusion.tumblr.com/post/655552317539614720",
           "author": null,
